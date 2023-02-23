@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Set Waiting Time_modal-backdrop fade show</name>
+   <tag></tag>
+   <elementGuidId>84bad45f-ddd4-4cdf-b964-4b7e80545320</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-backdrop.fade.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0f36cf0-9929-4d7c-b343-c647b25929fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-backdrop fade show</value>
+      <webElementGuid>18c5972d-a528-47ed-98a0-2b1b4422cee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--fixed kt-subheader--solid kt-aside--enabled kt-aside--fixed modal-open&quot;]/div[@class=&quot;modal-backdrop fade show&quot;]</value>
+      <webElementGuid>816d920b-10ea-4bd6-b0f4-07c289a19776</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]</value>
+      <webElementGuid>32ef96f8-f147-41ca-ab86-3111a08dcae9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

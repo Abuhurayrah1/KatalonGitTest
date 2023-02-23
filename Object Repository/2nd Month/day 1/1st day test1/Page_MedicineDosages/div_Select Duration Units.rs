@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Duration Units</name>
+   <tag></tag>
+   <elementGuidId>62b0e6e9-e120-4048-9910-da22d4940816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formMedicineDosages']/div/div[10]/div/div[2]/div/button/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.filter-option-inner-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ecd3239-3d14-41d0-9bd3-2b3a71131324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>17da50cb-c7e3-4efc-a757-2eae6d329e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Duration Units</value>
+      <webElementGuid>52d252b1-3266-4281-92e3-6e2dec3161a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formMedicineDosages&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;dropdown bootstrap-select form-control&quot;]/button[@class=&quot;btn dropdown-toggle btn-light&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>8441ca2e-07ae-4e59-bb36-b7b265ea7b40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formMedicineDosages']/div/div[10]/div/div[2]/div/button/div/div/div</value>
+      <webElementGuid>6b43f86f-7e06-4141-ba0b-198ec171245d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::div[5]</value>
+      <webElementGuid>bb1e3a81-ed9b-4a63-83f0-ec16c104fd77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration Units'])[1]/following::div[5]</value>
+      <webElementGuid>4757426a-8e43-4862-998d-27533589aeb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[1]/preceding::div[4]</value>
+      <webElementGuid>07a468b7-0b36-457f-b79c-afe908a80b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequency'])[1]/preceding::div[4]</value>
+      <webElementGuid>7d274e18-2360-4512-b010-b65b629b56bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div</value>
+      <webElementGuid>236490cd-0409-43d5-812a-01ab01d88bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Duration Units' or . = 'Select Duration Units')]</value>
+      <webElementGuid>810ae202-2b67-463b-b7dd-cdf1ef9ebf1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

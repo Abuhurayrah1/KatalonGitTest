@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Service</name>
+   <tag></tag>
+   <elementGuidId>35d33c99-9077-4ad1-b37f-a7382caab4d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AddDivId']/div[2]/div/div/div[17]/div/div[2]/div/button/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown.bootstrap-select.show-tick.form-control.show > button.btn.dropdown-toggle.btn-light > div.filter-option > div.filter-option-inner > div.filter-option-inner-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cb7a69f1-6c39-4b91-bcde-6acb3bbe9c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>3c6c9e9b-a3a4-4f2b-b557-7f096a068c92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Service</value>
+      <webElementGuid>fcde8965-df48-457d-8b8c-95ae105ebc1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddDivId&quot;)/div[@class=&quot;kt-form kt-form--label-right&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;dropdown bootstrap-select show-tick form-control show&quot;]/button[@class=&quot;btn dropdown-toggle btn-light&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>252f3f5e-00c7-4168-83f2-adc0a4615b19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div/div[17]/div/div[2]/div/button/div/div/div</value>
+      <webElementGuid>1ad04435-e670-4634-b724-189cf2a47ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Charges Type'])[1]/following::div[5]</value>
+      <webElementGuid>188a1ca0-a86c-4519-a0e9-1178535f932a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Out Source'])[1]/following::div[8]</value>
+      <webElementGuid>f0beae9e-6328-4343-b7d8-450640b95583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[2]/preceding::div[2]</value>
+      <webElementGuid>dabd6edc-f477-4965-8014-d6986c6fd9dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[2]/preceding::div[2]</value>
+      <webElementGuid>298412da-04a8-4c93-9df2-97ff704b87d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div/div[2]/div/button/div/div/div</value>
+      <webElementGuid>6998b063-56e9-4c45-b81c-1b1fa2ef2c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Service' or . = 'Service')]</value>
+      <webElementGuid>dd63ce82-d4ee-4882-93e8-478fc9cd8763</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

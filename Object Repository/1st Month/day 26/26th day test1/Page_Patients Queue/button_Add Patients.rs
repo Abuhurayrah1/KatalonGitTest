@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Patients</name>
+   <tag></tag>
+   <elementGuidId>6de94845-948e-4b1f-b12b-883170c1bc70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAddPatient</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnAddPatient']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2a6fbacd-03d8-4cd4-b0a2-f9fbaa2b1c0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnAddPatient</value>
+      <webElementGuid>2b548d7b-2d06-4b1a-be06-80202fcd5650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>151631d9-3ba3-4fd0-b104-1cef7c60545c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Patients</value>
+      <webElementGuid>dc22be40-0901-4597-8633-391fec19542f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAddPatient&quot;)</value>
+      <webElementGuid>ecb229e6-96b2-4720-a3b1-7ff1f388bb70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnAddPatient']</value>
+      <webElementGuid>3891b7a9-63fd-40ba-8d91-e9246d8cb217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div/button[2]</value>
+      <webElementGuid>71ce8f98-9baf-4033-8628-4ab59f36e3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Patients'])[1]/following::button[1]</value>
+      <webElementGuid>10b4582b-9f81-4f5d-9a8f-964856bc6f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::button[2]</value>
+      <webElementGuid>d6720bb2-8250-4cef-bfab-fa0d23b0d6ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Vault'])[1]/preceding::button[1]</value>
+      <webElementGuid>90cb9a1c-f4e9-4e6d-96af-91deb1d21b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Patients']/parent::*</value>
+      <webElementGuid>899c5025-b679-4bf5-8c2c-ed0bdc9a1f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[2]</value>
+      <webElementGuid>f9920b06-baee-4ba2-89ed-0f85aae94e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnAddPatient' and (text() = 'Add Patients' or . = 'Add Patients')]</value>
+      <webElementGuid>c34b6b63-51ff-41fa-bc17-63b82b5e539d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

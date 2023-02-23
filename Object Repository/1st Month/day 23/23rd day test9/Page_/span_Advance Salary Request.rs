@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Advance Salary Request</name>
+   <tag></tag>
+   <elementGuidId>956bea00-c8fe-47ed-801b-0acac39b6a57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_aside_menu']/ul/li[10]/div/ul/li[13]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a8cc53b-ed1d-4947-9ec4-c712d9e47c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link-text</value>
+      <webElementGuid>0494c650-d5a0-4bea-aecf-01ae6c59639c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Advance Salary Request</value>
+      <webElementGuid>362d294e-34c4-4e87-89aa-6c95a975211e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@class=&quot;kt-menu__item kt-menu__item--submenu kt-menu__item--open&quot;]/div[@class=&quot;kt-menu__submenu&quot;]/ul[@class=&quot;kt-menu__subnav&quot;]/li[@class=&quot;kt-menu__item&quot;]/a[@class=&quot;kt-menu__link&quot;]/span[@class=&quot;kt-menu__link-text&quot;]</value>
+      <webElementGuid>22d4e1cb-7899-450f-b478-a86d47d32674</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/ul/li[10]/div/ul/li[13]/a/span</value>
+      <webElementGuid>ed6220c7-f3a2-498d-8fcb-6f6d236dd69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax Slabs'])[1]/following::span[2]</value>
+      <webElementGuid>54f90a0b-209c-41ec-bfdb-f9d96397bc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salary Stages'])[1]/following::span[4]</value>
+      <webElementGuid>7fbe18d8-8d0f-4d23-b705-34986ca3835f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loan Request'])[1]/preceding::span[2]</value>
+      <webElementGuid>f897797c-2904-4904-8971-210f28722593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allowances'])[1]/preceding::span[4]</value>
+      <webElementGuid>b9934605-e4ca-4ea9-8d56-334f5061a29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Advance Salary Request']/parent::*</value>
+      <webElementGuid>d3fe898f-d997-49ee-bae8-08722a0bb991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/div/ul/li[13]/a/span</value>
+      <webElementGuid>bcd5c9b3-7e43-40b9-9a0d-4daf7378acad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Advance Salary Request' or . = 'Advance Salary Request')]</value>
+      <webElementGuid>4972e8c8-adee-43a3-9720-e3674c5d3f2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

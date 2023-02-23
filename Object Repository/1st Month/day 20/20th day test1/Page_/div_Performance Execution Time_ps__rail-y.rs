@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Performance Execution Time_ps__rail-y</name>
+   <tag></tag>
+   <elementGuidId>829497d5-0d49-499c-b719-39fe9555d34a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ps__rail-y</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_aside_menu']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9be5cd68-0403-4b5e-b797-a0b70b1a38f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ps__rail-y</value>
+      <webElementGuid>804fb2be-e641-4cd2-9ddd-33c2fb7438ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/div[@class=&quot;ps__rail-y&quot;]</value>
+      <webElementGuid>39f98045-2173-4e08-8bfe-f607468a1bd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/div[2]</value>
+      <webElementGuid>b4f5521e-53d5-48c3-b329-3447b5df0ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Execution Time'])[1]/following::div[3]</value>
+      <webElementGuid>a6a70be2-b851-45e8-8ebb-b3dda70a28fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Overview'])[1]/following::div[3]</value>
+      <webElementGuid>b0304e59-6427-4c14-9af9-612f6f694932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iHealthCure Medical &amp; Clinical Hospital'])[1]/preceding::div[2]</value>
+      <webElementGuid>8535606f-b02d-4d88-b4cd-b4658c2f05a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>4e9c9058-ae43-4985-94a0-dc9f2aadbf99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

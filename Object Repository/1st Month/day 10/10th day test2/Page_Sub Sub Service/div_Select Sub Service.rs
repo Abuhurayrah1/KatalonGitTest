@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Sub Service</name>
+   <tag></tag>
+   <elementGuidId>aea7f571-b803-4653-b41a-ade56b2dafa4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AddDivId']/div[2]/div/div/div[3]/div/div[2]/div/button/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82b0ae62-91df-4a02-a75a-ea90efd63b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>d6e269dc-48c5-4991-8f75-8641eaf4d49f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Sub Service</value>
+      <webElementGuid>53132e76-1d87-44f0-946c-ebea5e1afa76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddDivId&quot;)/div[@class=&quot;kt-form kt-form--label-right&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;dropdown bootstrap-select form-control Reset&quot;]/button[@class=&quot;btn dropdown-toggle btn-light&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>9fece956-7a42-4c7f-99c1-915d64584c17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div/div[3]/div/div[2]/div/button/div/div/div</value>
+      <webElementGuid>9ea7466a-d49f-4cbe-9ad3-0f2d38fe774e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[5]</value>
+      <webElementGuid>2dceb5c2-63e1-49ea-9094-67aa77d85ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Sub Service'])[3]/preceding::div[2]</value>
+      <webElementGuid>c11199c3-fb3b-4c6f-95a7-e565c8d98a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iliac Artery Angioplasty'])[2]/preceding::div[2]</value>
+      <webElementGuid>c0040ce8-812d-477d-b6f7-2341572c1dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/button/div/div/div</value>
+      <webElementGuid>e4b5bbba-57eb-46f4-a8a6-54af7e2c34d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Sub Service' or . = 'Select Sub Service')]</value>
+      <webElementGuid>fe077b72-0574-4905-8d14-f45b019cbfde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Entitle Vault</name>
+   <tag></tag>
+   <elementGuidId>16f00bbf-b7d3-4006-b0e5-6e3b3a193fce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='current']/div/ul/li[11]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a2c92317-9e92-42cf-9731-4310940f7ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link-text</value>
+      <webElementGuid>6075af38-d347-4160-aa73-d1124828bd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entitle Vault</value>
+      <webElementGuid>e6825a1a-4e6f-4b84-9784-20b3c5aefa9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@id=&quot;current&quot;]/div[@class=&quot;kt-menu__submenu&quot;]/ul[@class=&quot;kt-menu__subnav&quot;]/li[@class=&quot;kt-menu__item&quot;]/a[@class=&quot;kt-menu__link&quot;]/span[@class=&quot;kt-menu__link-text&quot;]</value>
+      <webElementGuid>e8a9a43a-a272-4197-b5b9-71ff0a71e3ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='current']/div/ul/li[11]/a/span</value>
+      <webElementGuid>0c687ca0-e3c2-4b80-90ce-1cd5bd2febb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panel Vault'])[1]/following::span[2]</value>
+      <webElementGuid>04f71783-d1a9-41eb-add8-6be0411f100a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checked In Status'])[1]/following::span[4]</value>
+      <webElementGuid>cc0fbea6-4a3e-426b-b80b-00355e254f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive Vault'])[1]/preceding::span[2]</value>
+      <webElementGuid>64cff70e-d5af-471d-8b66-dba63318979d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Incomplete Info Vault'])[1]/preceding::span[4]</value>
+      <webElementGuid>ce15287f-43c4-4641-a04e-14a2541505b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Entitle Vault']/parent::*</value>
+      <webElementGuid>c40a78be-6c88-4265-bd17-02945ddbc44d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/div/ul/li[11]/a/span</value>
+      <webElementGuid>1ee2988b-a4c2-47ad-b6cb-d9bc384f88a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Entitle Vault' or . = 'Entitle Vault')]</value>
+      <webElementGuid>059085df-0486-48eb-9cde-0b191279574c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

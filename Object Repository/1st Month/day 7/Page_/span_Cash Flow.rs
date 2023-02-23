@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cash Flow</name>
+   <tag></tag>
+   <elementGuidId>21ee6dbc-4a19-4682-9ade-f921c2034dbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_aside_menu']/ul/li[21]/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a967f478-88a6-482a-963c-b42388602a1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link-text</value>
+      <webElementGuid>e99d3e1c-c1ac-48e9-ab3d-e23dc4a8d4e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cash Flow</value>
+      <webElementGuid>a4bf0524-b7ef-44f2-9351-da283e0babd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@class=&quot;kt-menu__item kt-menu__item--submenu kt-menu__item--open&quot;]/div[@class=&quot;kt-menu__submenu&quot;]/ul[@class=&quot;kt-menu__subnav&quot;]/li[@class=&quot;kt-menu__item&quot;]/a[@class=&quot;kt-menu__link&quot;]/span[@class=&quot;kt-menu__link-text&quot;]</value>
+      <webElementGuid>f64a34e6-90ac-42ed-8deb-b77a95da3aef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/ul/li[21]/div/ul/li/a/span</value>
+      <webElementGuid>487966e7-009c-47cc-bbe8-4882e6bd6aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance'])[1]/following::span[3]</value>
+      <webElementGuid>686467a1-a25f-4d2e-90b9-7d406e3a306a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Misc Services Charges'])[1]/following::span[5]</value>
+      <webElementGuid>e2d7f2fa-4908-49c3-be85-c22c396925a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Charges'])[1]/preceding::span[2]</value>
+      <webElementGuid>a2eefebb-9574-41f1-ac89-96adc8c1266e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Payments'])[1]/preceding::span[4]</value>
+      <webElementGuid>2c6c5d20-3797-4859-bf59-a6d718224538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cash Flow']/parent::*</value>
+      <webElementGuid>dd470e15-8ace-428e-a1a6-20ae6a4d7b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[21]/div/ul/li/a/span</value>
+      <webElementGuid>39636567-dc13-488a-81ed-1bdf796d208d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cash Flow' or . = 'Cash Flow')]</value>
+      <webElementGuid>79927443-1e27-438a-8cec-ffd017458660</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

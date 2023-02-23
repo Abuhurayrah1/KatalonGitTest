@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Procedure Team</name>
+   <tag></tag>
+   <elementGuidId>94e58912-28a6-4405-8651-e53a95e7c4de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_aside_menu']/ul/li[17]/div/ul/li[7]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b8671025-9204-422f-b725-78d3e8625bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link-text</value>
+      <webElementGuid>12d1b569-2542-47fe-a1aa-2ae2254c46a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Procedure Team</value>
+      <webElementGuid>b2476bee-9d48-4394-b45c-760cd2e98595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@class=&quot;kt-menu__item kt-menu__item--submenu kt-menu__item--open&quot;]/div[@class=&quot;kt-menu__submenu&quot;]/ul[@class=&quot;kt-menu__subnav&quot;]/li[@class=&quot;kt-menu__item&quot;]/a[@class=&quot;kt-menu__link&quot;]/span[@class=&quot;kt-menu__link-text&quot;]</value>
+      <webElementGuid>2c0ec940-c1e6-402d-b4f0-d48e41238fdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/ul/li[17]/div/ul/li[7]/a/span</value>
+      <webElementGuid>8395f0d0-0f3b-40b5-a535-4129293a815f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Procedure List'])[1]/following::span[2]</value>
+      <webElementGuid>28e8d54c-79af-4ac1-9524-c79feca12338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Procedure Appointment Queue'])[1]/following::span[4]</value>
+      <webElementGuid>811ea50c-96f6-4450-ba09-78bfb5277e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Procedure Reports'])[1]/preceding::span[2]</value>
+      <webElementGuid>83dc5bd1-fcb9-427d-be2c-0e9d2c8a2bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Procedure Reports'])[1]/preceding::span[4]</value>
+      <webElementGuid>964d5aee-1f8e-4f7f-b545-3ea6c40b6a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Procedure Team']/parent::*</value>
+      <webElementGuid>7e1c949e-1184-403c-b837-f8a9de5ec1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[17]/div/ul/li[7]/a/span</value>
+      <webElementGuid>e7301b62-c1b4-4db2-b691-49c4c71e1f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Procedure Team' or . = 'Procedure Team')]</value>
+      <webElementGuid>e8c4df07-4007-46f6-8804-26b19ac80592</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

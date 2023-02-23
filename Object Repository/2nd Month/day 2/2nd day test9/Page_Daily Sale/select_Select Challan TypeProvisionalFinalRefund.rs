@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Challan TypeProvisionalFinalRefund</name>
+   <tag></tag>
+   <elementGuidId>e6238a30-345a-4b36-bc11-7aebe0f26f8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ChallanTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ChallanTypeId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>92a72bc1-f206-4a7f-b535-934acfddd2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>1ef507df-a53b-4908-8a1a-5fc346ddb96f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a774d70d-2c47-4d19-9667-b92500e3769f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ChallanTypeId</value>
+      <webElementGuid>d31a1b1c-0b8b-4c62-a924-7810f54d2393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ChallanTypeId</value>
+      <webElementGuid>340f7d5b-bb50-46f8-b4f4-47645686157a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>62de42ef-bc9f-4fb9-a3a4-9a57b4a937cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Challan Type
+Provisional
+Final
+Refund
+</value>
+      <webElementGuid>10ee09dc-99ea-4317-a0a5-552ae7c19685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ChallanTypeId&quot;)</value>
+      <webElementGuid>82087294-1253-4eca-b826-0275bae91ea8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ChallanTypeId']</value>
+      <webElementGuid>f57c247a-1641-42df-b966-68be7201fcfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formDispenseMedicine']/div/div/div[5]/div/div[2]/div/select</value>
+      <webElementGuid>662a2a77-7ae1-4230-b7a9-bae8edc9b243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Challan Type'])[1]/following::select[1]</value>
+      <webElementGuid>5e4ab958-d57e-4d26-95a2-e70cac021189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency Booking (FOC)'])[2]/following::select[1]</value>
+      <webElementGuid>bfd29240-cbc5-4695-b7d5-93ffd5867a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Challan Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>2b6fd29f-518e-4b16-92ae-7daa5979e4df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Challan Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>cec35491-5485-4359-8475-272a52726555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>7d44770f-3690-4e8c-ad2b-bcbc5378776e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ChallanTypeId' and @name = 'ChallanTypeId' and (text() = 'Select Challan Type
+Provisional
+Final
+Refund
+' or . = 'Select Challan Type
+Provisional
+Final
+Refund
+')]</value>
+      <webElementGuid>9a6de0a5-c287-406c-85b8-b876c3a66b15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

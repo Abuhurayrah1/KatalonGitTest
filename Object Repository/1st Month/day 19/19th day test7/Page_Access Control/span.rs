@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>7aca662c-46e9-4f26-af5c-f6ae8017bdcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='RolesTable']/tbody/tr/td[3]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0eb895b9-ed0d-4245-b2f8-1803dde4d8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RolesTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/label[@class=&quot;kt-checkbox kt-checkbox--brand&quot;]/span[1]</value>
+      <webElementGuid>d6f0c418-1816-4516-a5c8-0282c3d06cda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='RolesTable']/tbody/tr/td[3]/label/span</value>
+      <webElementGuid>37c5f8e1-1b14-48b7-b434-1d4f228f0dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/label/span</value>
+      <webElementGuid>0e5e14d1-e425-45c4-9651-96a573c58423</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

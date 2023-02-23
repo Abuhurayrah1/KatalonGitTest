@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Doctor Management</name>
+   <tag></tag>
+   <elementGuidId>4f2f2b48-3c5d-4e5e-8731-5733c1c2b714</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_aside_menu']/ul/li[13]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>420fb5a4-3422-4ed0-87ad-173c526de756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link-text</value>
+      <webElementGuid>eb8d6141-7b64-49ad-9645-1dcfc02eeeec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doctor Management</value>
+      <webElementGuid>3897782d-99da-4da7-8080-21319df1e47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@class=&quot;kt-menu__item  kt-menu__item--submenu&quot;]/a[@class=&quot;kt-menu__link kt-menu__toggle&quot;]/span[@class=&quot;kt-menu__link-text&quot;]</value>
+      <webElementGuid>82fe4f62-65b1-4e2e-8ed2-729b67da324d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/ul/li[13]/a/span[2]</value>
+      <webElementGuid>dde8bb2f-ceb6-4c8d-b664-1e0deb501185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booked Lab Appointment'])[1]/following::span[2]</value>
+      <webElementGuid>6177cc36-8ee3-405e-a9e0-551f95fee95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booked Services Appointments'])[1]/following::span[4]</value>
+      <webElementGuid>214150e4-223e-4ea2-8c58-c3520abb323f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patients Queue'])[1]/preceding::span[3]</value>
+      <webElementGuid>19b0ec7f-0c17-499f-a56c-6fe6f349f31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specialities'])[1]/preceding::span[5]</value>
+      <webElementGuid>4d32bb9c-02ea-4e0b-bcb0-bb15884fb74f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Doctor Management']/parent::*</value>
+      <webElementGuid>437c70ae-745b-4533-adfc-b5d2bed16452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/a/span[2]</value>
+      <webElementGuid>f725eb91-0a3e-4b6d-9b0d-229a9b973e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Doctor Management' or . = 'Doctor Management')]</value>
+      <webElementGuid>672be3fb-7a40-494e-8b1c-247ef0f20104</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

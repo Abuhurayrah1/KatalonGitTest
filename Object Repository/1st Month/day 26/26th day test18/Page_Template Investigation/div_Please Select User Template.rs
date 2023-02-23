@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please Select User Template</name>
+   <tag></tag>
+   <elementGuidId>82035bbb-8592-4596-8847-7086d8380def</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.filter-option-inner-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='UserTemplateInvestigationForm']/div/div[2]/div/div/div/div/div[2]/div/button/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ac5735f5-395a-4ee6-bd21-c0ffaff2320f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>0b0bb610-99fd-4f48-8236-60a8a339c5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please Select User Template</value>
+      <webElementGuid>9ebc4687-584d-43cb-9882-ef8f012df772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UserTemplateInvestigationForm&quot;)/div[@class=&quot;kt-portlet&quot;]/div[@class=&quot;kt-form kt-form--label-right&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group row has-feedback&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;dropdown bootstrap-select form-control&quot;]/button[@class=&quot;btn dropdown-toggle btn-light bs-placeholder&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>2c97d377-8fc0-4f5e-8985-3e1fd6b4de6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='UserTemplateInvestigationForm']/div/div[2]/div/div/div/div/div[2]/div/button/div/div/div</value>
+      <webElementGuid>624857ed-d2b3-4e39-b625-37a258040ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[5]</value>
+      <webElementGuid>03ee69c0-85e0-4508-a84d-196276822047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select User Template name.'])[1]/preceding::div[4]</value>
+      <webElementGuid>2f239b30-1494-4bd6-b69f-01ca1f6b325a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name Already Exists.'])[1]/preceding::div[4]</value>
+      <webElementGuid>996910dc-dce5-4168-82d0-50e5ecaceaf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please Select User Template']/parent::*</value>
+      <webElementGuid>1698032f-2b69-432f-95db-0208e8f7fa1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div</value>
+      <webElementGuid>cd1b23eb-8aed-45c9-8ffa-805cd9b2b86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please Select User Template' or . = 'Please Select User Template')]</value>
+      <webElementGuid>745b3da6-6999-4a69-a1c3-a299067a2d1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

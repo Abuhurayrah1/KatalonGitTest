@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Please select</name>
+   <tag></tag>
+   <elementGuidId>7249362c-4a2c-4bdf-a09a-36d9bbde3de8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.filter-option-inner-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AddDivId']/div[3]/div/div[2]/div/div/div/div/div[2]/div/button/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dfcf2ce6-43f9-4f14-a7ab-3f5d7c6b07dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>b7e14481-a035-4fb4-b27d-8d0d12dc738b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please select</value>
+      <webElementGuid>6c828f37-3687-4e92-822a-72ad4fccca5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddDivId&quot;)/div[@class=&quot;kt-form kt-form--label-right&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;dropdown bootstrap-select show-tick form-control&quot;]/button[@class=&quot;btn dropdown-toggle btn-light&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>d087535f-2f47-4e01-b7e4-d65f432e3998</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[3]/div/div[2]/div/div/div/div/div[2]/div/button/div/div/div</value>
+      <webElementGuid>c1e2bdb5-1d8c-41c8-bbf1-ea29af22bf93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[5]</value>
+      <webElementGuid>4cd445a2-ed71-4618-b116-0c94af593698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/preceding::div[2]</value>
+      <webElementGuid>d67f7863-5c19-4d75-a1b4-aa958741010d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[1]/preceding::div[2]</value>
+      <webElementGuid>67a768fd-e68c-4b2e-bd34-c717de6a3b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div</value>
+      <webElementGuid>1bfc7275-5921-4e68-ac48-35610dc0223e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please select' or . = 'Please select')]</value>
+      <webElementGuid>53a2cd6d-700c-4b20-92ee-d2c6fcf88ebd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

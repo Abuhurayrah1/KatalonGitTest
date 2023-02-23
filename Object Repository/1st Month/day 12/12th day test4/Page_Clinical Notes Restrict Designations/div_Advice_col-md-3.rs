@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Advice_col-md-3</name>
+   <tag></tag>
+   <elementGuidId>04518070-a5e0-4114-9b11-a036187a493c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AddDivId']/div[2]/div/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>32dbb488-6ad3-4071-bf65-73b73081d8f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-3</value>
+      <webElementGuid>b760c0a1-e5e7-465b-81f8-507bda90854a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddDivId&quot;)/div[@class=&quot;kt-form kt-form--label-right&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;form-group  row&quot;]/div[@class=&quot;col-md-3&quot;]</value>
+      <webElementGuid>0e200df5-694e-45a0-8c31-61558c0f5db4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div[3]/div[2]</value>
+      <webElementGuid>246bf0c5-4385-4e83-a278-7e12a246ee87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advice'])[1]/following::div[1]</value>
+      <webElementGuid>360fcf4f-1e99-415c-b955-e58bdf276ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select Designation Decisions'])[1]/following::div[3]</value>
+      <webElementGuid>6b5f1a0d-32a7-43f1-8361-d149b5a8f6ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exam Findings'])[1]/preceding::div[1]</value>
+      <webElementGuid>31010df0-9d17-454d-8ef1-603578e8be95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Diagnosis'])[1]/preceding::div[3]</value>
+      <webElementGuid>419cd3b5-c025-4b7c-8109-a0b3c3443dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[3]/div[2]</value>
+      <webElementGuid>c4e93d3f-1dad-40d1-820d-b8ccac49495e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

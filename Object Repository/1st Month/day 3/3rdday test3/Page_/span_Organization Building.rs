@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Organization Building</name>
+   <tag></tag>
+   <elementGuidId>ad48b746-8b29-406b-ad3a-9aa5f8cda961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_aside_menu']/ul/li/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.kt-menu__link-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e7a17e6a-602d-44d2-b8e9-a91c32cf6b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link-text</value>
+      <webElementGuid>19efd34d-23dc-4e8c-ab71-6ccfffc7e4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Organization Building</value>
+      <webElementGuid>15d8a799-1476-4b1a-a385-84ec8c5834c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_aside_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@class=&quot;kt-menu__item  kt-menu__item--submenu&quot;]/a[@class=&quot;kt-menu__link kt-menu__toggle&quot;]/span[@class=&quot;kt-menu__link-text&quot;]</value>
+      <webElementGuid>97ce5989-45bb-4a6d-bc5f-36476fdd0b5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_aside_menu']/ul/li/a/span[2]</value>
+      <webElementGuid>7dbd2b81-a2a3-40d8-9a54-49e17418f8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building'])[1]/preceding::span[3]</value>
+      <webElementGuid>095f82e5-f03f-48a8-8eac-f03ecf3e61b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Floors'])[1]/preceding::span[5]</value>
+      <webElementGuid>84f01669-e726-46ae-966c-844768d7980d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Organization Building']/parent::*</value>
+      <webElementGuid>670da366-e2af-4e0a-b512-1359e90216ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span[2]</value>
+      <webElementGuid>86287fc0-9246-4658-a7a9-01cf92bed550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Organization Building' or . = 'Organization Building')]</value>
+      <webElementGuid>43090eaf-9533-4ccc-871b-0862e4ae7340</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

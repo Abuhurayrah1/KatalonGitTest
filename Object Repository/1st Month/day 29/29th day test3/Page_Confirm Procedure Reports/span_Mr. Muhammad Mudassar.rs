@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mr. Muhammad Mudassar</name>
+   <tag></tag>
+   <elementGuidId>0cbb8eaa-7f47-4a49-b114-5267a53a3c08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-3-0']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eafa2a67-c35a-4bc7-bb8b-6de9afdc0e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a4217b8f-1fe0-48ab-8a03-86f69f1a4d62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mr. Muhammad Mudassar</value>
+      <webElementGuid>df5c0db3-e1f0-47b1-9b7c-523d7d43c873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-3-0&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>b609bb66-7f3f-4a30-8944-f02620975a5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-3-0']/span[2]</value>
+      <webElementGuid>476ac604-c29f-4439-adda-d19d3eadb759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[1]/following::span[2]</value>
+      <webElementGuid>cd00225f-88cb-4afa-a8eb-55165a60db39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::span[2]</value>
+      <webElementGuid>eced4352-c1ea-4952-9e83-3a9dd2ac15a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miss Adeeba Arooj | Charge Nurse'])[2]/preceding::span[2]</value>
+      <webElementGuid>56bea9b4-3e36-47ab-865c-53f41085ca0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miss Adeela Afzal | Charge Nurse'])[2]/preceding::span[4]</value>
+      <webElementGuid>741594bd-d30d-4164-9127-f57ac5d2bb15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a/span[2]</value>
+      <webElementGuid>8ec5f20e-8117-4798-af60-a55dbc33cb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mr. Muhammad Mudassar' or . = 'Mr. Muhammad Mudassar')]</value>
+      <webElementGuid>e3f9051f-e5ee-4cce-98f5-c3da6df20452</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

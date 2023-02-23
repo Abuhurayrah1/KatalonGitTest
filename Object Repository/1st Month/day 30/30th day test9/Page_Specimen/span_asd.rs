@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_asd</name>
+   <tag></tag>
+   <elementGuidId>78917346-9944-4919-84b9-6f6517da378e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-1-1 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-1-1']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a631ea2-b066-4af7-a99d-9fb84fa3643d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a9a63572-04a3-49b6-a665-e192dd47fd82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>asd</value>
+      <webElementGuid>fbb219b2-3360-4aa0-9c5a-43b4e6566e06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-1-1&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>5fb03ba1-e0a6-494e-a74e-7e24f26bf235</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-1-1']/span</value>
+      <webElementGuid>56c5220a-a816-458b-a7bd-26aeed2d970f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Specimen Type'])[3]/following::span[1]</value>
+      <webElementGuid>0934295d-f463-4fda-82fc-aa8d2ace44e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Specimen Type'])[2]/following::span[2]</value>
+      <webElementGuid>50f24451-6279-4629-a775-f8393e993dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bread'])[2]/preceding::span[1]</value>
+      <webElementGuid>3e59ddb6-841a-4db8-8539-44b15093ef93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Culture'])[2]/preceding::span[2]</value>
+      <webElementGuid>33910222-d943-4b92-bc79-e2e206d636e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>840bbaf3-be0c-49ef-8cc0-eb56f9fdd736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'asd' or . = 'asd')]</value>
+      <webElementGuid>88f63513-4e56-4239-9555-f3526713a527</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

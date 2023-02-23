@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dr. Asif POST ASD Device Closure_Action D_1d21af</name>
+   <tag></tag>
+   <elementGuidId>5682b51a-0e0e-4cad-9fa8-442e4d28f135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.Detail.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='TestMethodDataTable']/tbody/tr/td[5]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>049a1d95-9e65-4ddb-97d4-71da4fd1b281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>b1c25f21-3ff1-4dd0-a9af-06dffa020d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action Detail btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>327a3415-5561-4ae3-b4ed-32850211eb3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TestMethodDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Detail btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>4bcbfe57-f1cb-4fd6-811a-7f9e153c0d88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='TestMethodDataTable']/tbody/tr/td[5]/a[2]</value>
+      <webElementGuid>aed6655b-ed25-450b-a378-efdb7906c734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Asif POST ASD Device Closure'])[2]/following::a[2]</value>
+      <webElementGuid>df9604b8-bf95-4047-8482-de051598f50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Asif POST ASD Device Closure'])[1]/following::a[2]</value>
+      <webElementGuid>f373ffad-5cba-47e8-94c7-dc34310d0555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PM Maadullah'])[1]/preceding::a[4]</value>
+      <webElementGuid>483e0d1f-0fb4-4423-8e4c-ffd18003b05e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PM Maadullah'])[2]/preceding::a[4]</value>
+      <webElementGuid>be2b4297-3ef2-44d5-99aa-97418430f3e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a[2]</value>
+      <webElementGuid>39a71291-4a6e-409c-bcaf-5ca5d00532d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Detail']</value>
+      <webElementGuid>cc59cd74-c97c-4b4b-b2e4-ea176b4e68c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

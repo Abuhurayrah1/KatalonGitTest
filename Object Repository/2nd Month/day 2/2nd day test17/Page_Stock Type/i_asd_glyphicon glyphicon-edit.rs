@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_asd_glyphicon glyphicon-edit</name>
+   <tag></tag>
+   <elementGuidId>87b63e79-06da-446c-a853-01ba6b1e4197</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='PharmacyStockTypeDataTable']/tbody/tr/td[4]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b07ed71c-1723-4e93-bf87-c4831309d9cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-edit</value>
+      <webElementGuid>df201284-0088-478a-b48f-fab78aca21d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PharmacyStockTypeDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Update btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;glyphicon glyphicon-edit&quot;]</value>
+      <webElementGuid>abaf17c4-7084-4052-9e4c-4dc3f73826c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='PharmacyStockTypeDataTable']/tbody/tr/td[4]/a/i</value>
+      <webElementGuid>313be1a8-91e5-4a76-b087-3f8b01b65f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a/i</value>
+      <webElementGuid>03571db4-33cb-428b-b7e5-cfddfb849f26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

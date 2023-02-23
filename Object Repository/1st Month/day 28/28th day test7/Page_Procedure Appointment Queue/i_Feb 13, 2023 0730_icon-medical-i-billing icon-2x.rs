@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Feb 13, 2023 0730_icon-medical-i-billing icon-2x</name>
+   <tag></tag>
+   <elementGuidId>ef68b0ab-2c97-454e-9f85-1ef50ebc376c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-medical-i-billing.icon-2x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ProcedureAppointmentDataTable']/tbody/tr/td[9]/a[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ca0d3937-40f5-47b7-bc77-55d151654280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-medical-i-billing icon-2x</value>
+      <webElementGuid>f4064e63-b7df-45b9-b7e9-435a804e1a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProcedureAppointmentDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;VendorChallanInModal service-grid&quot;]/i[@class=&quot;icon-medical-i-billing icon-2x&quot;]</value>
+      <webElementGuid>d936e0cf-058e-45c4-b4ea-9d9be9b9db28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ProcedureAppointmentDataTable']/tbody/tr/td[9]/a[3]/i</value>
+      <webElementGuid>51fba630-8104-429e-a4b6-7c77c3b2b4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/i</value>
+      <webElementGuid>238af326-fefc-47ca-bd95-b0795a8b121a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

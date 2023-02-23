@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_01 Unit RCC X-Match  Screening Grouping</name>
+   <tag></tag>
+   <elementGuidId>052a4bc5-2453-44d5-b723-715a38dd8fac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-1-3 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-1-3']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc10466e-c356-4fa5-abd6-f865dcd4d1eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>430df28b-fcc7-4aed-ace7-7292d2e3fe6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01 Unit RCC X-Match + Screening+ Grouping</value>
+      <webElementGuid>3026f09d-36a7-4ef2-8a2e-ec2567b5a1ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-1-3&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>86e16583-4a11-44e1-8051-e99b99b6ca79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-1-3']/span[2]</value>
+      <webElementGuid>e5c8e0c7-5401-453c-98f2-8ce87c215dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[1]/following::span[8]</value>
+      <webElementGuid>623d7b54-6e4c-4d99-b473-d24d5ce80126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::span[8]</value>
+      <webElementGuid>3b0ab78e-3073-4677-b430-c3c861e76eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Sheeth'])[2]/preceding::span[44]</value>
+      <webElementGuid>f12750db-b068-4bde-b553-e4fd55c2dac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A/G Ratio'])[2]/preceding::span[46]</value>
+      <webElementGuid>4d22b267-1330-4963-9351-5f8831bfab42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[4]/a/span[2]</value>
+      <webElementGuid>4fac542f-fb81-45f8-a992-b4858345e8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '01 Unit RCC X-Match + Screening+ Grouping' or . = '01 Unit RCC X-Match + Screening+ Grouping')]</value>
+      <webElementGuid>d9feda6b-b93b-40b9-b603-e717dd9b2941</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

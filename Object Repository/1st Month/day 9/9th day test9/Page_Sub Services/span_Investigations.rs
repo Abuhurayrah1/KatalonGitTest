@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Investigations</name>
+   <tag></tag>
+   <elementGuidId>0431ceec-27ac-4545-bc68-90cc76451c3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-1-7']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-1-7 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d334b82-e385-4d08-89fe-4604d141a8cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>47660100-8169-4d7b-945e-a8dce0cb0f69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Investigations</value>
+      <webElementGuid>8b7b8eb1-7f2e-4c1f-b1e1-8d9f200df3b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-1-7&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>de993b46-5b37-4f17-9e06-7b444a99c0a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-1-7']/span</value>
+      <webElementGuid>7faadb61-0cbb-4e47-9cc7-7ee13310ae6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admissions'])[2]/following::span[1]</value>
+      <webElementGuid>ed4b42c7-7e14-4da7-a1c1-4f3e2e73dde3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test service 01'])[2]/following::span[2]</value>
+      <webElementGuid>e4b6ef37-69bd-4383-b669-a4620e99edc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diagnostics'])[2]/preceding::span[1]</value>
+      <webElementGuid>442af97c-c66a-44fe-b3c1-cb66902625ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select a Service'])[1]/preceding::span[2]</value>
+      <webElementGuid>1cd194a7-acad-4d53-ba28-250492f8db24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[8]/a/span</value>
+      <webElementGuid>25911ff6-5321-49c2-acab-4a1a54c8c6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Investigations' or . = 'Investigations')]</value>
+      <webElementGuid>00ea069a-5cda-4462-864b-86b6896fe12f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

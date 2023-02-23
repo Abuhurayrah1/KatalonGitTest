@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Accountant</name>
+   <tag></tag>
+   <elementGuidId>88e14e36-110d-4723-ab11-c91952b445e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-3-2']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-3-2 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a8284fa-3797-4538-91ee-513d06131f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9fcee474-5a3e-4f78-97c0-dd7a8fbb3b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accountant</value>
+      <webElementGuid>8f4bd386-f603-45de-8031-c555f525ac71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-3-2&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>b4ef10d4-2a0a-49fb-bd2d-81d87de41831</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-3-2']/span[2]</value>
+      <webElementGuid>f1f20c4b-c6f6-4cf6-9fd6-3122d5936232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Assistant'])[2]/following::span[2]</value>
+      <webElementGuid>fe60be53-cfff-49f1-bfee-f420aa17adba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AC Mechanic'])[2]/following::span[4]</value>
+      <webElementGuid>41003802-944b-43eb-9c08-099e728fac22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Officer'])[2]/preceding::span[2]</value>
+      <webElementGuid>45eb3df5-beac-4b2a-90f5-55f9309ca21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Medical Superintendent'])[2]/preceding::span[4]</value>
+      <webElementGuid>eae70086-6118-4759-93bc-4d6e23322f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div[3]/ul/li[3]/a/span[2]</value>
+      <webElementGuid>7966365d-709b-44b5-a830-eec65e28995a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Accountant' or . = 'Accountant')]</value>
+      <webElementGuid>0fd5ebeb-521b-4667-a25c-c6b8de94020e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

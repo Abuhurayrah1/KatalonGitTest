@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select All</name>
+   <tag></tag>
+   <elementGuidId>730a8b12-d1f6-43d4-af8f-3ea797d5d780</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.actions-btn.bs-select-all.btn.btn-light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1ac32a66-9ad0-44eb-b657-577998c65455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c255ecc8-90d3-46df-b556-7e244a20a3a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>actions-btn bs-select-all btn btn-light</value>
+      <webElementGuid>94a95a93-d980-4d01-b7c8-f9abcaa5ca01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select All</value>
+      <webElementGuid>4f7467e9-be2d-4a4f-9d5b-bcf487dede08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubserviceDiv&quot;)/div[@class=&quot;col-md-12 hiddenField&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;dropdown bootstrap-select show-tick form-control hiddenField show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;bs-actionsbox&quot;]/div[@class=&quot;btn-group btn-group-sm btn-block&quot;]/button[@class=&quot;actions-btn bs-select-all btn btn-light&quot;]</value>
+      <webElementGuid>b20e6f28-cb60-49df-851b-b5dd188a01e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>0daf0115-d743-46f1-8fbd-f2b8cf1f66f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubserviceDiv']/div[2]/div/div[2]/div/div/div[2]/div/button</value>
+      <webElementGuid>90a190bd-bfda-4cc1-ad3e-d950e58640af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[1]/following::button[1]</value>
+      <webElementGuid>eaecb0b1-380d-4a66-8d73-7c312bdc1c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Department(s)'])[1]/following::button[2]</value>
+      <webElementGuid>30806ec8-52ad-4ee3-a31c-7fe7b5243496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[1]/preceding::button[1]</value>
+      <webElementGuid>94acb010-0656-4dd0-ba39-f6d6782c3688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cath Lab'])[5]/preceding::button[2]</value>
+      <webElementGuid>aeb607d9-0a81-47b1-b7e4-94929d3d5aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select All']/parent::*</value>
+      <webElementGuid>3073ed76-b663-4956-9428-af2170175fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div[2]/div/div/div[2]/div/button</value>
+      <webElementGuid>797cec6c-c49a-4d77-bc36-274fadfb21ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Select All' or . = 'Select All')]</value>
+      <webElementGuid>df7433f9-ca6e-41fa-a6fd-1f8cdd9ed7f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

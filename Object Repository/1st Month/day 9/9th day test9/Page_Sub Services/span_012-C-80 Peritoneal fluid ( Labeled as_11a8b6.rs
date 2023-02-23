@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_012-C-80 Peritoneal fluid ( Labeled as_11a8b6</name>
+   <tag></tag>
+   <elementGuidId>0e97d906-cb19-4164-aace-65ec9d7ccfe3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-2-3']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-2-3 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b5529955-9cd5-4b4a-a7f6-e9115e4d4253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a29282e3-c1b4-4815-a877-9a867125e577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>012-C-80 Peritoneal fluid ( Labeled as sample #2)</value>
+      <webElementGuid>a24f288f-08dd-4c05-9fb0-9d6d77eceade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-2-3&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>1be56006-5523-46e2-8d26-5581068bd32a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-2-3']/span</value>
+      <webElementGuid>047ee7e4-211d-46c9-88b8-a40c471795ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='? Hydatid cyst'])[2]/following::span[1]</value>
+      <webElementGuid>7df95156-2dd3-48d8-a7d8-3be0eccf126f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#NAME?'])[2]/following::span[2]</value>
+      <webElementGuid>c0d35238-ef10-41d7-aa19-43058fb00a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specimen Container'])[1]/preceding::span[31]</value>
+      <webElementGuid>5a449ab8-1d19-455b-a41d-af682773f7d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Specimen Container'])[2]/preceding::span[31]</value>
+      <webElementGuid>1a73dfd5-8575-4664-a419-e4aa1d46ae3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div/div/div[2]/ul/li[4]/a/span</value>
+      <webElementGuid>af195be9-3798-4aad-9005-1c54dd2550c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '012-C-80 Peritoneal fluid ( Labeled as sample #2)' or . = '012-C-80 Peritoneal fluid ( Labeled as sample #2)')]</value>
+      <webElementGuid>1de41f9e-06ff-45fe-b5cf-0974135348e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

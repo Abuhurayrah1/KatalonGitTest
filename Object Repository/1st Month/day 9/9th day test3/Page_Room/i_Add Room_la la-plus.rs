@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add Room_la la-plus</name>
+   <tag></tag>
+   <elementGuidId>f95d2593-a1c5-4d53-8115-8e292005f350</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addnew']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.la.la-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c2cd28d2-6cf7-4aa3-8e55-187653a6c36b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-plus</value>
+      <webElementGuid>89612354-3e3a-416c-a0d0-35d71d6bee1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addnew&quot;)/i[@class=&quot;la la-plus&quot;]</value>
+      <webElementGuid>9f99d533-8f6f-4283-bad5-d60d20243f56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='addnew']/i</value>
+      <webElementGuid>a3b19e9e-fb26-46c0-875c-281b73099e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button/i</value>
+      <webElementGuid>e2af22c3-0dce-4ab6-92a0-6a3d108c2d66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

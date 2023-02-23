@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Adult Echocardiography</name>
+   <tag></tag>
+   <elementGuidId>c6daf945-78de-4d4f-9671-4fbe3030737f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-3-2 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-3-2']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>14a43570-2e24-4214-9765-99473d0d57a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>81a030fd-f6f8-48b2-898f-5cae44278bf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adult Echocardiography</value>
+      <webElementGuid>fb6356cb-dee3-4f5c-a14a-6e25ef922e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-3-2&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>b09fdaa7-e469-4aee-bb05-cb9aa3b79b40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-3-2']/span[2]</value>
+      <webElementGuid>9559de91-9f79-4e32-83a4-0ced79a81d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Echocardiography'])[6]/following::span[2]</value>
+      <webElementGuid>004752dd-4157-452e-9223-2f5b6caf0c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Echocardiography'])[5]/following::span[4]</value>
+      <webElementGuid>bf0e1fe6-d621-4898-ba99-cf1ac9b6571a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paeds Echocardiography'])[2]/preceding::span[2]</value>
+      <webElementGuid>62d58c05-45cb-489d-a320-66dfd640e09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service(s):'])[1]/preceding::span[3]</value>
+      <webElementGuid>a7f0f307-232b-4a8b-ba67-b53abe364319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div[3]/ul/li[3]/a/span[2]</value>
+      <webElementGuid>c2a72305-77b8-467e-90c8-111bad530a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Adult Echocardiography' or . = 'Adult Echocardiography')]</value>
+      <webElementGuid>dd3292b7-c6dd-4c8f-867e-4b7bfaf8e3ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul__select2-selection__rendered</name>
+   <tag></tag>
+   <elementGuidId>fba92e60-6c64-4b67-84f0-2e517bb66559</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DivServicesForInvDiagSectionDDL']/div[2]/span/span/span/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.select2-selection__rendered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>295fb394-6b79-4e2e-ad1c-adc2e87e6919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>27026e67-04df-4b07-bc33-6c9ba9a28117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DivServicesForInvDiagSectionDDL&quot;)/div[@class=&quot;col-md-9&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--focus select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]</value>
+      <webElementGuid>f006b0a1-5638-46ee-b984-5830aeec1d1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DivServicesForInvDiagSectionDDL']/div[2]/span/span/span/ul</value>
+      <webElementGuid>cbc73e32-754e-443e-a49a-f4becc76cbbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[46]/following::ul[1]</value>
+      <webElementGuid>1a0eedff-02b0-490d-b0e4-341fcdf357ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[3]/following::ul[1]</value>
+      <webElementGuid>d57d79c8-9532-4e1f-8d4c-938956823654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select a Services'])[1]/preceding::ul[1]</value>
+      <webElementGuid>42ca12e8-dff6-42ac-9feb-4f01e978df31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miscellaneous-Services'])[1]/preceding::ul[1]</value>
+      <webElementGuid>b444315d-84bc-47cc-843c-dcd1bada5a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/ul</value>
+      <webElementGuid>a62732a6-ec31-4038-bd41-fae56ee286a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

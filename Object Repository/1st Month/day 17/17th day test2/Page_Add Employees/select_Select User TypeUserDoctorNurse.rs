@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select User TypeUserDoctorNurse</name>
+   <tag></tag>
+   <elementGuidId>91981419-c43e-49e5-89c1-3c076953d17c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#UserTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='UserTypeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1990b68f-54df-44b0-876e-9c164a739c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>67a4ec28-ff48-4078-b068-1da96742487b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6020521b-b36b-4df9-b517-7ce6f45eac5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>UserTypeId</value>
+      <webElementGuid>6199547e-bf2b-4d51-b8a0-95491d4f37f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>UserTypeId</value>
+      <webElementGuid>3a5c40b1-c678-4d04-8617-6edeeda6341e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>3158f704-18c7-4e21-aae6-90b7a39469e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>UserTypeId</value>
+      <webElementGuid>1406c959-051a-4fd1-bc13-2999587ae12e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select User Type
+User
+Doctor
+Nurse
+</value>
+      <webElementGuid>abd577a8-e827-45dd-b756-84b93fb9d4fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UserTypeId&quot;)</value>
+      <webElementGuid>1d538aa6-2eb6-4c08-a9d0-e328165e0dd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='UserTypeId']</value>
+      <webElementGuid>fc939e15-9c3e-445e-8269-e7dd11675ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId2']/div/div[2]/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>1a08615d-51a7-450b-bd21-10d04cddcce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>c443a844-a0be-4423-b203-9e33f93cfc0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>98cb98e1-170e-495f-9f73-ef8181c4b115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>62a1581e-4c64-4471-be99-57baeb56307c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/select</value>
+      <webElementGuid>0a0e7246-fba5-4ec7-b403-db6a7717193b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'UserTypeId' and @name = 'UserTypeId' and (text() = 'Select User Type
+User
+Doctor
+Nurse
+' or . = 'Select User Type
+User
+Doctor
+Nurse
+')]</value>
+      <webElementGuid>839543a4-aabc-4bb6-8f4f-0c10ee038871</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

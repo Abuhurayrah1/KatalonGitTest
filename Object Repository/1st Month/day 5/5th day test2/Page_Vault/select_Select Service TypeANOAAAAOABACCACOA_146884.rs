@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Service TypeANOAAAAOABACCACOA_146884</name>
+   <tag></tag>
+   <elementGuidId>b0c14e52-a0d4-4e9f-b983-4912c964e014</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ArmedForcesServiceTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ArmedForcesServiceTypeId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7f4292a2-9694-4125-853e-c52b526d756c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control hiddenField</value>
+      <webElementGuid>6c7a564b-b952-40a7-a99f-51cc51c81a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>68a9170e-37b1-452d-a282-45141a0e6d70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ArmedForcesServiceTypeId</value>
+      <webElementGuid>a0725f72-7bd4-449d-a92c-caecc1e30657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ArmedForcesServiceTypeId</value>
+      <webElementGuid>5a145527-03e3-4b0c-a51a-79e49d41300f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>3062abaf-95ea-48fa-8e92-aa6c9a392690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Service Type
+A/NO
+AA
+AAO
+AB
+ACC
+ACO
+AD
+AHQ
+AL
+AO
+AQ
+AT
+AU
+BCF
+C
+CGO
+CIV
+CWS
+DR
+E
+EC
+GC
+GPE
+GPF
+GSB
+HO
+HSM
+IC/HD
+JCC
+JSE
+JSO
+JSP
+JSS
+LC
+LHD
+M
+MC
+ME
+MO
+MS
+MT
+NBD
+NO
+NY
+NYA
+O
+ORD
+OS
+OUN
+P
+P/O
+PA
+PAK
+PC
+PCC
+PE
+PEC
+PI
+PJG
+PJO
+PNC
+PNG
+PRR
+PS
+PSP
+PSR
+PSS
+RJD
+SJO
+SM
+SS
+SUR
+T
+TC
+TCV
+TD
+TDO
+TE
+TI
+TN
+TNO
+ZB
+</value>
+      <webElementGuid>7c585f32-6368-4ec0-91cc-cdaaac8b9a96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ArmedForcesServiceTypeId&quot;)</value>
+      <webElementGuid>0df264cc-5bf5-45ce-bddd-3b9333dde082</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ArmedForcesServiceTypeId']</value>
+      <webElementGuid>741c9b97-0973-4cc6-899e-5ea0c0d35de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ArmyDataDiv']/div/div/div/div/div/div/select</value>
+      <webElementGuid>8bbca461-4191-46b5-b38f-6c9e02e751e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select Organiztion'])[2]/following::select[1]</value>
+      <webElementGuid>c7744076-8655-4c08-a45e-0c53fd3a75cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakistan Army Package'])[2]/following::select[1]</value>
+      <webElementGuid>6bb7afc8-1fca-4136-aba9-457b21f396f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Service Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>7bb8dc28-42c2-4202-86ea-1751b822d752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Service Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>ce1edd89-c70b-4ca7-8833-6b0b0049d7ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div/div/select</value>
+      <webElementGuid>85bfcdd6-5743-4427-ad04-db7ef19c07e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ArmedForcesServiceTypeId' and @name = 'ArmedForcesServiceTypeId' and (text() = 'Select Service Type
+A/NO
+AA
+AAO
+AB
+ACC
+ACO
+AD
+AHQ
+AL
+AO
+AQ
+AT
+AU
+BCF
+C
+CGO
+CIV
+CWS
+DR
+E
+EC
+GC
+GPE
+GPF
+GSB
+HO
+HSM
+IC/HD
+JCC
+JSE
+JSO
+JSP
+JSS
+LC
+LHD
+M
+MC
+ME
+MO
+MS
+MT
+NBD
+NO
+NY
+NYA
+O
+ORD
+OS
+OUN
+P
+P/O
+PA
+PAK
+PC
+PCC
+PE
+PEC
+PI
+PJG
+PJO
+PNC
+PNG
+PRR
+PS
+PSP
+PSR
+PSS
+RJD
+SJO
+SM
+SS
+SUR
+T
+TC
+TCV
+TD
+TDO
+TE
+TI
+TN
+TNO
+ZB
+' or . = 'Select Service Type
+A/NO
+AA
+AAO
+AB
+ACC
+ACO
+AD
+AHQ
+AL
+AO
+AQ
+AT
+AU
+BCF
+C
+CGO
+CIV
+CWS
+DR
+E
+EC
+GC
+GPE
+GPF
+GSB
+HO
+HSM
+IC/HD
+JCC
+JSE
+JSO
+JSP
+JSS
+LC
+LHD
+M
+MC
+ME
+MO
+MS
+MT
+NBD
+NO
+NY
+NYA
+O
+ORD
+OS
+OUN
+P
+P/O
+PA
+PAK
+PC
+PCC
+PE
+PEC
+PI
+PJG
+PJO
+PNC
+PNG
+PRR
+PS
+PSP
+PSR
+PSS
+RJD
+SJO
+SM
+SS
+SUR
+T
+TC
+TCV
+TD
+TDO
+TE
+TI
+TN
+TNO
+ZB
+')]</value>
+      <webElementGuid>f28832ab-74e9-4b93-9237-2598b24d5dc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

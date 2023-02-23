@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Dec 23, 2022 1050_RowActions text-center</name>
+   <tag></tag>
+   <elementGuidId>9f3ff45a-63cb-4e60-a6ac-4b8dbafccc21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Patients']/tbody/tr/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.RowActions.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>08e4a85c-f144-4a8b-8d64-eef516a7be60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>RowActions text-center</value>
+      <webElementGuid>e2cde821-9f34-488d-bc8c-3fe029972a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rowindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>015c9dc3-51eb-41b6-b1ee-ed4e0cfc26f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;RowActions text-center&quot;]</value>
+      <webElementGuid>3863730f-2ef0-43ca-86fd-c93e88fd98d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Patients']/tbody/tr/td[6]</value>
+      <webElementGuid>9a752d0b-c935-4bcb-9677-dee38e585b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 23, 2022 10:50'])[1]/following::td[1]</value>
+      <webElementGuid>c91f3cd2-08d7-40ce-87cf-ae33662696ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::td[2]</value>
+      <webElementGuid>d7046538-9b38-4c46-a5d4-b7a3990c9fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[2]/preceding::td[4]</value>
+      <webElementGuid>84fd2976-bdf6-4a59-84a7-4bb78fd6d5b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]</value>
+      <webElementGuid>2711374f-db46-448a-b1ec-560eb9cd9803</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>eed13c6b-7f8f-4cd3-89ac-647a276b9102</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PatientDiscount']/div[2]/div[2]/label[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span[title=&quot;Junior Commissioned Officers&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ccd5316-7353-497c-985d-39fc34f7145f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Junior Commissioned Officers</value>
+      <webElementGuid>02c1acde-d12b-4fa4-970c-acf8661728ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PatientDiscount&quot;)/div[@class=&quot;col-md-6 mb-2 row RankCategoryDiv&quot;]/div[@class=&quot;col-md-8&quot;]/label[@class=&quot;kt-radio kt-radio--brand&quot;]/span[1]</value>
+      <webElementGuid>86f51e6e-8129-4cf0-9116-3f60164b9a17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PatientDiscount']/div[2]/div[2]/label[2]/span</value>
+      <webElementGuid>e7b5e2fd-3593-4229-8afd-a443712f8d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/label[2]/span</value>
+      <webElementGuid>bcd9694d-ab02-4d7f-ad64-887eec0ef81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Junior Commissioned Officers']</value>
+      <webElementGuid>784337ab-bfa6-4d4a-9465-a6b90019f902</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

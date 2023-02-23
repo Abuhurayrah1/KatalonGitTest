@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Open Heart Surgery (Coarctation Repair)</name>
+   <tag></tag>
+   <elementGuidId>d9cee5a8-74e9-4233-b0fc-390028845fec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-2-2 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-2-2']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>529645d5-256e-42b0-b359-5a062c09da29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>02586d81-e3f7-4a78-8e14-a7fcc06f30d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open Heart Surgery (Coarctation Repair)</value>
+      <webElementGuid>4e2b476a-4e82-4431-8bdf-5cf6ecdc9008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-2-2&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>50b266a3-ec58-490e-ab85-20953bbeb1c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-2-2']/span</value>
+      <webElementGuid>e39925b7-f0aa-43f0-ae88-5cb6bad4128b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iliac Artery Angioplasty'])[2]/following::span[1]</value>
+      <webElementGuid>a70a3d50-1881-43f2-85d2-3fad27306197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Sub Service'])[3]/following::span[2]</value>
+      <webElementGuid>33159780-a40d-4e11-a50d-8b749e2eb502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cardiac Catheterisation'])[2]/preceding::span[1]</value>
+      <webElementGuid>7e24c8a4-9e41-44ca-b3a9-11713aace051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spontaneous Vaginal Delivery'])[2]/preceding::span[2]</value>
+      <webElementGuid>ca7cf325-80f5-406f-8588-d71dd2eee392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div[2]/ul/li[3]/a/span</value>
+      <webElementGuid>846727b9-afdc-45d6-aacd-247c0b5dbcf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Open Heart Surgery (Coarctation Repair)' or . = 'Open Heart Surgery (Coarctation Repair)')]</value>
+      <webElementGuid>3e2b1465-6405-44ac-8c37-0604271e6385</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

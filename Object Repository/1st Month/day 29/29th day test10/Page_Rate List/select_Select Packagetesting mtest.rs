@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Packagetesting mtest</name>
+   <tag></tag>
+   <elementGuidId>a0ec457e-9065-4847-8b35-18d863eb6106</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PackageGroupId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PackageGroupId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0e971e46-37e0-4231-b1b4-3d8fa14b25f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>da3344ae-d12b-4962-bcd6-e471a1ee4dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-actions-box</name>
+      <type>Main</type>
+      <value>True</value>
+      <webElementGuid>6cb37e14-0625-4cbc-a9b3-d6691d0d42d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1bb39bef-ed4e-47f4-899a-b80390badede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PackageGroupId</value>
+      <webElementGuid>5fc44e1a-294a-42ea-a087-2412628ce076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PackageGroupId</value>
+      <webElementGuid>c25abdd0-34ad-4346-ba50-c0e2c3c53130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>b5d58b68-a712-4ff8-91bb-b541bb4e3e2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Package
+testing m
+test
+</value>
+      <webElementGuid>dac71684-47af-4f05-8a6e-a4a2b35d06b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PackageGroupId&quot;)</value>
+      <webElementGuid>5f464e9a-ba0a-44c2-a3e7-cf5485a08500</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PackageGroupId']</value>
+      <webElementGuid>19d0fae8-ebdd-4b03-92e3-fe2a571b1752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myDIV']/div[2]/div/div/div[2]/div/select</value>
+      <webElementGuid>be3da900-7a39-4e66-80bc-81688bf63b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Package'])[1]/following::select[1]</value>
+      <webElementGuid>cc73bf59-54d4-4715-bae7-6a5136feae8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakistan Railway Patients'])[2]/following::select[1]</value>
+      <webElementGuid>2794dbfa-0465-42d2-87a1-1ae2aefce042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Package'])[2]/preceding::select[1]</value>
+      <webElementGuid>9ecd14c5-8d29-42b1-a6b6-9786612b1ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Package'])[3]/preceding::select[1]</value>
+      <webElementGuid>76fcf891-9d23-4c6f-a264-07e7d3a83c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>f1a9c7cb-452c-48d3-964d-655549ef7c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PackageGroupId' and @name = 'PackageGroupId' and (text() = 'Select Package
+testing m
+test
+' or . = 'Select Package
+testing m
+test
+')]</value>
+      <webElementGuid>c7d8f14a-7918-4c1e-b711-b306a843cc02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

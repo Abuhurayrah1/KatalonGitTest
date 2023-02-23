@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dec 31, 2022 1001_EditInModal  btn btn-sm_c3af1e</name>
+   <tag></tag>
+   <elementGuidId>f4f6d41a-4718-4084-809b-f120ebfe8895</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.EditInModal.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Patients']/tbody/tr/td[6]/a[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27380018-9150-428f-976a-f0eea188e4c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>cb682863-472b-41b5-a37d-a0501597c564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>e7dad1a1-7266-4efb-85a4-b7f484bd8b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>4ffeef2b-e8e9-449c-b3c2-10aa590b42f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>EditInModal  btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>954b0436-9adf-428a-80c7-b84513918a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;RowActions text-center&quot;]/a[@class=&quot;EditInModal  btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>e0327eac-b1a8-4315-9f0f-6069f9a9b7d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Patients']/tbody/tr/td[6]/a[7]</value>
+      <webElementGuid>f173c8f3-1836-461d-80ca-f43d86342b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 31, 2022 10:01'])[1]/following::a[7]</value>
+      <webElementGuid>361c7c4a-e8e8-4572-9206-69ba70b7a30b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::a[7]</value>
+      <webElementGuid>e0b8a496-19aa-4b4c-83e3-7e51f47a3a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[2]/preceding::a[4]</value>
+      <webElementGuid>19186a19-6f2a-4f12-a282-12506bc4cf65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a[7]</value>
+      <webElementGuid>0a2114bc-393a-481a-8cb3-5e482e5ad457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Edit']</value>
+      <webElementGuid>d9400f08-bdaf-4b8e-a6ec-ba8b7f619971</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

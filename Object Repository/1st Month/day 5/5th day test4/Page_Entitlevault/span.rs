@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>ff5147a2-44f8-49d5-9a37-b2917684ec3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='PatientTypeId']/label[3]/span)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0bd085ec-6784-4a86-96bc-9ae5ee5dd267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EditPatientRegistrationFormForArmedForces&quot;)/div[@id=&quot;UserEducationDatatableDiv&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12  row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@id=&quot;PatientTypeId&quot;]/label[@class=&quot;kt-radio kt-radio--brand&quot;]/span[1]</value>
+      <webElementGuid>d5f91597-0a03-468e-9400-24133b01b63e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='PatientTypeId']/label[3]/span)[2]</value>
+      <webElementGuid>0d726fd0-2e39-4263-bf8c-2086c275a8ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/label[3]/span</value>
+      <webElementGuid>4419a8b7-e15a-4c56-88d3-9988e2ea213a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

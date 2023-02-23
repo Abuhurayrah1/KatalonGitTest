@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_testing m</name>
+   <tag></tag>
+   <elementGuidId>109bf42e-2207-4ba2-b462-a64b323cc7ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-1-1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-1-1 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>407e7ab3-6be6-4dab-990c-e62470a7ff07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>64ef5c7e-a8e8-40a8-a63b-c4ac609bfa9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testing m</value>
+      <webElementGuid>86e2605f-c97b-4c41-bc1a-1c46f14de1e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-1-1&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>2a6f533b-5851-45de-8b51-deab8ae21f38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-1-1']/span</value>
+      <webElementGuid>2bc3804e-e2a3-41ea-b65e-6ccb2a14ad0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Package'])[3]/following::span[1]</value>
+      <webElementGuid>4ca08bf7-598d-4e65-a3e6-58b2d8f7d812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Package'])[2]/following::span[2]</value>
+      <webElementGuid>5c4b0894-da7b-4618-8b2f-a5b281ea75ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[2]/preceding::span[1]</value>
+      <webElementGuid>fddf6769-0743-4f89-bcf7-e58aaf9b0525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[4]/preceding::span[2]</value>
+      <webElementGuid>654b96b2-b418-4f47-85a2-2a2bae740ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>d1b095db-d6b1-4fad-b421-ea9c9127111c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'testing m' or . = 'testing m')]</value>
+      <webElementGuid>180eb0a2-6867-4546-8d11-a63d792a4e7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

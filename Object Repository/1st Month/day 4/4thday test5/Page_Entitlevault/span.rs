@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>d320ff58-b76f-4154-9c12-650c5b208a62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='PatientTypeId']/label/span)[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-10 > #PatientTypeId > label.kt-radio.kt-radio--brand > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>63ca3812-806a-410f-8fe4-bd375e2b67e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EditPatientRegistrationFormForArmedForces&quot;)/div[@id=&quot;UserEducationDatatableDiv&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12  row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@id=&quot;PatientTypeId&quot;]/label[@class=&quot;kt-radio kt-radio--brand&quot;]/span[1]</value>
+      <webElementGuid>6d3b6070-70e4-4453-93ea-fa358bd1c5c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='PatientTypeId']/label/span)[4]</value>
+      <webElementGuid>c9952915-1a5a-4ae3-bd3f-1a505e3fcb79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/label/span</value>
+      <webElementGuid>510e49fa-a067-40cc-91d0-9e705761c212</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>17c4332d-86a6-4f0c-9200-ecab8ba09ca8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PatientDiscount']/div/div[2]/label[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91e61520-50d1-4e72-bc58-83e30172963c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PatientDiscount&quot;)/div[@class=&quot;col-md-6 mb-2 row&quot;]/div[@class=&quot;col-md-8&quot;]/label[@class=&quot;kt-radio kt-radio--brand&quot;]/span[1]</value>
+      <webElementGuid>640ec4e5-d3ee-4b3f-85ab-feaa9e120f35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PatientDiscount']/div/div[2]/label[2]/span</value>
+      <webElementGuid>187afd5e-f6dc-45fa-8250-dda52d184a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label[2]/span</value>
+      <webElementGuid>8655b3f8-7743-42b1-bb3d-a9d3afd42728</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

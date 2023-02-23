@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_WAKEupon waking up from a regular peri_96ca67</name>
+   <tag></tag>
+   <elementGuidId>f06c920f-7a1a-4769-83b9-f449a81ec99a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-3-2']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-3-2 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>36e6283d-8d5b-4103-8de4-b44d814de0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>daf6b91f-7cd1-4c01-8f27-a83e64819254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WAKEupon waking up from a regular period of sleep</value>
+      <webElementGuid>dff06340-7b89-4f2d-b1f5-93ef67bfdeca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-3-2&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>714bddcf-3459-4cb6-8c60-9b11fe4f8065</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-3-2']/span</value>
+      <webElementGuid>7993d595-e9be-421d-9afe-ed8d6836c066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='prior to beginning a regular period of extended sleep'])[1]/following::span[1]</value>
+      <webElementGuid>d2e420b0-306b-416a-878f-32cd58136937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div[2]/div/div/div[2]/ul/li[3]/a/span</value>
+      <webElementGuid>0300360e-5a02-4798-b832-4a45c2853bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'WAKEupon waking up from a regular period of sleep' or . = 'WAKEupon waking up from a regular period of sleep')]</value>
+      <webElementGuid>66c10031-12de-4e33-b258-868fb37ed775</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

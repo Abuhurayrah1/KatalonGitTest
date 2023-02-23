@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cath Lab</name>
+   <tag></tag>
+   <elementGuidId>ea72847c-64ad-4457-a9eb-03641ade0812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-1-12']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-1-12 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94fbc1a0-18f9-4be5-ab89-46f8252e3b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>be998ed9-4827-4335-bce0-592e4728af18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cath Lab</value>
+      <webElementGuid>7850282e-8e41-4a3c-809a-a7df412a9b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-1-12&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>46d5ac0e-beb8-47b9-a028-56cbec09a50e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-1-12']/span</value>
+      <webElementGuid>866f3cd1-c997-4eae-b501-e64521e1371b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[3]/following::span[1]</value>
+      <webElementGuid>b1113743-cc14-4d18-a2b1-d54182a72345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categorization'])[2]/following::span[2]</value>
+      <webElementGuid>b37922cf-5eb8-4fbd-966f-eed89d166c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central Sterile Services Department (CSSD)'])[2]/preceding::span[1]</value>
+      <webElementGuid>17379890-2c56-4917-b77a-b557a8d20a04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coronary Care Unit 2 ( CCU 2 )'])[3]/preceding::span[2]</value>
+      <webElementGuid>c9918ef5-7977-46a3-abd9-f1509e6785cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[13]/a/span</value>
+      <webElementGuid>d579e0fc-862a-44fa-9a86-fc4989f2e9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cath Lab' or . = 'Cath Lab')]</value>
+      <webElementGuid>55b69eea-0119-4ee6-92a7-ef97ea158220</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

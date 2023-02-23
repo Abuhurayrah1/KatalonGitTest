@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Brig Hamid  saeed  Malik  Jan 02, 2023 1010_PrintInModal</name>
+   <tag></tag>
+   <elementGuidId>daec32ee-b04a-425d-8c0a-e03cbd72a190</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PrintInModal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='PrintInModal']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a1a1d9c-4cd5-4f45-80f7-28823e9814af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PrintInModal</value>
+      <webElementGuid>94c23d8c-0af2-476b-881b-e3a7d78f468c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Print</value>
+      <webElementGuid>544ce191-d51b-4b1b-8d86-58fa5a55b53d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PrintInModal service-grid barcode btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>344550bc-eac1-4e36-9257-e17eb096f31d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VerifiedQueueTable&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;text-center nowrapColumn nopaddingColumn&quot;]/a[@id=&quot;PrintInModal&quot;]</value>
+      <webElementGuid>df065a57-a50b-4db9-a264-3777a3ead8dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='PrintInModal']</value>
+      <webElementGuid>a2d654c9-7386-4881-8820-ba7af781109c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='VerifiedQueueTable']/tbody/tr/td[10]/a[9]</value>
+      <webElementGuid>95c0fd2a-0d0b-4598-972c-aadad2ed4444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CK-MB (Mass)'])[2]/following::a[9]</value>
+      <webElementGuid>8724ece8-6871-42fa-a808-533d59478bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PA-0191111111 Maj Testsix'])[1]/preceding::a[14]</value>
+      <webElementGuid>a687c739-4254-4eeb-af2e-ef7c7ba7cfdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 02, 2023 09:59 / Jan 02, 2023 16:00'])[1]/preceding::a[14]</value>
+      <webElementGuid>4ea2aed8-45a5-465d-a8c6-0a5c57a9fd8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[9]</value>
+      <webElementGuid>97924abd-a948-42c4-893e-c50b4a705f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'PrintInModal' and @title = 'Print']</value>
+      <webElementGuid>5c99ed28-9b70-4f5a-8737-1afc425694ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

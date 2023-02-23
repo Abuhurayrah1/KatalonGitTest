@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Entitle</name>
+   <tag></tag>
+   <elementGuidId>2c261f8a-b61d-45a5-9610-24c741bc45e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PatientTypeId']/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a0224455-18c7-4fd8-99c9-7aa11f579f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-radio kt-radio--brand</value>
+      <webElementGuid>af332ba4-0efa-46e3-a1a9-60e53324c402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Entitle
+                                            
+                                        </value>
+      <webElementGuid>7c60f437-fc38-4adc-9f85-292ab2c08508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PatientTypeId&quot;)/label[@class=&quot;kt-radio kt-radio--brand&quot;]</value>
+      <webElementGuid>47e37333-815c-4b21-9670-5abd1cce4489</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PatientTypeId']/label[2]</value>
+      <webElementGuid>b7e8c582-5368-47a6-b0bc-f37874fcc1c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::label[2]</value>
+      <webElementGuid>994cc0ae-c55b-400f-8a6e-adafe8505324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Entitle']/parent::*</value>
+      <webElementGuid>bd851ce2-37e9-45b3-9bb2-72c157ae6943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>4ed3cac1-f59c-462e-82e3-876307b28fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                                            Entitle
+                                            
+                                        ' or . = '
+                                            Entitle
+                                            
+                                        ')]</value>
+      <webElementGuid>91f5cc26-da35-466a-9781-31050ae4b4f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

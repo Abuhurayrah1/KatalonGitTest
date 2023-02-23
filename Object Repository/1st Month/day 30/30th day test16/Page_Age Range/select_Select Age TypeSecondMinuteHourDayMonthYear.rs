@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Age TypeSecondMinuteHourDayMonthYear</name>
+   <tag></tag>
+   <elementGuidId>11c2f04e-c696-4c6c-8cb6-3cd5928c4dd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AgeTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AgeTypeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a11e572f-9717-41d9-a00c-ca5fb2082049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control selectpicker ResetSelectPicker</value>
+      <webElementGuid>5f08fea2-8803-4ca6-96c5-14930f6f034e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>93129b50-e95b-4ab4-89f1-a3a7b75431e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AgeTypeId</value>
+      <webElementGuid>2a58c63b-1b68-49b3-90dd-b0bf05889ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AgeTypeId</value>
+      <webElementGuid>ce5689b5-83cf-45fd-9a92-95f8817cdaab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>7ecce59c-844e-4658-b9e8-e69ce28f42c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>AgeTypeId</value>
+      <webElementGuid>af634afb-c341-4aea-bc57-9c4e0a30b786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Age Type
+Second
+Minute
+Hour
+Day
+Month
+Year
+</value>
+      <webElementGuid>d59b4ef2-fac6-4664-a3cb-1ec65c6590ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AgeTypeId&quot;)</value>
+      <webElementGuid>ce15a1c9-9d8f-402c-943b-d062fa638c1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AgeTypeId']</value>
+      <webElementGuid>a2dde174-2a7f-447a-80d2-9d1d783fdf9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div/div[7]/div/div[2]/div/select</value>
+      <webElementGuid>d3e48aed-a524-4ba5-8ed0-177745eb9345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Age Type'])[1]/following::select[1]</value>
+      <webElementGuid>700447c9-bb64-4124-8e69-4b55c034840a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[2]/following::select[1]</value>
+      <webElementGuid>2e755a20-a092-4aa2-9d4d-0eff15ef9ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Age Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>0e3b3f26-498d-4bbb-b18f-808133353b8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Age Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>77acb180-12e4-49fe-858c-e3b2dc3ffca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/select</value>
+      <webElementGuid>3fb6baf7-c68b-4e91-9635-746651c73575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AgeTypeId' and @name = 'AgeTypeId' and (text() = 'Select Age Type
+Second
+Minute
+Hour
+Day
+Month
+Year
+' or . = 'Select Age Type
+Second
+Minute
+Hour
+Day
+Month
+Year
+')]</value>
+      <webElementGuid>621d2d3d-bc29-416f-88e3-a55671525d3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

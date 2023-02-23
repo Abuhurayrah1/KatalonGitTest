@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mr. System Administrator  Dec 27, 2022 09_a6a296</name>
+   <tag></tag>
+   <elementGuidId>93560af2-4683-4fe2-a1df-fec49611be3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='SamplingQueueTable']/tbody/tr/td[10]/a[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.BloodSampleInModal.service-grid.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6c71d148-8aee-4766-9b84-1137d8600e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Sample Collection</value>
+      <webElementGuid>4770b8bc-3835-4a62-879c-bf7a94b14dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>BloodSampleInModal service-grid btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>58249523-af8f-454f-9c94-97a3bb3d15b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SamplingQueueTable&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;text-center nowrapColumn nopaddingColumn&quot;]/a[@class=&quot;BloodSampleInModal service-grid btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>27adc9b9-2ff6-4bb4-964c-91bb43cb337b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='SamplingQueueTable']/tbody/tr/td[10]/a[4]</value>
+      <webElementGuid>514af892-30cc-4fde-a50a-dc9505287ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr. System Administrator / Dec 27, 2022 09:38'])[1]/following::a[4]</value>
+      <webElementGuid>900b6271-e3bc-4856-8509-e0d5715c160c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CK-MB (Mass)'])[2]/following::a[4]</value>
+      <webElementGuid>0c124d07-67f5-43fe-bbe7-4077490072d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 27, 2022 09:36 / Dec 27, 2022 16:00'])[1]/preceding::a[17]</value>
+      <webElementGuid>b136fae4-530a-45cd-9a81-b7574732066d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>bcf3cbac-de3d-4a81-98b5-5847f62672ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Sample Collection']</value>
+      <webElementGuid>9484ad6c-64c5-4907-90d4-54ac0b268b2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Saline( Saline)</name>
+   <tag></tag>
+   <elementGuidId>bb9f339a-be58-42e6-aab9-413caef5e4e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-3-2 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-3-2']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>62852178-b910-4fd4-92a1-c480c0d639f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>32a9f267-e879-4c0b-8968-89f3b66f4436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>% Saline(% Saline)</value>
+      <webElementGuid>27d612bd-d20e-4b7c-a7c1-133da7b2b65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>% Saline(% Saline)</value>
+      <webElementGuid>37a9a600-3a94-4dc0-9dd4-6d54da93420e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-3-2&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>883822d2-53b1-4698-bc20-d616a334584e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-3-2']/span</value>
+      <webElementGuid>c6f82c85-715e-44c7-a9aa-3a0940a6e9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='μ( μ)'])[2]/following::span[1]</value>
+      <webElementGuid>208e573c-1829-49ef-9e0c-4fc0ab988d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Unit'])[3]/following::span[2]</value>
+      <webElementGuid>2fe7ac48-a98f-4c87-a9c1-f7a0267549c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%(%)'])[2]/preceding::span[1]</value>
+      <webElementGuid>7f279219-8653-4f21-87a7-da2e463cb7f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-(-)'])[2]/preceding::span[2]</value>
+      <webElementGuid>d497b3db-7aa5-4ea3-b3e1-6ab1ecb86daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/ul/li[3]/a/span</value>
+      <webElementGuid>7d1732f5-1e5f-43a5-a67d-e917851a4501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '% Saline(% Saline)' and (text() = '% Saline(% Saline)' or . = '% Saline(% Saline)')]</value>
+      <webElementGuid>c53f87d1-ce4d-48bc-b57e-b9300f231e65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

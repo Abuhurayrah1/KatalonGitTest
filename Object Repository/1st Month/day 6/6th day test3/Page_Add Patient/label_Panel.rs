@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Panel</name>
+   <tag></tag>
+   <elementGuidId>3ea06ba6-b878-4e94-8ede-bcc1fdf5f15d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PatientTypeId']/label[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>56fa46f0-ecfa-4765-80db-ebcc1f400527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-radio kt-radio--brand</value>
+      <webElementGuid>8eece314-6505-4c5f-aebf-551797a82b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Panel
+                                            
+                                        </value>
+      <webElementGuid>073a71fd-dc16-4cef-95c9-5e481cdae1b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PatientTypeId&quot;)/label[@class=&quot;kt-radio kt-radio--brand&quot;]</value>
+      <webElementGuid>c2a724fc-fd98-4508-ac49-79d7fcadfd0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PatientTypeId']/label[3]</value>
+      <webElementGuid>fae80daf-bd3b-4976-975f-ed5a56df8643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::label[1]</value>
+      <webElementGuid>17f2a2bd-be79-4acc-b498-aede073a4d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Panel']/parent::*</value>
+      <webElementGuid>9689c1d3-3cbf-49b5-8b86-f503c9ee4e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]</value>
+      <webElementGuid>ed9f0607-ecad-4e38-9245-306226875ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                                            Panel
+                                            
+                                        ' or . = '
+                                            Panel
+                                            
+                                        ')]</value>
+      <webElementGuid>19154a51-b7e6-4b52-87bb-a69347891500</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

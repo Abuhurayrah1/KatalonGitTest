@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Yesterday</name>
+   <tag></tag>
+   <elementGuidId>6a37ac60-2356-460f-81b2-ea27dcb52722</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2b7969fd-1f1f-4539-b92e-145bb6c8fe9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-range-key</name>
+      <type>Main</type>
+      <value>Yesterday</value>
+      <webElementGuid>0a57ca50-b24c-4845-be04-8c5ef3d6fd06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yesterday</value>
+      <webElementGuid>8de4a7d5-7db5-47c0-8c1a-1e7207507efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--fixed kt-subheader--solid&quot;]/div[@class=&quot;daterangepicker ltr show-ranges opensright&quot;]/div[@class=&quot;ranges&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>a548b1b8-8993-4ede-9e7b-b9e536c63c1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/following::li[1]</value>
+      <webElementGuid>329137c3-5a0a-45d5-88b6-216c1ceecc00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Waiting Time'])[1]/following::li[2]</value>
+      <webElementGuid>80deb547-93da-49e0-af20-974db9f9fdbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 7 Days'])[1]/preceding::li[1]</value>
+      <webElementGuid>eea6744d-c8d4-4006-ac34-89f9354300f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 30 Days'])[1]/preceding::li[2]</value>
+      <webElementGuid>a0c11343-fe7b-40ba-8773-8b7b3fbafe55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yesterday']/parent::*</value>
+      <webElementGuid>8bc3b675-2284-4209-a82a-a56e537b9dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/ul/li[2]</value>
+      <webElementGuid>6e15020d-948e-4c0e-9e91-e9f98f211b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Yesterday' or . = 'Yesterday')]</value>
+      <webElementGuid>90693397-2092-458a-a5a7-39c764f860d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Can Close Resignation Application</name>
+   <tag></tag>
+   <elementGuidId>87389453-b125-47de-9fe1-5ab49ce2fd4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-50-1 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-50-1']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7787cc0b-a9ee-4545-8288-4cec2bc32931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bea89bd0-d646-4f4c-bdc7-7cbea328389e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Can Close Resignation Application</value>
+      <webElementGuid>febc12c2-1792-48fc-a76d-bbb9b5434106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-50-1&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>0f2595eb-fe03-457b-8018-f9ee0583c19b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-50-1']/span[2]</value>
+      <webElementGuid>23061eda-3ca1-4e13-87ca-10410f508ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin &amp; HR'])[2]/following::span[2]</value>
+      <webElementGuid>072211de-bdae-4de9-a551-4b51b6098225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[7]/following::span[3]</value>
+      <webElementGuid>424474ba-88cf-4195-9006-ea7c55e1bd71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Can View Closed Resignations'])[2]/preceding::span[2]</value>
+      <webElementGuid>036bd057-4955-41a4-b69a-7cbcae3dc41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Can Close Termination Application'])[2]/preceding::span[4]</value>
+      <webElementGuid>9a36ad5a-f307-45f1-8be8-c86b8bb1652c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[32]/div[2]/div/div/div[3]/ul/li[2]/a/span[2]</value>
+      <webElementGuid>51907590-5cfb-4dbb-ab1d-67ffcb270018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Can Close Resignation Application' or . = 'Can Close Resignation Application')]</value>
+      <webElementGuid>86c6f68c-743e-485e-b2b6-f26a081dd9ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

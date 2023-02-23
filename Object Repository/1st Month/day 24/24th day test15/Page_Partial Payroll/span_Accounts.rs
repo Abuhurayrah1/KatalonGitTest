@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Accounts</name>
+   <tag></tag>
+   <elementGuidId>c634c5ed-0822-474a-a2d7-f3f8987e6abf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-4-0']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-4-0 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>765d37b7-93d5-4607-b3d4-ad19ece993a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f63bc7e5-8a38-4c5b-8999-f6b7577cd366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accounts</value>
+      <webElementGuid>58be94c2-08da-4f51-809e-d47da573ddff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-4-0&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>d23a9e71-18d2-46fa-992d-f6ce82f15ed1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-4-0']/span[2]</value>
+      <webElementGuid>99b4af60-cbaa-4f85-b11a-72b9f331b35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[4]/following::span[2]</value>
+      <webElementGuid>11aa8828-81d1-4e91-9e10-9189dc6c327a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[4]/following::span[2]</value>
+      <webElementGuid>21a1ad8d-a679-4c8f-bc71-d8ad5330a93d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin &amp; Security'])[2]/preceding::span[2]</value>
+      <webElementGuid>c016a8f1-9e5e-4cd5-97a6-6784c5bb76c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin &amp; Security / Aya'])[2]/preceding::span[4]</value>
+      <webElementGuid>6b28accd-a38c-4091-9b6c-3271a5c00716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div[3]/ul/li/a/span[2]</value>
+      <webElementGuid>0226cc64-3416-4468-8749-69e9aec403a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Accounts' or . = 'Accounts')]</value>
+      <webElementGuid>462fbf86-ea7b-43cb-98b1-ccbbd08497cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

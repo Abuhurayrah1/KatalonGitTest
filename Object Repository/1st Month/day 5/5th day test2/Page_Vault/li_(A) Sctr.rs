@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_(A) Sctr</name>
+   <tag></tag>
+   <elementGuidId>9eafe824-054e-4b76-97f8-77a67353f037</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='select2-ArmedForcesUnitId-results']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.select2-results__option.select2-results__option--highlighted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c85b4460-8cb3-4114-90da-196485448320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>050c9355-38bf-43b3-b4d9-01811e5f7c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>dc7a3a7a-60ff-497c-b724-1f5723d8c6d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ed13712d-2cb6-46f9-9c7a-a85b2bde5ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>2213</value>
+      <webElementGuid>284a2799-2237-4ece-87d9-07022bc5f9d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(A) S/ctr</value>
+      <webElementGuid>9eb9ca23-d266-4ef4-b311-926fa72df61a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-ArmedForcesUnitId-results&quot;)/li[@class=&quot;select2-results__option select2-results__option--highlighted&quot;]</value>
+      <webElementGuid>a3e01909-2630-4e00-8096-870c68ab3527</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-ArmedForcesUnitId-results']/li</value>
+      <webElementGuid>7c777bc2-c28d-4bc7-acd3-46067cf53dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Waiting Time'])[1]/following::li[1]</value>
+      <webElementGuid>f2bc32f1-2fe7-40f3-b71e-132fd1e8f958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[88]/following::li[1]</value>
+      <webElementGuid>d20743f1-b81e-4a28-a4be-35388f6faaa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(A) S/ctr']/parent::*</value>
+      <webElementGuid>5353e3b1-6b60-4c21-a188-b19de685cab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li</value>
+      <webElementGuid>df9fda5a-427d-4bdd-839f-9a8c37cbc7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '(A) S/ctr' or . = '(A) S/ctr')]</value>
+      <webElementGuid>dd175bb5-45e8-4a08-ae48-feb428069b63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

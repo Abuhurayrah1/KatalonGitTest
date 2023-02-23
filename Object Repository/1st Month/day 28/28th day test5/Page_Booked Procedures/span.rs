@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>8acfd5f6-2067-4279-8dcf-6685a318fa80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='BookedProcedureDataTable']/tbody/tr/td[7]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a21174f0-35a5-4f02-8e9d-487a5ad4dab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BookedProcedureDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/label[@class=&quot;kt-checkbox kt-checkbox--brand&quot;]/span[1]</value>
+      <webElementGuid>77f7a21a-0d03-4cf5-9bd9-a2eae42d49d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='BookedProcedureDataTable']/tbody/tr/td[7]/label/span</value>
+      <webElementGuid>d2623a5f-21c3-4d0a-b568-9ba6b9d21ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/label/span</value>
+      <webElementGuid>8eeb77fb-9531-4ce6-96e8-64df61215646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

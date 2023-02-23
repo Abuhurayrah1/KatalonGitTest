@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CNE_PatientIDRDetail service-grid btn btn_9daf73</name>
+   <tag></tag>
+   <elementGuidId>d9d33382-7a42-45e8-b8a8-6b9ff9ebf079</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='SearchLabReport']/tbody/tr/td[12]/a[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.PatientIDRDetail.service-grid.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b067b58d-7771-4d89-a15b-aa37c2b4df35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>c65c10eb-c7d4-440a-a408-cc342d840ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PatientIDRDetail service-grid btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>7a5693fb-c513-4b47-9874-4c371fe533c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchLabReport&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;PatientIDRDetail service-grid btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>1dd9d120-4cca-42ae-b1ec-4570fe24b5f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='SearchLabReport']/tbody/tr/td[12]/a[5]</value>
+      <webElementGuid>cd98da56-92f2-4c8e-a271-1183e11ee61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CNE'])[1]/following::a[5]</value>
+      <webElementGuid>bedb2058-3235-44b2-97ed-3a5a4ac08897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready for Print'])[1]/following::a[5]</value>
+      <webElementGuid>f79af537-207a-48e6-b1b5-b82aeb0bcc61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male [36Y]'])[2]/preceding::a[1]</value>
+      <webElementGuid>7bb2f01f-bc67-49de-8208-f0cb8a72b750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>c96eb28d-a46c-4247-b7f8-bed7de437c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Detail']</value>
+      <webElementGuid>21ec6778-f0a0-4c21-bd85-e0074ab5ee76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

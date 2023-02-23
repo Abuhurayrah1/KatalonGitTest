@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cathlab Pro</name>
+   <tag></tag>
+   <elementGuidId>027b682f-045a-4e58-bf41-7487e3883492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-5-2']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-5-2 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8bdd833c-271c-4bc9-befd-eb1182f4af54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>777c7125-2a78-41dd-8c39-09ff97fe2da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cathlab Pro</value>
+      <webElementGuid>80ca7b21-eeec-4c36-8b3c-19278d8d0d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-5-2&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>335454fc-0174-4da0-b206-44160d6e2e2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-5-2']/span[2]</value>
+      <webElementGuid>2dab5c64-dd5d-4ac7-b084-33ce56b37cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cath Lab'])[6]/following::span[2]</value>
+      <webElementGuid>12b54794-3675-4a4b-a6ea-f5fad1ba758e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cath Lab'])[5]/following::span[4]</value>
+      <webElementGuid>51f9f5cd-8eab-4917-8887-4e84ac3909bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doctor:'])[1]/preceding::span[1]</value>
+      <webElementGuid>a42434d4-4566-465a-9dd0-01d325aa0897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[3]/preceding::span[1]</value>
+      <webElementGuid>a26e7781-2fbd-47a9-a2e8-83e79d12a1b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div[3]/ul/li[3]/a/span[2]</value>
+      <webElementGuid>54910556-9c18-4f1e-ab65-0f10e56a4485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cathlab Pro' or . = 'Cathlab Pro')]</value>
+      <webElementGuid>1181886e-5ffd-45fc-b71c-37831d4a324f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

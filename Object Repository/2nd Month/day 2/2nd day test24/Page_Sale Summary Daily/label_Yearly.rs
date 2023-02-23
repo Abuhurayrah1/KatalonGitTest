@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Yearly</name>
+   <tag></tag>
+   <elementGuidId>74d21f76-bcd2-4140-9cca-5e695114df2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/div[2]/div/div[2]/div/div/div[2]/label[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d2df876b-ad3c-4aef-b7bc-d6fe80122672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-radio kt-radio--brand</value>
+      <webElementGuid>31adb6a5-6253-43e0-8fc0-b7b72ad62af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                   Yearly
+                                   
+                                </value>
+      <webElementGuid>164ce5df-7212-4245-b606-f249f9b7f07a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid&quot;]/div[@class=&quot;kt-portlet&quot;]/div[@class=&quot;kt-form kt-form--label-right&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-10&quot;]/label[@class=&quot;kt-radio kt-radio--brand&quot;]</value>
+      <webElementGuid>a9fe8c2d-76aa-4362-91c6-75edb0169710</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/div[2]/div/div[2]/div/div/div[2]/label[3]</value>
+      <webElementGuid>4c91663e-a8fe-4c37-acfd-617b9ee13c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale Summary Daily'])[4]/preceding::label[1]</value>
+      <webElementGuid>d2a1f24a-5f38-41a4-9c8a-878ba8757bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yearly']/parent::*</value>
+      <webElementGuid>1073f5a2-de22-46b9-b6d8-d906a83a25fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]</value>
+      <webElementGuid>da2a202e-6c7a-40b7-ac29-19c7d9615bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                                   Yearly
+                                   
+                                ' or . = '
+                                   Yearly
+                                   
+                                ')]</value>
+      <webElementGuid>a98da72c-12e5-488e-ab34-35e73cf0444b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

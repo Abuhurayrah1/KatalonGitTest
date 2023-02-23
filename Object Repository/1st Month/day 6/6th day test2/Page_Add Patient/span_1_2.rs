@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1_2</name>
+   <tag></tag>
+   <elementGuidId>d9579dd0-c1b1-4055-a25f-41f4185aaaa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='UserEducationDatatableDiv']/div[2]/div/div[9]/div[3]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.kt-checkbox.kt-checkbox--brand > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b2e634fc-9f10-49b8-853e-da0b8b0303b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PatientRegistrationFormForArmedForces&quot;)/div[@id=&quot;UserEducationDatatableDiv&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[1]/div[@class=&quot;row mt-2&quot;]/div[@class=&quot;col-md-4 form-group row mb-2 ml-sm-n3&quot;]/div[@class=&quot;col-md-2&quot;]/label[@class=&quot;kt-checkbox kt-checkbox--brand&quot;]/span[1]</value>
+      <webElementGuid>9a55c00b-a650-46a9-9cbc-032dd78c8d96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UserEducationDatatableDiv']/div[2]/div/div[9]/div[3]/div/label/span</value>
+      <webElementGuid>e9484aed-0fee-4111-91c6-cc4c07f1871f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label/span</value>
+      <webElementGuid>bd6b4f65-15cd-4ea0-8144-103c82743ce3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

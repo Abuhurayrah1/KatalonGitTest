@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_RO CLD</name>
+   <tag></tag>
+   <elementGuidId>7be7747e-dfc1-41fb-aaf2-2bd5d3969182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-5-5 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-5-5']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>676e34bc-a9ca-48d0-bffe-bf028b966ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8da10d71-59d5-49c4-a964-dee0546a5fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>R/O CLD</value>
+      <webElementGuid>3715abfd-7020-4579-93f2-04d410a30808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-5-5&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>8188e511-3ade-409a-b534-22460bc8c6a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-5-5']/span[2]</value>
+      <webElementGuid>35774ea7-436a-4ea4-9d24-4f816ea7b8e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='H/O Lithotripsy And Fistula Operation'])[2]/following::span[4]</value>
+      <webElementGuid>b728ec4b-12e1-4bb3-8e80-a7504c372e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tachycardia, unspecified'])[2]/preceding::span[2]</value>
+      <webElementGuid>0080514d-dfed-412b-b5ca-1ad9f4ff2289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ventricular fibrillation'])[2]/preceding::span[4]</value>
+      <webElementGuid>4c6be300-6cdf-4128-a752-ec81533fa267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[6]/a/span[2]</value>
+      <webElementGuid>522fab8d-1ccd-42bd-8584-74bbd42e9d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'R/O CLD' or . = 'R/O CLD')]</value>
+      <webElementGuid>cd8b2651-43ff-4d82-9989-b6aa0d65bc58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

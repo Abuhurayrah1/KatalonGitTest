@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Regular</name>
+   <tag></tag>
+   <elementGuidId>65c1d106-11a5-4b78-97a0-f63023a97534</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-5-1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-5-1 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e4518b39-44b9-492d-b1c8-59e7e9f15a23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7747bc4a-5949-48be-b829-5922818f7f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Regular</value>
+      <webElementGuid>cbac9bb0-7de7-44fb-be0c-05c335310ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-5-1&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>a6151f8e-b872-4908-9c40-3c422aae5193</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-5-1']/span</value>
+      <webElementGuid>e3a68902-0b8e-49ac-9700-69f89d82860a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Stock type'])[3]/following::span[1]</value>
+      <webElementGuid>4362e7ee-3fb0-4bdc-8e34-32daf7c27ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Stock type'])[2]/following::span[2]</value>
+      <webElementGuid>726d20d8-70b3-4b8e-a2df-664d2f1b4832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Donation'])[2]/preceding::span[1]</value>
+      <webElementGuid>efc0f8ca-e004-47b2-918d-4e2f3f0cafd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CNE'])[2]/preceding::span[2]</value>
+      <webElementGuid>0a456ae4-0767-4480-b036-69c9b8c22d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>9f49484b-902f-4c7f-bbc7-d272497b5c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Regular' or . = 'Regular')]</value>
+      <webElementGuid>f3a41949-7fc5-471b-9168-66c4fc98e265</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

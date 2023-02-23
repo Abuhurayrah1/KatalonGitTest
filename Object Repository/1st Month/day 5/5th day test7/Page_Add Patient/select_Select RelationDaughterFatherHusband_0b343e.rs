@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select RelationDaughterFatherHusband_0b343e</name>
+   <tag></tag>
+   <elementGuidId>404e7e6d-f754-4f01-906f-3feca926459d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PanelRelationId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PanelRelationId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>043a1228-bd38-47dd-9295-de8cd791a547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control hiddenField</value>
+      <webElementGuid>06f1906f-c59f-41e0-a57e-1ebe64ce8430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3fa9b33c-b882-456d-bc9b-43d812343935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PanelRelationId</value>
+      <webElementGuid>9d5e7760-4c98-42ac-acae-154966ff116a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PanelRelationId</value>
+      <webElementGuid>38199573-e45f-40d3-ad34-8b8171bf46ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>215cd6bb-c93d-406f-a210-d39b99b38613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>PanelRelationId</value>
+      <webElementGuid>f2651278-a370-4b81-a305-edc4375a533c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Relation
+Daughter
+Father
+Husband
+Mother
+Son
+Spouse
+Wife
+</value>
+      <webElementGuid>a201941a-aa89-425e-8cea-77d223707c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PanelRelationId&quot;)</value>
+      <webElementGuid>d4f98dc0-2192-45d9-9061-4c42f640745b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PanelRelationId']</value>
+      <webElementGuid>6d9fc62e-467d-4fd5-9774-d439e0f06d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DependentDisplay']/div[5]/div/div[2]/div/select</value>
+      <webElementGuid>8d909c56-45ba-433a-9661-ee47d731f48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[13]/following::select[1]</value>
+      <webElementGuid>b0956f37-35fb-495f-881e-1702f0636416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Relation'])[2]/preceding::select[1]</value>
+      <webElementGuid>ce4aab7f-bb87-4e6b-af20-8e025ef2a427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Relation'])[3]/preceding::select[1]</value>
+      <webElementGuid>04de9662-97e6-490a-8e79-8dbe0ea8c6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/select</value>
+      <webElementGuid>03c1f540-47d8-41dd-bafc-dda6214faa5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PanelRelationId' and @name = 'PanelRelationId' and (text() = 'Select Relation
+Daughter
+Father
+Husband
+Mother
+Son
+Spouse
+Wife
+' or . = 'Select Relation
+Daughter
+Father
+Husband
+Mother
+Son
+Spouse
+Wife
+')]</value>
+      <webElementGuid>959b1ad3-00cf-4f74-96ed-3a5609396ac1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

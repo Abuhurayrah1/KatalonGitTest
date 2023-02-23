@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Mr. System Administrator  Dec 20, 2022 11_19ed07</name>
+   <tag></tag>
+   <elementGuidId>ce9eb640-13b6-45f3-89ef-5b949f281f50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='SamplingQueueTable']/tbody/tr/td[10]/a[4]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d81c5012-6c31-4612-8eed-28c480c994d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-flask </value>
+      <webElementGuid>f8d9ec44-12be-4a0d-9450-5a8e410d983f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SamplingQueueTable&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;text-center nowrapColumn nopaddingColumn&quot;]/a[@class=&quot;BloodSampleInModal service-grid btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;fa fa-flask&quot;]</value>
+      <webElementGuid>e2d5da3f-996c-464e-bbd1-e2100065d63c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='SamplingQueueTable']/tbody/tr/td[10]/a[4]/i</value>
+      <webElementGuid>be2a0a1f-b5d6-4275-aaf6-1d07fb72e072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/i</value>
+      <webElementGuid>36e9a297-ef60-4fda-ae16-884026d34f46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

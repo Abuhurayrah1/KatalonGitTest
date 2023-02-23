@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dr. Aasifa Siddiqa  Assist.Prof.Pathal_4169ab</name>
+   <tag></tag>
+   <elementGuidId>5f71e195-726c-4a06-a169-b182aeddea7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-2-1 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-2-1']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b0dfa450-98b6-422e-8cf0-de866ebfe9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>2fd09821-f1b9-4358-b75f-374a2ccc13e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dr. Aasifa Siddiqa | Assist.Prof.Pathalogy,Additional Principal Medical Officer,Additional Medical Superintendent</value>
+      <webElementGuid>5435c9b2-07cf-4775-bd6a-beb5caabfa17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-2-1&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>6e20cba4-e6d6-46c4-b729-7e01397108fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-2-1']/span</value>
+      <webElementGuid>00af072d-1b77-4ff7-9c19-35480d11df19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select'])[3]/following::span[1]</value>
+      <webElementGuid>95922f32-bb0e-4f1b-99a6-4deedd8e4d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select'])[2]/following::span[2]</value>
+      <webElementGuid>0fae47a7-3fa5-4855-bc06-ed7edad33754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Abdul Hadi | Postgraduate Trainee'])[2]/preceding::span[1]</value>
+      <webElementGuid>f003c704-b6fa-4daa-942e-7a29b936b2d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Abdul Malik | Associate Professor Of Paediatric Cardiology'])[2]/preceding::span[2]</value>
+      <webElementGuid>05024a3b-319e-4bce-9626-c295d16b86f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>6b2b4d0e-6df1-4cf7-981a-f9648ba8fb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dr. Aasifa Siddiqa | Assist.Prof.Pathalogy,Additional Principal Medical Officer,Additional Medical Superintendent' or . = 'Dr. Aasifa Siddiqa | Assist.Prof.Pathalogy,Additional Principal Medical Officer,Additional Medical Superintendent')]</value>
+      <webElementGuid>ac103563-648a-4573-b42f-217303cef3ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

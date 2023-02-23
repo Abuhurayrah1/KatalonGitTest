@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select TypeOncePeriodic</name>
+   <tag></tag>
+   <elementGuidId>3cadefe5-5fcb-4f07-b3bd-a2245a3643b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ChargeTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ChargeTypeId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ffe8ec79-cd65-492e-bb98-88d9e46b8fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>1e64c1be-c779-46de-a280-a007c622a4be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-actions-box</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>909c477e-b03c-4250-a601-f89c8f62b760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a48c9ab6-4046-4220-a651-f2f80d52ab39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ChargeTypeId</value>
+      <webElementGuid>73bb054e-c201-44bb-b1f1-ad773fff2e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ChargeTypeId</value>
+      <webElementGuid>b9311a30-f745-45a2-8112-8a932ac41154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>d4afa179-69f2-4cc8-b0ff-877384c3519e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>ChargeTypeId</value>
+      <webElementGuid>4e15e665-3763-4c37-9a03-8bdc7105bf91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Type
+Once
+Periodic
+</value>
+      <webElementGuid>c2e341f7-ead5-47d5-a7c3-0d258dc7a571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ChargeTypeId&quot;)</value>
+      <webElementGuid>6c495d8d-e66a-482d-af1e-82b13733970f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ChargeTypeId']</value>
+      <webElementGuid>3520dfac-441d-4c82-a000-f3bb73d2ee0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div/div[9]/div/div[2]/div/select</value>
+      <webElementGuid>7dbef5dc-eb4c-4dc5-99de-699bbd3d98ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::select[1]</value>
+      <webElementGuid>cc9ef5a0-1b64-4a17-9ae9-8c5291f6d682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>6cbd2ba2-3cd9-4aa3-809d-e8bfa668febc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>3d0a7a03-7cf0-4ca8-9442-fa0c0e29c16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/div/select</value>
+      <webElementGuid>3ea0ad7f-0ed6-4b8c-8e0e-caba78f22176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ChargeTypeId' and @name = 'ChargeTypeId' and (text() = 'Select Type
+Once
+Periodic
+' or . = 'Select Type
+Once
+Periodic
+')]</value>
+      <webElementGuid>a015f3ce-56ff-40ef-a5ad-d1f4bfc4ee73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

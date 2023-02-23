@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_(AU480-8) CK-MB, Serum or Clotted Blood, 140</name>
+   <tag></tag>
+   <elementGuidId>298c839a-3854-4051-bc08-32f2b1dc4381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.select2-results__option.select2-results__option--highlighted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='select2-SubServicesId-results']/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>2d5cf6d2-5bb6-42c1-b39f-f561db52e48c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>18e7f317-0544-49fd-9e76-d97f2d99b08b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>5bb26021-ac3d-488c-be56-2ee5f8912f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b1506ccd-1537-44b0-8270-b1aee3e45561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>445</value>
+      <webElementGuid>496a2a3f-78cf-45c5-9204-f2295276e255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(AU480-8) CK-MB, Serum or Clotted Blood, 140</value>
+      <webElementGuid>638fe23b-5d9d-4445-b7ac-834dd694623c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-SubServicesId-results&quot;)/li[@class=&quot;select2-results__option select2-results__option--highlighted&quot;]</value>
+      <webElementGuid>c136c500-b859-418e-b070-cb0635be66c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-SubServicesId-results']/li</value>
+      <webElementGuid>b2cea2c9-8e8b-4f96-a936-2953d5ddad05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Waiting Time'])[1]/following::li[1]</value>
+      <webElementGuid>c4e6712c-efb5-4315-b0fc-6b32d178b225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[52]/following::li[1]</value>
+      <webElementGuid>98203d15-3b2b-497a-9f74-948d0e1cc659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TROP I + CK-MB Combo, 600'])[1]/preceding::li[1]</value>
+      <webElementGuid>7680b081-7d86-440f-be04-8d6f03a0138f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/span/span/span/ul/li</value>
+      <webElementGuid>3fd660bb-a187-44fc-bcb0-08f015770b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '(AU480-8) CK-MB, Serum or Clotted Blood, 140' or . = '(AU480-8) CK-MB, Serum or Clotted Blood, 140')]</value>
+      <webElementGuid>ab3c7702-4c0c-4ee1-8199-d3e3b6c1bd81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

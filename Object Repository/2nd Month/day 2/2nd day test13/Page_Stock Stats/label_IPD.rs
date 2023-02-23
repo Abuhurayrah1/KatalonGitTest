@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_IPD</name>
+   <tag></tag>
+   <elementGuidId>5a00e509-59b2-49dc-bcfa-f3e85badf20a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/div[2]/div/div[5]/div[2]/label[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3999d061-cd19-4891-941a-986e7726fd26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-radio kt-radio--brand</value>
+      <webElementGuid>148e206f-91da-413a-9e93-0f13c9350904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                     IPD
+                                                    
+                                                </value>
+      <webElementGuid>d5e35eb0-42e2-4376-9e62-d2bea0fe9e1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid&quot;]/div[@class=&quot;kt-portlet&quot;]/div[@class=&quot;kt-form kt-form--label-right&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;col-md-8&quot;]/label[@class=&quot;kt-radio kt-radio--brand&quot;]</value>
+      <webElementGuid>adb557cb-2ce1-4588-a890-a904760ade63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/div[2]/div/div[5]/div[2]/label[4]</value>
+      <webElementGuid>48adc1ed-1f6a-4c2e-a3f5-669e4bd8d65f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IPD']/parent::*</value>
+      <webElementGuid>0b7ae18a-16fc-43df-a6ed-33af266d2ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/label[4]</value>
+      <webElementGuid>d51648a1-730b-4e00-bd8e-a85b2019f3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                                                     IPD
+                                                    
+                                                ' or . = '
+                                                     IPD
+                                                    
+                                                ')]</value>
+      <webElementGuid>9e8578fd-0f44-4596-b78c-f60ec8f7084a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

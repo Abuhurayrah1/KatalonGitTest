@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dec 19, 2022 1731_glyphicon glyphicon-edit</name>
+   <tag></tag>
+   <elementGuidId>4974e726-974e-44f4-96fb-dfd819fdcb60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.UpdateModalForArmedForces.btn.btn-sm.btn-clean.btn-icon.btn-icon-md > i.glyphicon.glyphicon-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Patients']/tbody/tr[4]/td[6]/a[6]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9106036b-2e17-45bf-a6f7-e2c294a56faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-edit</value>
+      <webElementGuid>b5d9d658-894c-4d6b-8573-c3118e80acb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row even&quot;]/td[@class=&quot;RowActions text-center&quot;]/a[@class=&quot;UpdateModalForArmedForces  btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;glyphicon glyphicon-edit&quot;]</value>
+      <webElementGuid>9959745a-e8a0-4b9f-acf2-074a3af81f2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Patients']/tbody/tr[4]/td[6]/a[6]/i</value>
+      <webElementGuid>72c775a7-37a6-40a3-a3d9-da542ebf3eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[6]/a[6]/i</value>
+      <webElementGuid>e4541382-95ec-4b0c-83de-4d4809cde84a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

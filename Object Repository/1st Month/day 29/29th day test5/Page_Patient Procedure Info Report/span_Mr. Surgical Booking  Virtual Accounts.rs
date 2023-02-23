@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mr. Surgical Booking  Virtual Accounts</name>
+   <tag></tag>
+   <elementGuidId>bf8bb378-9bf7-44f4-9a3f-677fbc447383</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-7-0']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-7-0 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a5826549-60ba-4afc-a294-e68dbbb6b9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e8437177-e28d-477a-94b6-6410bc56e3e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mr. Surgical Booking | Virtual Accounts</value>
+      <webElementGuid>2a1f320b-7105-4931-9907-8d16445426e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-7-0&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>623a6c76-fe34-4128-b1bc-3bff30d7689e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-7-0']/span[2]</value>
+      <webElementGuid>aa21930b-5dec-4ae0-8cb6-4fcea762f063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[4]/following::span[2]</value>
+      <webElementGuid>509a36a8-4005-440a-a4ce-511dbbc9dd09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[4]/following::span[2]</value>
+      <webElementGuid>ccc09723-3ec3-46b5-8b4c-fcc5c91bd08e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Muhammad Babar Khan | Pulmonologist'])[2]/preceding::span[2]</value>
+      <webElementGuid>865f794d-e552-4f53-9417-252534d42a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Khawaja Nadeem | Consultant Cardiac Surgeon'])[2]/preceding::span[4]</value>
+      <webElementGuid>5a141df2-a067-4434-b3ee-2af4d9341b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div[3]/ul/li/a/span[2]</value>
+      <webElementGuid>4c2f2a66-41d9-4600-9974-131d377d52a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mr. Surgical Booking | Virtual Accounts' or . = 'Mr. Surgical Booking | Virtual Accounts')]</value>
+      <webElementGuid>448343cd-d584-4ecd-81b0-9a2b9029602b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

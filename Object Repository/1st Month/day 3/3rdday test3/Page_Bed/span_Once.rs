@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Once</name>
+   <tag></tag>
+   <elementGuidId>ec06c3a3-3ac7-4305-87da-bc18b62161de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-2-1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-2-1 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>006c1f2e-055e-4bdf-afb7-b64a671a93db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1493d1b8-3f89-4d35-8980-fc1c807209b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Once</value>
+      <webElementGuid>d5177717-b9d0-493e-8d4d-ccce32e8926e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-2-1&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>34bcaa2c-483e-429f-a09a-80a2be847c3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-2-1']/span</value>
+      <webElementGuid>5408a3b3-796d-440e-a466-95f6c6259178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type'])[3]/following::span[1]</value>
+      <webElementGuid>c5eeee68-5465-46a6-9c5e-555a6d0a350f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type'])[2]/following::span[2]</value>
+      <webElementGuid>64888473-8dea-461b-8f99-9bb4b16be77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Periodic'])[2]/preceding::span[1]</value>
+      <webElementGuid>f93b2549-6de8-458a-949e-7d84aad4c3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select Charges Type'])[1]/preceding::span[2]</value>
+      <webElementGuid>20636657-9963-4494-afb9-28436c23b85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/div/div/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>dbe6dcd3-1b84-43e9-ba3b-a30d761e58c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Once' or . = 'Once')]</value>
+      <webElementGuid>f57bba8d-2296-40ce-b451-913fadd56ea5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Services</name>
+   <tag></tag>
+   <elementGuidId>b8873315-7d4b-42d6-805d-421ff4d82a4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DivServicesForInvDiagSectionDDL > div.col-md-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DivServicesForInvDiagSectionDDL']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>56bd4013-b0b0-4b8e-9886-4b35354b64d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-3</value>
+      <webElementGuid>b8ae8d3c-7794-4d15-b394-84c614adcb39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Services*
+                        </value>
+      <webElementGuid>e06420a8-ce38-415d-9f9d-c13ea1845940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DivServicesForInvDiagSectionDDL&quot;)/div[@class=&quot;col-md-3&quot;]</value>
+      <webElementGuid>ddffbf35-a43d-444a-baf9-20ee369436e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DivServicesForInvDiagSectionDDL']/div</value>
+      <webElementGuid>2fd2a963-c612-41e5-b474-05853d311d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulmonary Embolism (Mr. Asim Safdar)'])[2]/following::div[2]</value>
+      <webElementGuid>c7364277-72fc-4d35-ae45-8c4f56ef6fa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Base Lines for Emergency-6 (Mr. Irfan Shahbaz)'])[2]/following::div[2]</value>
+      <webElementGuid>aaafaafe-3a38-4b75-b884-9243fbc642b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[7]/div</value>
+      <webElementGuid>2eca5150-d748-46c7-81e6-6efc479acfd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                            Services*
+                        ' or . = '
+                            Services*
+                        ')]</value>
+      <webElementGuid>6f1956b3-d45c-4640-bcdb-7f2111cb9dc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

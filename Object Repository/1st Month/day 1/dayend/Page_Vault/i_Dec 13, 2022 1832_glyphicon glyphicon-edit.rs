@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dec 13, 2022 1832_glyphicon glyphicon-edit</name>
+   <tag></tag>
+   <elementGuidId>cfddf425-edd8-4295-99ac-750555ed53e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Patients']/tbody/tr/td[6]/a[7]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>73b9fddd-323f-4f49-92ba-fa034fb1e78f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-edit</value>
+      <webElementGuid>db211b8f-86e4-4b67-a105-4e677baf50d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;RowActions text-center&quot;]/a[@class=&quot;EditInModal  btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;glyphicon glyphicon-edit&quot;]</value>
+      <webElementGuid>8810091b-2a08-4634-88ed-deff17e5c15a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Patients']/tbody/tr/td[6]/a[7]/i</value>
+      <webElementGuid>9b9f7e5a-f344-4b6b-991b-5375ab86501e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/i</value>
+      <webElementGuid>a65ef423-e824-4a5c-8859-5af6fde92108</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

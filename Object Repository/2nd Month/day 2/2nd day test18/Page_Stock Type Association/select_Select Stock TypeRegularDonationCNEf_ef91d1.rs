@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Stock TypeRegularDonationCNEf_ef91d1</name>
+   <tag></tag>
+   <elementGuidId>a3eddeae-72ff-4ede-9cd1-24801aee40eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='StockTypes']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#StockTypes</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d14f4c06-b6c5-4f0b-bc5c-2c551342146e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>67990a36-b157-43d1-b364-b8c05d1fbb25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5d02c4ac-3451-4296-b7c5-9d5dd70d7003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>StockTypes</value>
+      <webElementGuid>be7b5a85-4503-4a4a-8b8b-3b1dc3f92b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>StockTypes</value>
+      <webElementGuid>c4f44635-dafa-4c64-a614-d594a4e2028f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>884fb6be-3090-484e-8a92-fece52651462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>StockTypes</value>
+      <webElementGuid>e55e54b5-7b67-41a1-8393-b8b02ae12c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Stock Type
+Regular
+Donation
+CNE
+fgegad
+asd
+</value>
+      <webElementGuid>afae45eb-56b5-4d62-b638-1aba2fd54975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;StockTypes&quot;)</value>
+      <webElementGuid>3793f232-7c90-4243-8778-725639c37399</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='StockTypes']</value>
+      <webElementGuid>56fdf0b0-841b-4e5b-bfe7-365d42fd5e73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>d3240d38-e900-4428-b828-fb5af9378694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>755ca38c-0afc-4396-a33a-012a1cf55986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stock Types'])[1]/following::select[1]</value>
+      <webElementGuid>e8491091-6dc3-498e-9d62-b7b7fcbee7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Stock Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>01597dae-f63a-48d4-81b4-9cead636c3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Stock Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>1235e439-8624-40e6-920e-397539641970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/select</value>
+      <webElementGuid>d17f6de5-2b82-402c-aa8d-46e6f5f20130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'StockTypes' and @name = 'StockTypes' and (text() = 'Select Stock Type
+Regular
+Donation
+CNE
+fgegad
+asd
+' or . = 'Select Stock Type
+Regular
+Donation
+CNE
+fgegad
+asd
+')]</value>
+      <webElementGuid>b619cc5d-9600-4a26-835d-59e5717216f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

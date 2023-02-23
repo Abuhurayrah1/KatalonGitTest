@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Brig Hamid  saeed  Malik  Dec 23, 2022 10_1b5aad</name>
+   <tag></tag>
+   <elementGuidId>76b516c9-d38c-4ef7-b1db-6eb03d1ca0cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='PrintInModal'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#VerifiedQueueTable > tbody > tr.bg-success-tab-row.odd > td.text-center.nowrapColumn.nopaddingColumn > #PrintInModal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a50dc221-c86a-436b-a088-652a71c63fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PrintInModal</value>
+      <webElementGuid>b80ec3d2-7192-4d6a-879a-2057e5047b2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Print</value>
+      <webElementGuid>8104cfc3-de2f-4e0f-815a-2de0e1066c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PrintInModal service-grid barcode btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>ff488c03-43b5-4c98-81a2-0065df7808b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VerifiedQueueTable&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;text-center nowrapColumn nopaddingColumn&quot;]/a[@id=&quot;PrintInModal&quot;]</value>
+      <webElementGuid>b05d251f-9ef5-475f-aee9-52a45a3d9690</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='PrintInModal'])[6]</value>
+      <webElementGuid>9f633f2e-5066-4c91-9e9f-154655949b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='VerifiedQueueTable']/tbody/tr/td[10]/a[9]</value>
+      <webElementGuid>b66f9e9a-5a8a-4fc0-aa39-10bb71108a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CK-MB (Mass)'])[2]/following::a[9]</value>
+      <webElementGuid>7bce7fe8-e0b7-489c-b0b9-8b85ac6ba274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing...'])[4]/preceding::a[14]</value>
+      <webElementGuid>b3acef10-4f06-4f59-a1f3-34e8438bd62b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::a[14]</value>
+      <webElementGuid>9639c287-e545-43d1-a979-6eec7fec3b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div[2]/div/table/tbody/tr/td[10]/a[9]</value>
+      <webElementGuid>a1856979-1e0b-497a-89d6-c24756fba8cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'PrintInModal' and @title = 'Print']</value>
+      <webElementGuid>955ccf10-f9a6-4b94-a0f4-5e10a2e0f70b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

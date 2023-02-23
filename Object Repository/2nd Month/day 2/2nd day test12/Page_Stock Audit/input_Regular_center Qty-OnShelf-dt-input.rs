@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Regular_center Qty-OnShelf-dt-input</name>
+   <tag></tag>
+   <elementGuidId>b9673448-4a0c-4903-9c9e-cf75f21f50a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='number']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4e05d975-564c-4fba-8421-f517e788a803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> center Qty-OnShelf-dt-input</value>
+      <webElementGuid>f41694e2-e870-4187-a24b-1f5c6e5e6248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>b2c3adcc-39eb-414a-8f14-0cca64553e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Qty On Shelf</value>
+      <webElementGuid>0f0ffc28-20b8-4911-9e75-f86cdf4c185b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;List&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[5]/input[@class=&quot;center Qty-OnShelf-dt-input&quot;]</value>
+      <webElementGuid>2f5824a7-d0f8-4c6d-8717-267c3cd6598d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='number']</value>
+      <webElementGuid>7b6be031-c49b-43a7-a107-fb8d05f058a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='List']/tbody/tr/td[5]/input</value>
+      <webElementGuid>1ca46400-670d-495c-a55c-4b462b1e9cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/input</value>
+      <webElementGuid>2cf94c23-fe06-40e5-b953-86f9163c775a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @placeholder = 'Qty On Shelf']</value>
+      <webElementGuid>4c0e1f5c-9b6c-454f-95ee-e46b992a66fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

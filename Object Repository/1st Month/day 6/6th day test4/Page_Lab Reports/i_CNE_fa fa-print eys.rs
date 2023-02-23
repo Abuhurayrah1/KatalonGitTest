@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_CNE_fa fa-print eys</name>
+   <tag></tag>
+   <elementGuidId>f779f2b5-0117-4a14-a387-53fe01ae61f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='SearchLabReport']/tbody/tr/td[12]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-print.eys</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a0649773-4233-4d20-9eb1-990bd33a71ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-print eys</value>
+      <webElementGuid>fb02b426-0cb6-49aa-83ee-ca74e42cbd45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchLabReport&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;PrintInModal service-grid&quot;]/i[@class=&quot;fa fa-print eys&quot;]</value>
+      <webElementGuid>d00bbc96-49d7-43de-a30e-dd35e6831e43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='SearchLabReport']/tbody/tr/td[12]/a/i</value>
+      <webElementGuid>8c123f06-d99a-43cd-b042-065c682932cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]/a/i</value>
+      <webElementGuid>dd428ac9-0775-4377-b0f4-1bac162eff1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

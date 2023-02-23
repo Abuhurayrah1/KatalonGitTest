@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_710,56 And 44 Viabilty, (9)</name>
+   <tag></tag>
+   <elementGuidId>c742f70b-8b0e-478b-a84f-d41bcee434eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.select2-results__option.select2-results__option--highlighted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='select2-DignosisId-results']/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5b9f692b-20ec-442c-b08c-8efbfa0acb7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>b827c132-da22-47a6-b8d5-e8db9e494e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>dcf406f8-24f7-4351-8a68-3b958aed235f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>626b54ae-df9a-4b0d-b169-1923efd18e0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>162089c7-de6a-465b-b961-0d025d21661e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 7/10,5/6 And 4/4 Viabilty, (9)</value>
+      <webElementGuid>2859168e-8e08-463e-931d-808c79caef25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-DignosisId-results&quot;)/li[@class=&quot;select2-results__option select2-results__option--highlighted&quot;]</value>
+      <webElementGuid>95717f8e-3394-4c02-8395-5135d62255be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-DignosisId-results']/li[2]</value>
+      <webElementGuid>416d3bd5-2575-4e29-88cd-37fd69a733f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::li[2]</value>
+      <webElementGuid>085f0a70-386d-4bb5-9117-8b45a2e5c0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::li[2]</value>
+      <webElementGuid>288c1986-46ab-4b16-bcab-c04820e4c357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANGINA NEW ONSET (3)'])[1]/preceding::li[3]</value>
+      <webElementGuid>483b2b0c-1a55-4ac2-aa77-fa5d9a19afea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris (0)'])[1]/preceding::li[4]</value>
+      <webElementGuid>4e7ebd9d-6a04-4f3c-be48-312ccb3dc2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='7/10,5/6 And 4/4 Viabilty, (9)']/parent::*</value>
+      <webElementGuid>d207916b-0047-4518-a825-fb9c44c1e502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/ul/li[2]</value>
+      <webElementGuid>88c1dbfe-4319-4425-8647-a1a0a732eb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = ' 7/10,5/6 And 4/4 Viabilty, (9)' or . = ' 7/10,5/6 And 4/4 Viabilty, (9)')]</value>
+      <webElementGuid>973c9826-3526-4907-8747-61527cd6c9d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

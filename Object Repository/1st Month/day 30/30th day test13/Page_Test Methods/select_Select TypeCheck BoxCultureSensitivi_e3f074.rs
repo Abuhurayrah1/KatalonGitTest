@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select TypeCheck BoxCultureSensitivi_e3f074</name>
+   <tag></tag>
+   <elementGuidId>fcba00f1-33ea-4304-a950-2ac94b738969</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AttributeTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AttributeTypeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3c26f56e-db72-4bf3-9a67-edd6f880d523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ResetSelectPicker</value>
+      <webElementGuid>54409c6b-b766-4aea-812e-adc88c2808b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AttributeTypeId</value>
+      <webElementGuid>4fcd3949-c31b-4192-bb85-a69c64fdd31d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AttributeTypeId</value>
+      <webElementGuid>9edf071e-ab81-4a55-9fd0-392c486d9c93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>AttributeTypeId</value>
+      <webElementGuid>f013f378-6326-448f-b5fd-b717c46af07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>efd64d71-f18e-41ee-ba7b-23e1ca990518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Type
+Check Box
+CultureSensitivityReport
+ETTReport
+Heading
+ModeAndDoppler
+MultiLineText
+Numeric
+Radio Button
+Text
+</value>
+      <webElementGuid>ebe223fa-f14f-4cd5-aef6-de42fb1f7e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AttributeTypeId&quot;)</value>
+      <webElementGuid>953d8f87-20e0-49cf-8ad4-8aea5103039f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AttributeTypeId']</value>
+      <webElementGuid>e0e33b91-3dd5-4598-b140-6d19c045dfc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='repeater']/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>bd93011d-fe8b-4ece-894b-c025586997c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>97c774c0-532b-4fb2-a3be-1568ff79f003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>480e3143-4a7c-4041-aaf2-bbe349c9dd7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>dda2e82c-965a-4f3d-b23f-097917ff6404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>2747586f-dc7e-4db1-bc2f-780e74abad8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AttributeTypeId' and @name = 'AttributeTypeId' and (text() = 'Select Type
+Check Box
+CultureSensitivityReport
+ETTReport
+Heading
+ModeAndDoppler
+MultiLineText
+Numeric
+Radio Button
+Text
+' or . = 'Select Type
+Check Box
+CultureSensitivityReport
+ETTReport
+Heading
+ModeAndDoppler
+MultiLineText
+Numeric
+Radio Button
+Text
+')]</value>
+      <webElementGuid>e1b080b3-d5af-436f-884b-477c2911e26e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

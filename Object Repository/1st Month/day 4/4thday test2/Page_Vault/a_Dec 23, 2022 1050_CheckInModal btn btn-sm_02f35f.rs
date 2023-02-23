@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dec 23, 2022 1050_CheckInModal btn btn-sm_02f35f</name>
+   <tag></tag>
+   <elementGuidId>1f164c33-444c-4c86-a128-93382c494703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Patients']/tbody/tr/td[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.CheckInModal.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b357200f-711e-4b5d-b1de-8d24856f4303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Check In</value>
+      <webElementGuid>61137b82-b4da-46e1-bfa6-d201292b8613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CheckInModal btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>e1880148-dfdf-45c5-9369-8230fe0eb3ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;RowActions text-center&quot;]/a[@class=&quot;CheckInModal btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>56899a13-5b7a-4a18-9f1d-7bca93b940c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Patients']/tbody/tr/td[6]/a</value>
+      <webElementGuid>c69eff40-d2c1-465a-8c29-efba9721a7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 23, 2022 10:50'])[1]/following::a[1]</value>
+      <webElementGuid>c29df120-b8d7-45f1-9abe-b5aacdee73c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::a[1]</value>
+      <webElementGuid>a345d19d-4ddf-4509-9473-e3fc16cdafcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[2]/preceding::a[9]</value>
+      <webElementGuid>d452a5af-1d57-41df-985a-ee7fc27ea430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a</value>
+      <webElementGuid>6b4a43d1-02bd-454c-a514-feb8e4ea381e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Check In']</value>
+      <webElementGuid>b9487d4c-7bff-4ec1-b34e-1c7b5bbd06af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

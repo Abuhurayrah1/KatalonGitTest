@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Know More_icon-line-arrow-right_1</name>
+   <tag></tag>
+   <elementGuidId>a1c3f03d-47aa-4e2d-beac-0e8557999c74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='slider']/div/div[2]/div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-line-arrow-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>85d06301-e67e-4a90-b3aa-2b5d49d25d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-line-arrow-right</value>
+      <webElementGuid>5cbf6d29-fcb8-41a9-929a-b0128b248e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider&quot;)/div[@class=&quot;swiper-container swiper-parent swiper-container-initialized swiper-container-horizontal&quot;]/div[@class=&quot;swiper-navs&quot;]/div[@class=&quot;slider-arrow-right swiper-button-disabled&quot;]/i[@class=&quot;icon-line-arrow-right&quot;]</value>
+      <webElementGuid>ae2e1c5f-cf8b-4585-a715-22da36353b20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='slider']/div/div[2]/div[2]/i</value>
+      <webElementGuid>7bbe496b-8cc6-4bce-841a-225f0e595f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>77fa1a9b-bfc8-49fb-8186-0f63b7f170ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

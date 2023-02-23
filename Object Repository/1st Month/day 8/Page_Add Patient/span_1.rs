@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>97df0566-e2f0-4d75-96e2-30fb3ca972ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chooseCNIC > label.kt-radio.kt-radio--brand > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chooseCNIC']/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93e8ea8a-6af7-4fc3-a2de-1f1beb7b77a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chooseCNIC&quot;)/label[@class=&quot;kt-radio kt-radio--brand&quot;]/span[1]</value>
+      <webElementGuid>ba72c9ec-4d08-4cf5-aa0d-5c175321ded6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chooseCNIC']/label/span</value>
+      <webElementGuid>84af6792-f8fc-4e3e-8155-f8dfb5ddcb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/label/span</value>
+      <webElementGuid>8e5ae640-d35b-49d8-846b-6cd4457d69bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

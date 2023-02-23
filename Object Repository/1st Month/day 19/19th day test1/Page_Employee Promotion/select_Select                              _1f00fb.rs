@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select                              _1f00fb</name>
+   <tag></tag>
+   <elementGuidId>24179eae-4a1f-4f00-b07e-77bba7a4201a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PromotionType</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PromotionType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c84a8a4a-9603-4fae-9b5b-33f02b4b83ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PromotionType</value>
+      <webElementGuid>8f8c2b42-14fe-41e9-a246-4e103d69de44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PromotionType</value>
+      <webElementGuid>85cf76dd-d3aa-41e1-9630-6510ffa773d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>06f0466f-8faa-4ed8-8445-c4846adcf118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>32825cdf-665d-4471-83ff-58275be1289c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>34afee93-c0d8-444a-8bfa-1fd07ed8e14f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>7efc36e6-a1e2-4b44-b9fe-522250f4add7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Select
+                                        Institutional level Promotion
+                                        Government level Promotion
+                                    </value>
+      <webElementGuid>b93da64a-2f17-46f3-896a-3339a1f0c1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PromotionType&quot;)</value>
+      <webElementGuid>9699368b-8bf7-4519-b914-117f68504426</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PromotionType']</value>
+      <webElementGuid>ad81288b-59c1-47f7-885d-9fdcf165e21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formEmployeePromotion']/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>d22ccac9-450a-4191-beaa-60ab74ed9d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>674f0216-43a9-46cc-8266-ebe7df994e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[3]/preceding::select[1]</value>
+      <webElementGuid>e492cbd2-577c-4a42-95b7-fb4c1e380d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[4]/preceding::select[1]</value>
+      <webElementGuid>edfae9c9-28e2-4838-8211-7e0ebbcb6e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>5ecc2c58-151f-4530-a854-ba2bab6a93bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PromotionType' and @name = 'PromotionType' and (text() = '
+                                        Select
+                                        Institutional level Promotion
+                                        Government level Promotion
+                                    ' or . = '
+                                        Select
+                                        Institutional level Promotion
+                                        Government level Promotion
+                                    ')]</value>
+      <webElementGuid>fbb1f7c5-0dbe-4311-826e-7be308e14782</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

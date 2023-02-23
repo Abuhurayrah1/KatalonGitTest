@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dec 26, 2022 1229_UpdateModalForArmedForc_0d73d3</name>
+   <tag></tag>
+   <elementGuidId>6fcc3701-69c3-4b98-bc0e-78066dbebf34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Patients']/tbody/tr/td[6]/a[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.UpdateModalForArmedForces.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>98d1695d-807e-4e21-aad5-fd8d0fb07df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>5be8ed59-d019-4fd8-80c8-81bf1207f56d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>479143a9-485c-483f-b70b-1fde460a5c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>00a8b3cb-9d54-4705-a516-ec8df14f2c47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>UpdateModalForArmedForces  btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>7722e69f-5776-423b-9bf0-301f8ef4b419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;RowActions text-center&quot;]/a[@class=&quot;UpdateModalForArmedForces  btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>d0b1551f-02cd-4393-a6f2-2a564464aaf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Patients']/tbody/tr/td[6]/a[6]</value>
+      <webElementGuid>047f674c-00cc-480b-bd2a-d5bda184b153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 26, 2022 12:29'])[1]/following::a[6]</value>
+      <webElementGuid>ba180f27-5e4b-4de9-b446-d60703242610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::a[6]</value>
+      <webElementGuid>8a6838d7-f518-4537-ab11-d16b74bcabe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A/NO-0102 Maj Zeeshan Test'])[1]/preceding::a[4]</value>
+      <webElementGuid>349c5aa6-d340-4b5a-a03e-d68c2a57ec01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[2]/preceding::a[4]</value>
+      <webElementGuid>a74a12e5-6982-4da7-b619-dac2fecdd71a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>1211455f-a4e0-4fc7-b72c-40af0483d54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Edit']</value>
+      <webElementGuid>de9bfe00-c7e4-4d87-a758-20363b0e3cc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

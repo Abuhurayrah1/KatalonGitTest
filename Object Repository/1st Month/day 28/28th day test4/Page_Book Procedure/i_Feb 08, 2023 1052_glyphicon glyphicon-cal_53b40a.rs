@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Feb 08, 2023 1052_glyphicon glyphicon-cal_53b40a</name>
+   <tag></tag>
+   <elementGuidId>a5d51397-6ee6-4dbf-a04f-6e0413f37578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-calendar.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='BookProcedureDataTable']/tbody/tr/td[6]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a43df600-63b7-4715-a7fe-fa6b3da21064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-calendar btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>54dc19e7-6a03-41a7-b3fc-a5008149af4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BookProcedureDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[1]/i[@class=&quot;glyphicon glyphicon-calendar btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>450c3be3-b9c8-4408-9af5-2b346ca8ba1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='BookProcedureDataTable']/tbody/tr/td[6]/a/i</value>
+      <webElementGuid>15f90236-87fe-48ae-88fe-4cfe00cfc4dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a/i</value>
+      <webElementGuid>583b0985-58bf-48ff-933f-7be80ba32924</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

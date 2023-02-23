@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mr. Branch  Administrator_ReviewInModal b_7da815</name>
+   <tag></tag>
+   <elementGuidId>34922005-fa82-46d4-8c6e-9b8bb832024a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='VerificationQueueTable']/tbody/tr/td[10]/a[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#VerificationQueueTable > tbody > tr.odd > td.text-center.nowrapColumn.nopaddingColumn > a.ReviewInModal.barcode.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2a940e32-d17a-49be-a7ef-2bb38978513e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Review</value>
+      <webElementGuid>eee0d8b5-c042-412c-b03d-1b020f6e2c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ReviewInModal barcode btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>d079715c-acbf-416e-b621-1d92a20b1db7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VerificationQueueTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center nowrapColumn nopaddingColumn&quot;]/a[@class=&quot;ReviewInModal barcode btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>6c127698-d1f3-4022-ab4b-5da0988e3873</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='VerificationQueueTable']/tbody/tr/td[10]/a[7]</value>
+      <webElementGuid>ac32eab2-7a00-47d4-bcee-552806a06c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CK-MB'])[2]/following::a[7]</value>
+      <webElementGuid>7994a432-b85f-4304-9fff-9fcb5b9cf72b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing...'])[3]/preceding::a[12]</value>
+      <webElementGuid>87e7d457-e5a6-4b88-b472-8ebdff12d4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[2]/preceding::a[12]</value>
+      <webElementGuid>7fa1f82f-2289-4a1a-b2d4-59296a850417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div[2]/div/table/tbody/tr/td[10]/a[7]</value>
+      <webElementGuid>67a51c0d-f80d-4828-8e52-87f1527e0ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Review']</value>
+      <webElementGuid>5748b0c7-7a93-4772-8437-545d9f0eb866</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

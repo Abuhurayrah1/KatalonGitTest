@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Unit</name>
+   <tag></tag>
+   <elementGuidId>9a6023ed-b10d-4f78-9dc0-ea09ce7e09a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='repeater']/div/div/div/div/div[4]/div/button/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ab6363b-a1be-4954-b7aa-c187d086da54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>75bd9804-25ed-4f7f-a07b-0e76190a81fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Unit</value>
+      <webElementGuid>2f6d9f05-8d61-4854-9753-96db603c5c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;repeater&quot;)/div[@class=&quot;row Myrepeater&quot;]/div[@class=&quot;form-horizontal col-md-10 pl-1 pr-1&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2 form-group mr-0 ml-0 pr-0 pl-1&quot;]/div[@class=&quot;dropdown bootstrap-select form-control Reset dropup&quot;]/button[@class=&quot;btn dropdown-toggle btn-light&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>220de768-47c3-4b7e-bb44-5c36d7100bca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='repeater']/div/div/div/div/div[4]/div/button/div/div/div</value>
+      <webElementGuid>e5fd0b1a-e792-4da2-a565-c07320e7020c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[3]/following::div[4]</value>
+      <webElementGuid>5ac69bac-c1bb-41a8-836b-abcf5a65d463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select type.'])[1]/following::div[6]</value>
+      <webElementGuid>cac9ba80-78ef-4af3-a3c3-3520bccc38f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Unit'])[3]/preceding::div[2]</value>
+      <webElementGuid>5273385f-c970-4e48-9371-bb6437a52524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='μ( μ)'])[2]/preceding::div[2]</value>
+      <webElementGuid>97a8746b-80ad-4ddf-9155-29b0c9bdf493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button/div/div/div</value>
+      <webElementGuid>858f7dc3-3cef-4056-8875-38329c6a4c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Unit' or . = 'Select Unit')]</value>
+      <webElementGuid>c6d9d3e8-c39d-43ea-9558-1de82b60c19a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Out Door Pharmacy_glyphicon glyphicon-th-large</name>
+   <tag></tag>
+   <elementGuidId>b987c0b1-16fc-4b60-bdc3-78ed4fa40fac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='PharmacyQueue']/tbody/tr/td[8]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-th-large</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8c20d853-2b63-40e5-98b3-b551e0aff7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-th-large</value>
+      <webElementGuid>92b1db7c-5bd7-4fa6-a291-5f3e5c14eaf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PharmacyQueue&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;ViewInModal&quot;]/i[@class=&quot;glyphicon glyphicon-th-large&quot;]</value>
+      <webElementGuid>35dd6ea2-f656-4d02-85b6-87b3bfd1c744</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='PharmacyQueue']/tbody/tr/td[8]/a/i</value>
+      <webElementGuid>9070d53d-cc15-4c70-8752-d0c414468b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a/i</value>
+      <webElementGuid>c0c1e451-52e0-462e-9540-9769212edccc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

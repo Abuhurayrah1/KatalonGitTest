@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select RelationDaughterFatherHusband_0b343e</name>
+   <tag></tag>
+   <elementGuidId>a0a191d3-a771-406b-8b17-eaa66866719a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='OnPanelRelationId'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown.bootstrap-select.form-control.hiddenField.show > #OnPanelRelationId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>73407b08-70d3-4305-bd44-fb45cdb5ad86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control hiddenField</value>
+      <webElementGuid>5635bfeb-f7a3-4a70-9c40-564be6bb25d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d33183d4-6e32-44ca-a5de-de0b32de2151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>OnPanelRelationId</value>
+      <webElementGuid>63f7e838-0c74-4dd3-a82a-53e366d2a77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>OnPanelRelationId</value>
+      <webElementGuid>1e98b731-f19c-4657-9fec-2c8324ce3acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>5eaae6c1-3fd8-4d3f-a8fa-bf8723ad6106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>OnPanelRelationId</value>
+      <webElementGuid>a78ae007-b41a-43e1-a899-523fbd092758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Relation
+Daughter
+Father
+Husband
+Mother
+Son
+Spouse
+Wife
+</value>
+      <webElementGuid>802ab46d-c4d8-4f9f-bc3d-882eade5dbae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EditPatientRegistrationFormForArmedForces&quot;)/div[@id=&quot;UserEducationDatatableDiv&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@id=&quot;DependentDisplayOnPanel&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 mb-2 row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;dropdown bootstrap-select form-control hiddenField show&quot;]/select[@id=&quot;OnPanelRelationId&quot;]</value>
+      <webElementGuid>c2b16a89-06ed-4671-98f6-ff5d05062e3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='OnPanelRelationId'])[2]</value>
+      <webElementGuid>7723a911-627d-4706-8d21-7a6fdbf2642b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DependentDisplayOnPanel']/div[3]/div/div[2]/div/select</value>
+      <webElementGuid>5bfed82c-e266-47f2-b0f4-03d30817cf50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[74]/following::select[1]</value>
+      <webElementGuid>987b9577-8124-41bd-9a47-2ec92fa965bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Relation'])[11]/preceding::select[1]</value>
+      <webElementGuid>e0907ce5-00aa-4070-8313-23ccaf003b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Relation'])[12]/preceding::select[1]</value>
+      <webElementGuid>9e07724e-24cd-42e3-8345-147d6ea08949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[3]/div/div[2]/div/select</value>
+      <webElementGuid>963b5e03-924d-4a84-a81f-a0de01a1ed1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'OnPanelRelationId' and @name = 'OnPanelRelationId' and (text() = 'Select Relation
+Daughter
+Father
+Husband
+Mother
+Son
+Spouse
+Wife
+' or . = 'Select Relation
+Daughter
+Father
+Husband
+Mother
+Son
+Spouse
+Wife
+')]</value>
+      <webElementGuid>600397db-aae4-4d11-b5d4-53b9f8ffe45a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

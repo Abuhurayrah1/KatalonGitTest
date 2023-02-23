@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cath Lab Store</name>
+   <tag></tag>
+   <elementGuidId>6b08575b-0cb1-4bcd-a395-c8507805796e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-2-9']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-2-9 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25d5ac1b-48bc-4ebd-bf38-75f1f7e4adde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>26df6131-763c-4275-85c0-768b00ff2e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cath Lab Store</value>
+      <webElementGuid>2b421e64-6eba-440f-bce7-2098a162dabf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-2-9&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>d162ab48-7b02-4574-b67c-e1325209ad16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-2-9']/span</value>
+      <webElementGuid>6d65d0cd-716a-4498-a5c3-9e7fc9518c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash Store (Accounts)'])[2]/following::span[1]</value>
+      <webElementGuid>97f52cb3-4280-48ba-90f0-8641e19a8467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biomedical Store'])[2]/following::span[2]</value>
+      <webElementGuid>ede75bb5-f001-421f-b5a5-843f51238e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cath Lab Store MP'])[2]/preceding::span[1]</value>
+      <webElementGuid>bddbb81d-4997-48c7-9281-89891c265777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CCTV Store'])[2]/preceding::span[2]</value>
+      <webElementGuid>02e1777a-e0bd-4f84-a72e-1762fb0901c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div[2]/ul/li[10]/a/span</value>
+      <webElementGuid>67936296-cae5-4e01-9d86-dbee000ba3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cath Lab Store' or . = 'Cath Lab Store')]</value>
+      <webElementGuid>a09b3f62-3957-411c-98e0-fe4d3674039b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

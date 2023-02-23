@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_iHealthCure Medical  Clinical Hospital</name>
+   <tag></tag>
+   <elementGuidId>adb3e85b-50e3-4628-a16a-c0ccd3ac49b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header_menu']/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>a737de46-0751-4233-838b-2ee8da7d318f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iHealthCure Medical &amp; Clinical Hospital</value>
+      <webElementGuid>542a2df1-cb2e-4095-a001-5ebd37312e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header_menu&quot;)/a[1]/h3[1]</value>
+      <webElementGuid>d7acd98e-7106-4691-b422-210ce0bb8ec9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header_menu']/a/h3</value>
+      <webElementGuid>fa1d5df6-e09b-402b-90db-d1ebf9220902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cheque Printing Vault'])[1]/following::h3[1]</value>
+      <webElementGuid>6fa8765f-c5c8-4264-a5e9-839fbc27408f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Cheque Printing Configuration'])[1]/following::h3[1]</value>
+      <webElementGuid>bf076e26-11ac-402e-b0d1-7ecedb922d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts'])[1]/preceding::h3[2]</value>
+      <webElementGuid>95dbbb40-9596-4221-b075-26bfb6d439cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='iHealthCure Medical &amp; Clinical Hospital']/parent::*</value>
+      <webElementGuid>3a7dccb6-786e-43a3-8f39-2c90c334ee83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>cee0a84f-eae4-4e64-a91d-938f9627c012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'iHealthCure Medical &amp; Clinical Hospital' or . = 'iHealthCure Medical &amp; Clinical Hospital')]</value>
+      <webElementGuid>163d157c-57a5-4f7f-bced-9f66f837f3ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

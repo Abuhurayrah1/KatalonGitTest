@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Oct 13, 2022  1048_Action  btn btn-sm btn_bafd62</name>
+   <tag></tag>
+   <elementGuidId>afe76855-bc58-48f5-9d89-d1e76fd1e6ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DeletedDeadPatients']/tbody/tr/td[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c07dc976-b3f6-4ec8-9f4d-51374fbd72d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Cancel deletion of death certificate</value>
+      <webElementGuid>7b849a2c-60a8-43ce-bb85-18fce3fb8353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action  btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>f086faa9-d29f-40bb-9782-84142c4a1f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DeletedDeadPatients&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action  btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>243c53d8-e477-4f0c-838d-1ddb80b329e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DeletedDeadPatients']/tbody/tr/td[6]/a</value>
+      <webElementGuid>310e4d44-87b0-4977-af04-5280c361fb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr. Muhammad Mudassar'])[3]/following::a[1]</value>
+      <webElementGuid>6ff06f79-2f30-4ea0-9dbe-3445a78835c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mrs. Sakina Jan W/O Maqbool Ur Rehman (Regular)'])[1]/preceding::a[1]</value>
+      <webElementGuid>1983561e-79cd-40b6-a7b9-ea68d401d563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a</value>
+      <webElementGuid>a993edeb-050a-4c36-83a1-480969fd8efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Cancel deletion of death certificate']</value>
+      <webElementGuid>ecd8a8c7-a98f-4f0d-a798-4d72aca9f6cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

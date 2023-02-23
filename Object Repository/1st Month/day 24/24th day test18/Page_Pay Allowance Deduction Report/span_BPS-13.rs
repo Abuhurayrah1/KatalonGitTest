@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BPS-13</name>
+   <tag></tag>
+   <elementGuidId>38b66658-deeb-4c66-9878-083368925138</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-2-5']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-2-5 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed3b0944-6592-4798-aaff-4ccbe52a4e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4a342a20-7aff-468d-8e66-f518b6db4963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BPS-13</value>
+      <webElementGuid>b215ec5c-596b-4bf2-8bb2-c86e794aacbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-2-5&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>b392fc8e-6e53-4186-8e7a-ed503a1f1edb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-2-5']/span</value>
+      <webElementGuid>e1304957-b505-4a2c-8dda-73b6b9c47f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BPS-12'])[2]/following::span[1]</value>
+      <webElementGuid>4899b054-4fb6-4db9-beda-5c63c9be3227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BPS-11'])[2]/following::span[2]</value>
+      <webElementGuid>20b0bf6b-4965-4cf4-ba34-971ad7814c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BPS-14'])[2]/preceding::span[1]</value>
+      <webElementGuid>66ea96e6-3e80-4862-8864-0feb7ad6204a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BPS-15'])[2]/preceding::span[2]</value>
+      <webElementGuid>83f07da2-3dd5-44ce-bbfd-6667159b770d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/ul/li[6]/a/span</value>
+      <webElementGuid>a25299c5-260d-4189-a295-9e150ad56f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BPS-13' or . = 'BPS-13')]</value>
+      <webElementGuid>12f3c6fa-3bb7-4d51-aa6a-178ba6e35450</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

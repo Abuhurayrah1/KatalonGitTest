@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Secondary Diagnosis</name>
+   <tag></tag>
+   <elementGuidId>bd49f9c0-90dc-425c-b22c-139b7b849a02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AddDivId']/div[2]/div/div[4]/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5dd555dc-182d-46ba-a640-a3e94e68ed02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hiddenField</value>
+      <webElementGuid>14a26cd9-d088-4c15-8d78-2aa42fb2216d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>SecondaryDiagnosis</value>
+      <webElementGuid>45df4d39-35f4-4e1f-b996-7a2aa5ef4c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Secondary Diagnosis</value>
+      <webElementGuid>87347cf1-260c-42cc-a911-f89e476ea8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddDivId&quot;)/div[@class=&quot;kt-form kt-form--label-right&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;form-group  row&quot;]/div[@class=&quot;col-md-3&quot;]/label[@class=&quot;hiddenField&quot;]</value>
+      <webElementGuid>1fc48c03-3645-428d-bcc5-3222292935de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div[4]/div[3]/label</value>
+      <webElementGuid>5c0ebf71-accd-47ee-91d8-1d87c2bf76b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Diagnosis'])[1]/following::label[2]</value>
+      <webElementGuid>8e6afb0d-d55b-4b1b-80fe-8369d9ddf1c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exam Findings'])[1]/following::label[4]</value>
+      <webElementGuid>a20c5055-30af-4918-875b-08b848d88739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select atleast one checkbox'])[1]/preceding::label[2]</value>
+      <webElementGuid>24c64792-8d67-4ae2-b570-6217c06cfa9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinical Notes Restrict Designations'])[3]/preceding::label[3]</value>
+      <webElementGuid>d9c2ce73-fc4e-41c5-b6a5-947bee270e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Secondary Diagnosis']/parent::*</value>
+      <webElementGuid>15a8fb8e-7d51-4839-b2a2-9f5e15ad8843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/label</value>
+      <webElementGuid>aa34ea79-e677-426e-93ae-307de6ff398d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Secondary Diagnosis' or . = 'Secondary Diagnosis')]</value>
+      <webElementGuid>36182621-af24-40f8-aab9-c6e0c0bd37b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

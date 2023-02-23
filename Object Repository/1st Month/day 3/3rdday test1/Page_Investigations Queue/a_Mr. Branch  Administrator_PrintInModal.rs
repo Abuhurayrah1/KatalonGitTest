@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mr. Branch  Administrator_PrintInModal</name>
+   <tag></tag>
+   <elementGuidId>7bdbd59a-68b4-42ab-b16e-61cbdc5fb443</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='PrintInModal']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PrintInModal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>774d46a8-e8e6-4619-bd73-dcbc333d7fdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PrintInModal</value>
+      <webElementGuid>e3786349-a205-4165-afe0-0568f4758645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Print</value>
+      <webElementGuid>ab26d985-ce62-4363-8f9e-a291909402ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PrintInModal service-grid barcode btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>83b91f21-2914-4fdd-8247-f549130243f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VerifiedQueueTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center nowrapColumn nopaddingColumn&quot;]/a[@id=&quot;PrintInModal&quot;]</value>
+      <webElementGuid>bdc515cf-45d1-4f10-83b5-6b17bcf6666b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='PrintInModal']</value>
+      <webElementGuid>6939ea69-a9db-433b-9fd7-2f8e42a0fd31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='VerifiedQueueTable']/tbody/tr/td[10]/a[8]</value>
+      <webElementGuid>25c2e7eb-acad-4685-b323-5be31b2e0943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CK-MB'])[1]/following::a[8]</value>
+      <webElementGuid>de7c646e-e41d-409a-8eed-33baa15428a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 22, 2022 09:59 AM'])[1]/preceding::a[12]</value>
+      <webElementGuid>d8a1ee8e-a1c8-405d-8250-124e2a7fe4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]</value>
+      <webElementGuid>bffdef75-7129-44d2-87fe-8203232148e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'PrintInModal' and @title = 'Print']</value>
+      <webElementGuid>e5e0664e-b713-4272-a838-b98d5f35e16f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

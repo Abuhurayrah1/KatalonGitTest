@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dec 23, 2022 1022_UpdateModalForArmedForc_6cf520</name>
+   <tag></tag>
+   <elementGuidId>2ce7bdc7-0933-4c9a-a89c-de077b22d4f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Patients']/tbody/tr/td[6]/a[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.UpdateModalForArmedForces.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cb4e5196-b46d-4277-96ed-87c66ee0dc38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>753cb3de-881e-407e-825e-0a24b00eaf33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>6231a29a-f6c3-4c98-8d7d-a838e2340e3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>50e80973-22c0-4685-98d7-506628169705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>UpdateModalForArmedForces  btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>6e2b481f-bcc7-40cc-b603-bd3cfb75007a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;RowActions text-center&quot;]/a[@class=&quot;UpdateModalForArmedForces  btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>e8ffbdc6-6e57-42cf-abf1-dc6c69124765</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Patients']/tbody/tr/td[6]/a[6]</value>
+      <webElementGuid>ee8e39de-e530-4a7d-828b-715c24ede659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dec 23, 2022 10:22'])[1]/following::a[6]</value>
+      <webElementGuid>8db51c1e-1024-4e4f-8e91-ed60d13129cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::a[6]</value>
+      <webElementGuid>0120d8a4-5aa9-4ed4-8fda-95a5ba0fffe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO-3725577 Sig Man Safi Ullah'])[1]/preceding::a[4]</value>
+      <webElementGuid>cbaf677c-cef4-4fad-86a7-ae628803ebfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[2]/preceding::a[4]</value>
+      <webElementGuid>1f2384b7-57b2-42d1-863a-461dd6309520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>740e4132-4393-4625-8246-20135768d355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Edit']</value>
+      <webElementGuid>01dcdd6a-4bbd-41fc-87bd-d496b5a18441</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

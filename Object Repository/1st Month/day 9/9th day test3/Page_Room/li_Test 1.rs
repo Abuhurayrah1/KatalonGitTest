@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Test 1</name>
+   <tag></tag>
+   <elementGuidId>e1a8dad2-bafa-420b-9ab8-a3b298e36d30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-BuildingId-result-37nr-7ba8b700-218b-ed11-80e6-005056af7c10' and (text() = 'Test 1' or . = 'Test 1')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>1cefa6ff-e219-4381-9ca3-4c504c691d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>5bf42b9f-eaa6-490a-90b2-645e2cdea724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-BuildingId-result-37nr-7ba8b700-218b-ed11-80e6-005056af7c10</value>
+      <webElementGuid>a30b98b6-608a-435c-be5f-9dc7231f2a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>22020c6b-c680-41d6-9bb3-fdf6388462cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3d4e31a7-851f-4aec-ad3a-858725231e69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-BuildingId-result-37nr-7ba8b700-218b-ed11-80e6-005056af7c10</value>
+      <webElementGuid>7c5de02b-b6be-44a1-b5df-dded3fc26d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test 1</value>
+      <webElementGuid>ccb579f2-5bef-4fc1-a4f4-efa9711b2d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-BuildingId-result-37nr-7ba8b700-218b-ed11-80e6-005056af7c10&quot;)</value>
+      <webElementGuid>45d597f5-6228-4092-a209-63741e13dfd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-BuildingId-result-37nr-7ba8b700-218b-ed11-80e6-005056af7c10' and (text() = 'Test 1' or . = 'Test 1')]</value>
+      <webElementGuid>1aa693c9-1d44-43e8-b93e-177b4f1b3703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

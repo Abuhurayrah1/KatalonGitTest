@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AllCancelledPaidCancelledPendingConf_faafb2</name>
+   <tag></tag>
+   <elementGuidId>e3680468-22a5-41aa-a720-5fdd57d8ed65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AppointmentStatusId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AppointmentStatusId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>45b8f5b8-6d77-402b-a801-03128e7c6c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>8b9c7238-577e-4a81-8165-04c931f607eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>aca30fbe-c13f-4db1-bc27-e4121446e6cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AppointmentStatusId</value>
+      <webElementGuid>961a281e-d5db-47e3-9887-521158c96e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>AppointmentStatusId</value>
+      <webElementGuid>101b1c16-57c3-4d38-9ebd-9f8c34a3fe7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>f7670648-ce40-4229-9f5b-06b359b17ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All
+Cancelled
+Paid
+Cancelled
+Pending
+Confirmed
+Consulted
+Booked
+</value>
+      <webElementGuid>382d07e2-663f-4904-9dfc-3813ab33d9ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AppointmentStatusId&quot;)</value>
+      <webElementGuid>87445624-e459-4653-b852-595f1cc0a154</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AppointmentStatusId']</value>
+      <webElementGuid>9c685f6a-5321-459e-bb21-158b50d5971f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>0f451eff-dc8f-4639-9fc8-57f9f95fd923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::select[1]</value>
+      <webElementGuid>4ecf1d14-a7a6-4cd5-894a-8dce6e8f04b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prof. Dr Tahir Naveed | Professor Of Cardiology'])[2]/following::select[1]</value>
+      <webElementGuid>8b6a5117-61e0-43cf-909d-0d59eaba2c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/preceding::select[1]</value>
+      <webElementGuid>b59f6104-6d37-4d1e-9a89-664eb16b81f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[3]/preceding::select[1]</value>
+      <webElementGuid>452b4274-7648-48a2-837f-7db4d0a70cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>ecb53c1d-0047-4c83-956b-97336c316e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AppointmentStatusId' and @name = 'AppointmentStatusId' and (text() = 'All
+Cancelled
+Paid
+Cancelled
+Pending
+Confirmed
+Consulted
+Booked
+' or . = 'All
+Cancelled
+Paid
+Cancelled
+Pending
+Confirmed
+Consulted
+Booked
+')]</value>
+      <webElementGuid>9b5adaa6-3bde-4ad5-97fb-54587e683235</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

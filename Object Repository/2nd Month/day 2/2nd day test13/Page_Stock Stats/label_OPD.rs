@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_OPD</name>
+   <tag></tag>
+   <elementGuidId>6141feac-bf04-4c13-ad87-732a23169a81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/div[2]/div/div[5]/div[2]/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>11a280d6-75e9-4d9b-b89c-906e9ac3959d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-radio kt-radio--brand</value>
+      <webElementGuid>9fc66f66-51b2-4d82-ae46-2b3854fd9c2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                     OPD
+                                                    
+                                                </value>
+      <webElementGuid>488efb47-5537-41fe-9f0f-0c9b12f5f186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid&quot;]/div[@class=&quot;kt-portlet&quot;]/div[@class=&quot;kt-form kt-form--label-right&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;col-md-8&quot;]/label[@class=&quot;kt-radio kt-radio--brand&quot;]</value>
+      <webElementGuid>b8c185e1-da42-4a8e-8c61-7b97948ceb01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/div[2]/div/div[5]/div[2]/label[2]</value>
+      <webElementGuid>c71e6fdf-fa53-45a9-91e7-d22ffc585017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale Type'])[1]/following::label[2]</value>
+      <webElementGuid>26895dbb-e03f-477a-a628-98d375c61c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OPD']/parent::*</value>
+      <webElementGuid>45418252-62d9-42ba-9bd4-e8ca4bc6c953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/label[2]</value>
+      <webElementGuid>84a654a1-fffe-4359-bbf3-2913cad4e03e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                                                     OPD
+                                                    
+                                                ' or . = '
+                                                     OPD
+                                                    
+                                                ')]</value>
+      <webElementGuid>77d089ac-4641-423a-b1e6-6b72a76b8360</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

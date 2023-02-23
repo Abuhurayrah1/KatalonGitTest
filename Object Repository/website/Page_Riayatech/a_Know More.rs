@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Know More</name>
+   <tag></tag>
+   <elementGuidId>84760047-9b7f-4249-961c-c17c03c795d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='slider']/div/div/div[4]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.button-rounded.button-large.ml-0.mt-4.fadeInUp.animated</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>af5967b3-e677-4494-b96b-8b1448952127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>services.php</value>
+      <webElementGuid>af7de219-9329-4d16-8bcd-b8c24a622afe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-animate</name>
+      <type>Main</type>
+      <value>fadeInUp</value>
+      <webElementGuid>91c89462-f1f6-4d02-84a3-049584e6f687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-delay</name>
+      <type>Main</type>
+      <value>400</value>
+      <webElementGuid>58a09674-6def-4084-b564-c59d23af4b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-rounded button-large ml-0 mt-4 fadeInUp animated</value>
+      <webElementGuid>13c2cada-2d47-4a6f-8c34-78a0b3b58198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Know More</value>
+      <webElementGuid>1784126e-586c-427c-b43d-e9fd5d5fe237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider&quot;)/div[@class=&quot;swiper-container swiper-parent swiper-container-initialized swiper-container-horizontal&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide dark swiper-slide-active&quot;]/div[@class=&quot;container clearfix&quot;]/div[@class=&quot;slider-caption&quot;]/a[@class=&quot;button button-rounded button-large ml-0 mt-4 fadeInUp animated&quot;]</value>
+      <webElementGuid>d2c41669-707c-458f-9b0c-5b4ff8e08da8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='slider']/div/div/div[4]/div/div/a</value>
+      <webElementGuid>22063687-3af5-4ad4-aeb0-0add25b72f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Know More')])[3]</value>
+      <webElementGuid>e2a34cda-cfc1-4093-92a6-e6e82096c5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workflow Management'])[1]/following::a[1]</value>
+      <webElementGuid>9438fb20-dbe8-439e-8b31-2f9b78bcf8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Know More'])[2]/following::a[1]</value>
+      <webElementGuid>c193d686-6a2f-45d6-aa2f-944dd40bc848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::a[1]</value>
+      <webElementGuid>b9ac3f82-8c83-42c5-89a7-e0dd9f3a2117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Post'])[1]/preceding::a[1]</value>
+      <webElementGuid>577704ad-2587-43e9-ad21-61e9da8c6cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'services.php')])[3]</value>
+      <webElementGuid>8a6e1d9b-6055-405a-ad42-bc4c2db3ccff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a</value>
+      <webElementGuid>9b1e956c-17f0-43fc-b4c4-aef2fb7d21ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'services.php' and (text() = 'Know More' or . = 'Know More')]</value>
+      <webElementGuid>cd179dab-6f00-47c2-82cc-b07609460244</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

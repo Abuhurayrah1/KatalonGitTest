@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_24 hrs. creatinine clearance</name>
+   <tag></tag>
+   <elementGuidId>e0303482-a50f-454a-9c90-2d2b54d0d014</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-4-1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-4-1 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>323261bb-fc68-48af-b0b5-90199954a836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9a20b6ed-f761-4dae-94ea-481aca6711e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>24 hrs. creatinine clearance</value>
+      <webElementGuid>9fe7bd82-d863-4f50-823d-db7ae2a26c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-4-1&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>44ee2443-8ea0-486b-9d5c-dc9b1149a99d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-4-1']/span</value>
+      <webElementGuid>65cf912d-812e-4d2b-98d0-0197ae191281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Test Method'])[3]/following::span[1]</value>
+      <webElementGuid>ac423ea9-d165-4dfa-bc4c-4ba6199c145f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Test Method'])[2]/following::span[2]</value>
+      <webElementGuid>b4b76b3b-2532-498c-9520-d55b21d2eb76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abacus-Haemoglobin'])[2]/preceding::span[7]</value>
+      <webElementGuid>3a8e9117-0bf6-432d-8062-a9304f7be27f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abacus-Hb'])[2]/preceding::span[8]</value>
+      <webElementGuid>a1c94273-8bd7-4507-961a-c7759fac4eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[2]/div/div/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>dc2bb0be-1f76-4645-b7d8-70672e27da52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '24 hrs. creatinine clearance' or . = '24 hrs. creatinine clearance')]</value>
+      <webElementGuid>7c1e9b25-6ab8-411b-ba8d-1a15fea680dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

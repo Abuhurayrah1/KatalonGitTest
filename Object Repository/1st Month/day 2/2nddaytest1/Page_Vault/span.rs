@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>014043a4-29f0-4e3f-bf36-29f67e5acdcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CheckedInDiv_Wrapper']/div[2]/div[2]/label[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5df8a6ee-4648-4462-b16b-c8ed34785e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CheckedInDiv_Wrapper&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-9&quot;]/label[@class=&quot;kt-radio kt-radio--brand&quot;]/span[1]</value>
+      <webElementGuid>7d85f0a3-5083-487f-9ec1-d76e0d06b5c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CheckedInDiv_Wrapper']/div[2]/div[2]/label[4]/span</value>
+      <webElementGuid>31fd4b0d-6f70-4d37-94d9-b6285b46705e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label[4]/span</value>
+      <webElementGuid>ce5a7eff-463a-4a8c-a84a-83823256f4c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

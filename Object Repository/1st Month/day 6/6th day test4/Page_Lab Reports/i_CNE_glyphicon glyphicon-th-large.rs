@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_CNE_glyphicon glyphicon-th-large</name>
+   <tag></tag>
+   <elementGuidId>c2434cec-f38b-4a62-bd76-b147fc0e56cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='SearchLabReport']/tbody/tr/td[12]/a[5]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-th-large</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ba3514b8-0ad5-498b-9c6e-c5ef11b13638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-th-large</value>
+      <webElementGuid>9403a04f-f242-4139-8b01-42cbf64514b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchLabReport&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;PatientIDRDetail service-grid btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;glyphicon glyphicon-th-large&quot;]</value>
+      <webElementGuid>8127b074-fd3d-4374-9aa8-d4b38094e313</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='SearchLabReport']/tbody/tr/td[12]/a[5]/i</value>
+      <webElementGuid>96238cab-24e1-470d-8b15-afcbb1f11970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/i</value>
+      <webElementGuid>71d82a9e-c018-4ff5-9788-38bd0c33e431</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

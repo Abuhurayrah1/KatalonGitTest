@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_iHealthCure Medical  Clinical Hospital</name>
+   <tag></tag>
+   <elementGuidId>77ee97bc-f3a1-430c-b1ae-4ed8cd2acdb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header_menu']/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>894f397f-17f8-4e9b-8407-ecec3ba3f67b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iHealthCure Medical &amp; Clinical Hospital</value>
+      <webElementGuid>0424a3b8-4a6f-47e5-b36d-283e5e696fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header_menu&quot;)/a[1]/h3[1]</value>
+      <webElementGuid>dbf82587-1d6c-4927-96d0-6321c0bbc6e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header_menu']/a/h3</value>
+      <webElementGuid>5b0f6cbf-0d05-47a9-9248-2d820e0606a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts'])[1]/preceding::h3[2]</value>
+      <webElementGuid>c11a4bb6-3e8c-4f67-9676-98df66173983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='iHealthCure Medical &amp; Clinical Hospital']/parent::*</value>
+      <webElementGuid>6e367cd4-786b-42b2-80e7-56a92c31b50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>0476969d-7b98-4cee-b32b-3732bfb270ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'iHealthCure Medical &amp; Clinical Hospital' or . = 'iHealthCure Medical &amp; Clinical Hospital')]</value>
+      <webElementGuid>a5f235ef-9f2f-401f-a5b3-3265a8282e4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

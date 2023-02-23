@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>697a7058-a8bd-4b89-850c-a6d3a2fb5b2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.bt-editable.BedInModal.editable.cssDosage.service-grid.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ERNSTable']/tbody/tr/td[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b821ca4f-e182-40e8-81eb-1b2485771252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bt-editable BedInModal editable cssDosage service-grid btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>8bcad641-5c74-4d48-ae29-1d414dae287a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>0d73bf80-34f2-49b0-96ac-a6d7c7e03666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>?</value>
+      <webElementGuid>4d6d8c5c-3e82-43b9-857c-87a6145aa37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ERNSTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;nowrapColumn nopaddingColumn&quot;]/a[@class=&quot;bt-editable BedInModal editable cssDosage service-grid btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>7973fd78-6acd-4008-bc37-a23f43509223</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ERNSTable']/tbody/tr/td[8]/a</value>
+      <webElementGuid>cbfdbed6-3b98-4c44-a5de-5b9dd6215dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission Queue'])[4]/following::a[1]</value>
+      <webElementGuid>ce9f273f-1fa2-4e01-8460-a3aa947c57bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb 13, 2023 11:38'])[1]/following::a[1]</value>
+      <webElementGuid>7c571b0c-9986-456f-b7f1-9a5130474268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing...'])[1]/preceding::a[38]</value>
+      <webElementGuid>3f1bb82d-90f3-4110-ae51-812953194b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a</value>
+      <webElementGuid>b865f53a-d94f-4e4d-8fda-1288e081f320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '?' or . = '?')]</value>
+      <webElementGuid>cd7eed24-5777-4411-b21f-567cdfa39486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

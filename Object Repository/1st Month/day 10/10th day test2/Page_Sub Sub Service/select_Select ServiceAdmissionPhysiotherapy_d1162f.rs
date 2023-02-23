@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select ServiceAdmissionPhysiotherapy_d1162f</name>
+   <tag></tag>
+   <elementGuidId>9d15cf62-dfd6-4a0b-b73d-1130b39e1ccd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ServiceId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ServiceId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5d28aae9-6ac8-4876-b278-8bf235e6920b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control ResetSelectPicker</value>
+      <webElementGuid>b4210d30-353f-440d-88a9-d70c60eeaff4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8432d23e-2ffa-46c1-980b-3705247ed6f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ServiceId</value>
+      <webElementGuid>9483f30c-a810-46d0-9436-a40198f86036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ServiceId</value>
+      <webElementGuid>798b10b8-857b-413a-b262-067160842421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>f111aec6-d315-4e5c-960b-66748377a429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>ServiceId</value>
+      <webElementGuid>22d08f9b-0b3c-4857-92d3-452e4c34e7af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Service
+Admission
+Physiotherapy
+Procedures
+test service
+test service 01
+Admissions
+Investigations
+Diagnostics
+</value>
+      <webElementGuid>b9613981-a4e9-48d6-83d5-b7151e6684bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ServiceId&quot;)</value>
+      <webElementGuid>a256c1c8-5466-4322-83c9-4db612497657</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ServiceId']</value>
+      <webElementGuid>3bd673f7-46ae-4d93-80f2-e3ac22789c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>dc28068d-2fdb-41c3-a649-eb02cd60c90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>3e427887-092f-4695-8b59-5307687e7f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Service'])[2]/preceding::select[1]</value>
+      <webElementGuid>b0b9feb5-d489-4197-996b-ef1b66a4fe82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Service'])[3]/preceding::select[1]</value>
+      <webElementGuid>45284f20-c349-453d-a394-d296612630b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>1c076784-9b64-42b3-8c73-dc91b75d559d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ServiceId' and @name = 'ServiceId' and (text() = 'Select Service
+Admission
+Physiotherapy
+Procedures
+test service
+test service 01
+Admissions
+Investigations
+Diagnostics
+' or . = 'Select Service
+Admission
+Physiotherapy
+Procedures
+test service
+test service 01
+Admissions
+Investigations
+Diagnostics
+')]</value>
+      <webElementGuid>89c9a84a-f6ad-49bf-986f-ab9f7174189f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

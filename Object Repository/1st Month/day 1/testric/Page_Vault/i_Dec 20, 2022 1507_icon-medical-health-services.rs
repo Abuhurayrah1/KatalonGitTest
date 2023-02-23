@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dec 20, 2022 1507_icon-medical-health-services</name>
+   <tag></tag>
+   <elementGuidId>b201f8db-1f24-4f93-bd70-68dcd1b2d068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Patients']/tbody/tr[5]/td[6]/a/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;RowActions text-center&quot;]/a[@class=&quot;CheckInModal btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;icon-medical-health-services&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bd787c87-5237-4faa-804c-95de2781f43f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-medical-health-services</value>
+      <webElementGuid>e64d5820-fdf3-4172-9b73-ef0aefc86bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;RowActions text-center&quot;]/a[@class=&quot;CheckInModal btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;icon-medical-health-services&quot;]</value>
+      <webElementGuid>0c806b18-a97a-462b-b10f-591c21a244d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Patients']/tbody/tr[5]/td[6]/a/i</value>
+      <webElementGuid>8db43277-994f-44e0-83bc-fb0d43551d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[6]/a/i</value>
+      <webElementGuid>d1acd53d-bc82-43b4-b3c0-43cdd1146e2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

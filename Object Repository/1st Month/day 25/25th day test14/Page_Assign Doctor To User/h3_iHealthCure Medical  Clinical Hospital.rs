@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_iHealthCure Medical  Clinical Hospital</name>
+   <tag></tag>
+   <elementGuidId>13b4cf12-c228-42e6-81b5-76d2cd7d3b3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header_menu']/a/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>c33c2515-b86a-4ee6-ad5e-edc0c95b78f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iHealthCure Medical &amp; Clinical Hospital</value>
+      <webElementGuid>3cbf5ad9-e904-4623-a9be-c5dea4be7353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header_menu&quot;)/a[1]/h3[1]</value>
+      <webElementGuid>887a7b50-d823-47ce-8d74-e65c5a841ff6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header_menu']/a/h3</value>
+      <webElementGuid>f47d9ca9-4483-46a5-baf2-83f51aecdd2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Execution Time'])[1]/following::h3[1]</value>
+      <webElementGuid>ffd5e852-d389-4d8f-8928-e77bc19cf4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Performance Overview'])[1]/following::h3[1]</value>
+      <webElementGuid>77c84bb9-f4b0-4602-add0-123564296a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts'])[1]/preceding::h3[2]</value>
+      <webElementGuid>d5a941f2-02c1-4603-b686-752d5367d494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='iHealthCure Medical &amp; Clinical Hospital']/parent::*</value>
+      <webElementGuid>4dd18605-6212-465e-bf28-9e723d4c2b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>699ac725-017e-49bb-848c-978be9112601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'iHealthCure Medical &amp; Clinical Hospital' or . = 'iHealthCure Medical &amp; Clinical Hospital')]</value>
+      <webElementGuid>52180ba6-b1c4-4aa0-93e8-b093581a6b6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

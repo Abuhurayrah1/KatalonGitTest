@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Strength0Ml120Ml2.5Ml5Ml0.025_338045</name>
+   <tag></tag>
+   <elementGuidId>00bdff2d-234b-4c50-b572-1ef4e8a112b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#MedicineStrengthId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='MedicineStrengthId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a64bc05f-2684-4637-9639-2b8b37fd6db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>681f6395-201d-4882-806d-59d64d2a82b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-actions-box</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>36a23d8a-315b-4874-aa9f-3cff12bc5761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8b0d2f64-b625-4d16-beea-cb96e1c1e4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MedicineStrengthId</value>
+      <webElementGuid>33741125-49f4-4212-b4e0-b76f9f4fbca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ListMedicineGenericStrength[0][MedicineStrengthId]</value>
+      <webElementGuid>044383d3-206d-46d9-95db-b058b29feb7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>953abcdf-689f-4b89-babf-6db269d56456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Strength
+0Ml
+120Ml
+2.5Ml
+5Ml
+0.025mg
+206mg
+0.125mg
+100mcg
+60Ml
+1.2MU
+0.5ug
+225mg
+200-
+50Ml
+0Units
+0unknown
+20Ml
+1000Ml
+500Ml
+10Ml
+10u
+200Ml
+6Ml
+1.5u
+1.2gm
+5Units
+100Ml
+815mg
+240Ml
+12.5mg
+35mcg
+13.5mg
+200mcg
+15mg
+20mg
+5mg
+25000I
+275mg
+100ug
+215mg
+5%
+24mg
+51mg
+1gm
+103mg
+41mg
+40mg
+25nUnits
+0.1mg
+0mg
+125mg
+35m
+25a
+50Mmg
+0.5mcg
+0.2mL
+3.5g
+5000I-U
+2Ml
+65mg
+100I-U
+1.68gm
+300mL
+5000I
+24mg
+0.5mL
+830mg
+2mL
+25000mUnits
+40mcg
+32mg
+0.45mI
+135mg
+18mUnits
+480mg
+18μg
+3mcg
+5L
+2.5mmg
+40mL
+10T%
+0.5%
+2.5mg
+41.5mg
+1MI-U
+0.9%
+103mg
+5mmg
+25%
+320mgm
+100I
+135mmg
+4000I-U
+0.5gm
+1Ml
+97mg
+45mg
+8.4%
+0.04mg
+227Gg
+0.4mL
+500mg
+10mg
+3mL
+5mg
+0.8mL
+2%
+250μg
+40yg
+875mg
+454gm
+0.03mg
+125g
+25mcg
+6mcg
+10y%
+10mcg
+1%
+26mg
+0.0769mg
+12mg
+0.5g
+0.09mg
+62.5mg
+325mg
+37.5mg
+362.5mg
+6.5mg
+81mg
+375mg
+50μg
+0.25g
+2g
+0.9g
+6mg
+1.2mg
+15g
+20g
+10g
+30g
+6g
+5g
+10yg
+500μg
+450mg
+667mg
+4.5yg
+4mL
+25mL
+2mL
+5mL
+1.5mL
+10mL
+1mL
+50mL
+20mL
+100mL
+60mL
+90mL
+250mL
+500mL
+15mL
+1p
+6000Units
+6MUnits
+12MUnits
+4000Units
+80m.
+450y
+2.5y
+275ymg
+40μmg
+1.5ymg
+667ymg
+14y
+1.5mg
+2.5mg
+2.6mg
+6.4mg
+6.25mg
+25mg
+60mg
+67mg
+100mg
+120mg
+200mg
+300mg
+400mg
+625mg
+0.25mg
+5.6mg
+90mg
+675mg
+1.2g
+3mg
+550mg
+600yg
+3.125mg
+67.5mg
+600mg
+1g
+180mg
+7.5mg
+7mg
+30yg
+240mg
+355mL
+240mL
+0.4mg
+25.75mg
+1000mL
+120mL
+50g
+350mg
+16mg
+150mg
+650mg
+75mg
+5yg
+1mg
+8mg
+40mg
+80mg
+5mg
+70mg
+30mg
+1000I-U
+370mg
+2mg
+15gm
+97mg
+2.5mg
+12.5mg
+400mL
+19.1mg
+20%
+2.5Mmg
+22.7mg
+850mg
+2.5Mg
+4%
+0.25mcg
+100yI
+1250mg
+52.5mg
+35mg
+850nL
+25000μUnits
+3.5mL
+500mcg
+750mg
+84mg
+125I-U
+1.25mg
+30mL
+650ng
+125ymg
+50mg
+250mg
+100μg
+49mg
+400mcg
+320mg
+1.25mL
+0.15mg
+20mg
+1000mg
+4.5gm
+70Units
+50mcg
+400I-U
+135ymg
+1.5MI-U
+14.5mg
+800mg
+0.2mg
+4g
+18mg
+100000μUnits
+4mg
+0.35mg
+0.6mL
+250mcg
+1.5e+006I
+51mg
+10mg
+30Units
+12.72mg
+49mg
+0.5mg
+160mg
+20mcg
+25μg
+1.6mg
+250-
+4.5mg
+500mg
+</value>
+      <webElementGuid>ddcf53c9-9f26-4267-a8f7-62c0a74fd807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MedicineStrengthId&quot;)</value>
+      <webElementGuid>f9faa896-e438-4856-9421-ea6d4c1cd7db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='MedicineStrengthId']</value>
+      <webElementGuid>0fe00d71-a2b2-4e95-9ce8-210d1bfc9cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='MedicinesCreateForm']/div[5]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/select</value>
+      <webElementGuid>c1fd33f3-3ff2-4f79-aed8-d5b039862b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strength'])[2]/following::select[1]</value>
+      <webElementGuid>cf725f60-c743-4d6a-9aca-18d9059f530e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Isoconazole'])[2]/following::select[1]</value>
+      <webElementGuid>d2ebede3-e992-40d5-b38f-cd5005dfecb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Strength'])[2]/preceding::select[1]</value>
+      <webElementGuid>4a3beb49-5a1b-4ff2-8434-3b344b614b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Strength'])[3]/preceding::select[1]</value>
+      <webElementGuid>7ea026aa-6f05-44eb-a801-64ebad9cab7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/select</value>
+      <webElementGuid>1bccf506-65a0-471d-bdf8-1f8208381b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'MedicineStrengthId' and @name = 'ListMedicineGenericStrength[0][MedicineStrengthId]' and (text() = 'Select Strength
+0Ml
+120Ml
+2.5Ml
+5Ml
+0.025mg
+206mg
+0.125mg
+100mcg
+60Ml
+1.2MU
+0.5ug
+225mg
+200-
+50Ml
+0Units
+0unknown
+20Ml
+1000Ml
+500Ml
+10Ml
+10u
+200Ml
+6Ml
+1.5u
+1.2gm
+5Units
+100Ml
+815mg
+240Ml
+12.5mg
+35mcg
+13.5mg
+200mcg
+15mg
+20mg
+5mg
+25000I
+275mg
+100ug
+215mg
+5%
+24mg
+51mg
+1gm
+103mg
+41mg
+40mg
+25nUnits
+0.1mg
+0mg
+125mg
+35m
+25a
+50Mmg
+0.5mcg
+0.2mL
+3.5g
+5000I-U
+2Ml
+65mg
+100I-U
+1.68gm
+300mL
+5000I
+24mg
+0.5mL
+830mg
+2mL
+25000mUnits
+40mcg
+32mg
+0.45mI
+135mg
+18mUnits
+480mg
+18μg
+3mcg
+5L
+2.5mmg
+40mL
+10T%
+0.5%
+2.5mg
+41.5mg
+1MI-U
+0.9%
+103mg
+5mmg
+25%
+320mgm
+100I
+135mmg
+4000I-U
+0.5gm
+1Ml
+97mg
+45mg
+8.4%
+0.04mg
+227Gg
+0.4mL
+500mg
+10mg
+3mL
+5mg
+0.8mL
+2%
+250μg
+40yg
+875mg
+454gm
+0.03mg
+125g
+25mcg
+6mcg
+10y%
+10mcg
+1%
+26mg
+0.0769mg
+12mg
+0.5g
+0.09mg
+62.5mg
+325mg
+37.5mg
+362.5mg
+6.5mg
+81mg
+375mg
+50μg
+0.25g
+2g
+0.9g
+6mg
+1.2mg
+15g
+20g
+10g
+30g
+6g
+5g
+10yg
+500μg
+450mg
+667mg
+4.5yg
+4mL
+25mL
+2mL
+5mL
+1.5mL
+10mL
+1mL
+50mL
+20mL
+100mL
+60mL
+90mL
+250mL
+500mL
+15mL
+1p
+6000Units
+6MUnits
+12MUnits
+4000Units
+80m.
+450y
+2.5y
+275ymg
+40μmg
+1.5ymg
+667ymg
+14y
+1.5mg
+2.5mg
+2.6mg
+6.4mg
+6.25mg
+25mg
+60mg
+67mg
+100mg
+120mg
+200mg
+300mg
+400mg
+625mg
+0.25mg
+5.6mg
+90mg
+675mg
+1.2g
+3mg
+550mg
+600yg
+3.125mg
+67.5mg
+600mg
+1g
+180mg
+7.5mg
+7mg
+30yg
+240mg
+355mL
+240mL
+0.4mg
+25.75mg
+1000mL
+120mL
+50g
+350mg
+16mg
+150mg
+650mg
+75mg
+5yg
+1mg
+8mg
+40mg
+80mg
+5mg
+70mg
+30mg
+1000I-U
+370mg
+2mg
+15gm
+97mg
+2.5mg
+12.5mg
+400mL
+19.1mg
+20%
+2.5Mmg
+22.7mg
+850mg
+2.5Mg
+4%
+0.25mcg
+100yI
+1250mg
+52.5mg
+35mg
+850nL
+25000μUnits
+3.5mL
+500mcg
+750mg
+84mg
+125I-U
+1.25mg
+30mL
+650ng
+125ymg
+50mg
+250mg
+100μg
+49mg
+400mcg
+320mg
+1.25mL
+0.15mg
+20mg
+1000mg
+4.5gm
+70Units
+50mcg
+400I-U
+135ymg
+1.5MI-U
+14.5mg
+800mg
+0.2mg
+4g
+18mg
+100000μUnits
+4mg
+0.35mg
+0.6mL
+250mcg
+1.5e+006I
+51mg
+10mg
+30Units
+12.72mg
+49mg
+0.5mg
+160mg
+20mcg
+25μg
+1.6mg
+250-
+4.5mg
+500mg
+' or . = 'Select Strength
+0Ml
+120Ml
+2.5Ml
+5Ml
+0.025mg
+206mg
+0.125mg
+100mcg
+60Ml
+1.2MU
+0.5ug
+225mg
+200-
+50Ml
+0Units
+0unknown
+20Ml
+1000Ml
+500Ml
+10Ml
+10u
+200Ml
+6Ml
+1.5u
+1.2gm
+5Units
+100Ml
+815mg
+240Ml
+12.5mg
+35mcg
+13.5mg
+200mcg
+15mg
+20mg
+5mg
+25000I
+275mg
+100ug
+215mg
+5%
+24mg
+51mg
+1gm
+103mg
+41mg
+40mg
+25nUnits
+0.1mg
+0mg
+125mg
+35m
+25a
+50Mmg
+0.5mcg
+0.2mL
+3.5g
+5000I-U
+2Ml
+65mg
+100I-U
+1.68gm
+300mL
+5000I
+24mg
+0.5mL
+830mg
+2mL
+25000mUnits
+40mcg
+32mg
+0.45mI
+135mg
+18mUnits
+480mg
+18μg
+3mcg
+5L
+2.5mmg
+40mL
+10T%
+0.5%
+2.5mg
+41.5mg
+1MI-U
+0.9%
+103mg
+5mmg
+25%
+320mgm
+100I
+135mmg
+4000I-U
+0.5gm
+1Ml
+97mg
+45mg
+8.4%
+0.04mg
+227Gg
+0.4mL
+500mg
+10mg
+3mL
+5mg
+0.8mL
+2%
+250μg
+40yg
+875mg
+454gm
+0.03mg
+125g
+25mcg
+6mcg
+10y%
+10mcg
+1%
+26mg
+0.0769mg
+12mg
+0.5g
+0.09mg
+62.5mg
+325mg
+37.5mg
+362.5mg
+6.5mg
+81mg
+375mg
+50μg
+0.25g
+2g
+0.9g
+6mg
+1.2mg
+15g
+20g
+10g
+30g
+6g
+5g
+10yg
+500μg
+450mg
+667mg
+4.5yg
+4mL
+25mL
+2mL
+5mL
+1.5mL
+10mL
+1mL
+50mL
+20mL
+100mL
+60mL
+90mL
+250mL
+500mL
+15mL
+1p
+6000Units
+6MUnits
+12MUnits
+4000Units
+80m.
+450y
+2.5y
+275ymg
+40μmg
+1.5ymg
+667ymg
+14y
+1.5mg
+2.5mg
+2.6mg
+6.4mg
+6.25mg
+25mg
+60mg
+67mg
+100mg
+120mg
+200mg
+300mg
+400mg
+625mg
+0.25mg
+5.6mg
+90mg
+675mg
+1.2g
+3mg
+550mg
+600yg
+3.125mg
+67.5mg
+600mg
+1g
+180mg
+7.5mg
+7mg
+30yg
+240mg
+355mL
+240mL
+0.4mg
+25.75mg
+1000mL
+120mL
+50g
+350mg
+16mg
+150mg
+650mg
+75mg
+5yg
+1mg
+8mg
+40mg
+80mg
+5mg
+70mg
+30mg
+1000I-U
+370mg
+2mg
+15gm
+97mg
+2.5mg
+12.5mg
+400mL
+19.1mg
+20%
+2.5Mmg
+22.7mg
+850mg
+2.5Mg
+4%
+0.25mcg
+100yI
+1250mg
+52.5mg
+35mg
+850nL
+25000μUnits
+3.5mL
+500mcg
+750mg
+84mg
+125I-U
+1.25mg
+30mL
+650ng
+125ymg
+50mg
+250mg
+100μg
+49mg
+400mcg
+320mg
+1.25mL
+0.15mg
+20mg
+1000mg
+4.5gm
+70Units
+50mcg
+400I-U
+135ymg
+1.5MI-U
+14.5mg
+800mg
+0.2mg
+4g
+18mg
+100000μUnits
+4mg
+0.35mg
+0.6mL
+250mcg
+1.5e+006I
+51mg
+10mg
+30Units
+12.72mg
+49mg
+0.5mg
+160mg
+20mcg
+25μg
+1.6mg
+250-
+4.5mg
+500mg
+')]</value>
+      <webElementGuid>327c1780-1b36-49c7-bb0c-7447c57f44d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

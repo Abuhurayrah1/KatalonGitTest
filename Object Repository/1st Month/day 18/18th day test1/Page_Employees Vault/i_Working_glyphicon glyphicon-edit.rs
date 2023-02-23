@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Working_glyphicon glyphicon-edit</name>
+   <tag></tag>
+   <elementGuidId>3c81f531-46fd-42ef-9d11-79965b66be84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-edit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Users']/tbody/tr/td[9]/a[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>52aeaa41-a3ab-4597-98c1-9b69416e20dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-edit</value>
+      <webElementGuid>8cba962e-1ab0-4285-a230-eb2634573c9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Users&quot;)/tbody[1]/tr[@class=&quot;odd selected&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Update btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;glyphicon glyphicon-edit&quot;]</value>
+      <webElementGuid>02912a12-147a-4532-813b-7fa731be4d51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Users']/tbody/tr/td[9]/a[2]/i</value>
+      <webElementGuid>01b298de-c56b-49c0-8c80-13a0cde3aaed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+      <webElementGuid>f21b35f6-aee0-4822-b44f-aab30bfd989a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

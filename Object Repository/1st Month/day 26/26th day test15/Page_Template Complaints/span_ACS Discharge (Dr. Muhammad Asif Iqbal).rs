@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ACS Discharge (Dr. Muhammad Asif Iqbal)</name>
+   <tag></tag>
+   <elementGuidId>61322159-0848-4b34-bd2a-be3bebcbfe85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-1-0']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a3470dc-f6e0-4f8f-98b8-693031d05465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bf511ce5-3b1b-4e05-8ff1-d512ded3b4dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACS Discharge (Dr. Muhammad Asif Iqbal)</value>
+      <webElementGuid>d2c296b4-b3f8-4c99-9edb-3b258fb775b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-1-0&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>f7698ba8-e3ca-4ca0-b9bc-befd53879c8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-1-0']/span</value>
+      <webElementGuid>fbb9860b-d993-49e6-9fb5-878fa5022033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select User Template'])[1]/following::span[1]</value>
+      <webElementGuid>51bb11a2-260e-491c-830a-f3e8ef6a3b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>0c521995-e143-4f33-a277-39a9e2da9a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription (Dr. M Talha Bin Nazir)'])[2]/preceding::span[1]</value>
+      <webElementGuid>1a371533-75a8-40e7-a15b-dc3f77958e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WARFARIN DOSE (Dr. Hassan Shabeer)'])[2]/preceding::span[2]</value>
+      <webElementGuid>ed6a2785-67b6-43d9-96c6-f6c5814a7e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a/span</value>
+      <webElementGuid>49982980-1a46-4a0b-a0d2-42895a9a0489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ACS Discharge (Dr. Muhammad Asif Iqbal)' or . = 'ACS Discharge (Dr. Muhammad Asif Iqbal)')]</value>
+      <webElementGuid>e99f1997-2c94-4b97-9421-84612833d48a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

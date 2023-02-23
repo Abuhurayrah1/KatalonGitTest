@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Feb 13, 2023 1300_glyphicon glyphicon-play</name>
+   <tag></tag>
+   <elementGuidId>81d63649-ac8e-4825-b6d1-2a46a8332782</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-play</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ProcedureCheckINDataTable']/tbody/tr/td[9]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c0ea8eaf-9c1a-4c03-bdc3-91aca9a62a83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-play</value>
+      <webElementGuid>be83bb74-924a-4146-8ccc-8dea8ed50a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProcedureCheckINDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[1]/i[@class=&quot;glyphicon glyphicon-play&quot;]</value>
+      <webElementGuid>3b734583-49ab-4147-87d7-f1c0c87bdfb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ProcedureCheckINDataTable']/tbody/tr/td[9]/a/i</value>
+      <webElementGuid>850f7a34-5d88-490f-a1e2-767495be3254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>4b7179c2-3751-47fa-a289-a4e8a6d46070</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Stock typeRegularDonationCNEfgegad</name>
+   <tag></tag>
+   <elementGuidId>e985600a-5789-4f11-ac6d-6d6ff2356388</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='StockType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#StockType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8c824b52-45bf-4c8e-8f22-4f3eaf77c2fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>StockType</value>
+      <webElementGuid>df25d7d4-58f4-4ce0-a279-063f9e607c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>4d12d47d-21c5-4db2-b8a2-251b47615fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1b539675-d764-4c58-9b23-8e5db95abf7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>StockType</value>
+      <webElementGuid>1916f420-010e-4e40-92b2-c5c44e717f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>2588a876-519f-434a-88e3-d65af24b7ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Stock type
+Regular
+Donation
+CNE
+fgegad
+</value>
+      <webElementGuid>f6b88ad9-1077-4ef6-85ac-495434bf19f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;StockType&quot;)</value>
+      <webElementGuid>7535d5e4-6a44-4064-9797-0f4555a544d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='StockType']</value>
+      <webElementGuid>adc47808-a2c7-4610-bc27-2af51f97b850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PharmacyUsersForm']/div[6]/div[2]/div/select</value>
+      <webElementGuid>a6efb9d9-ac51-44c9-8f99-1a4efd196fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stock Type'])[2]/following::select[1]</value>
+      <webElementGuid>f147deaf-262e-4794-92e6-7c78d4843b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Visit'])[3]/following::select[1]</value>
+      <webElementGuid>ece4b5ce-4ba1-40a2-866f-1e30a5f122cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Stock type'])[2]/preceding::select[1]</value>
+      <webElementGuid>54eebde7-3a32-472a-87b8-7daceaa0dee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Stock type'])[3]/preceding::select[1]</value>
+      <webElementGuid>b6eab2ca-c415-46ca-81d7-f13e34188ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/select</value>
+      <webElementGuid>9d906eb4-b810-4498-9cc0-4f8dffd7e09c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'StockType' and @name = 'StockType' and (text() = 'Select Stock type
+Regular
+Donation
+CNE
+fgegad
+' or . = 'Select Stock type
+Regular
+Donation
+CNE
+fgegad
+')]</value>
+      <webElementGuid>2453a857-06e4-48d3-8013-3819723500a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

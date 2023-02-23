@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_82401-2464218-9Mr. Sajid Mehmoodd</name>
+   <tag></tag>
+   <elementGuidId>17969d9c-4e19-4b18-ac6c-22daa860c990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-5-0']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-5-0 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0090145c-e333-47b3-b2e3-68aad675cec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6836a703-9ce8-410a-9289-2e3f52cc6e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>82401-2464218-9:Mr. Sajid Mehmoodd</value>
+      <webElementGuid>f1c5ec3a-d6a3-4e34-be5b-dfaf520f00d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-5-0&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>1c3d51c3-4551-49cc-ad76-1a150a156d8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-5-0']/span[2]</value>
+      <webElementGuid>842b13c1-72a0-496b-9e4c-2b805d5831b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[5]/following::span[2]</value>
+      <webElementGuid>65a75b46-7497-4eda-bd9f-5214201ffbcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[5]/following::span[2]</value>
+      <webElementGuid>996766cc-9c4c-4672-b52e-0a6714de04e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[31]</value>
+      <webElementGuid>21fc845c-7924-4b3f-957d-b90b4ef39f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/div/div[3]/ul/li/a/span[2]</value>
+      <webElementGuid>ee2a3930-dc55-4b9f-9b46-f330eb3cc052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '82401-2464218-9:Mr. Sajid Mehmoodd' or . = '82401-2464218-9:Mr. Sajid Mehmoodd')]</value>
+      <webElementGuid>642466c4-3e32-42ef-8266-3dfe2b37b767</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

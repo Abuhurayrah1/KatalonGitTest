@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Feb 13, 2023 0730_glyphicon glyphicon-ok-circle</name>
+   <tag></tag>
+   <elementGuidId>0147b0e0-b657-4863-bb5f-504f9dd2e4a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-ok-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ProcedureAppointmentDataTable']/tbody/tr/td[9]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0d6a1954-4793-457d-91c7-0d509210ab45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-ok-circle</value>
+      <webElementGuid>f906a852-2ce5-4989-9d09-d99edef7092a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProcedureAppointmentDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[1]/i[@class=&quot;glyphicon glyphicon-ok-circle&quot;]</value>
+      <webElementGuid>9cb88e43-6380-441c-b07d-120a9eb85ddc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ProcedureAppointmentDataTable']/tbody/tr/td[9]/a/i</value>
+      <webElementGuid>c9d48708-a3de-4246-9ee6-eedb55f5c0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>4afd53b9-5714-471f-b9da-4153535753f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

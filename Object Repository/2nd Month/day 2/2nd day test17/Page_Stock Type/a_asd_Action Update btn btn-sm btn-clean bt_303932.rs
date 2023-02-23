@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_asd_Action Update btn btn-sm btn-clean bt_303932</name>
+   <tag></tag>
+   <elementGuidId>3e2f2f8f-c153-4b99-86cb-9389eb55d5bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='PharmacyStockTypeDataTable']/tbody/tr/td[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.Update.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0370a67a-f4ee-4ace-8eb8-11e524ba164a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Update</value>
+      <webElementGuid>db97a96e-a1a5-447d-9574-9b3294339878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action Update btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>f502bccc-8211-4561-bced-5a66b0825037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PharmacyStockTypeDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Update btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>a3da7d28-b433-40f8-a77f-7264652825d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='PharmacyStockTypeDataTable']/tbody/tr/td[4]/a</value>
+      <webElementGuid>70db9b95-0a41-4608-b1f6-2cf9eb2d0a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asd'])[1]/following::a[1]</value>
+      <webElementGuid>b35a6827-d679-442b-9fff-b9542751de53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::a[1]</value>
+      <webElementGuid>83b35f69-d173-441e-92d0-7c21b672ee3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fgegad'])[1]/preceding::a[1]</value>
+      <webElementGuid>4a1c1963-ff65-4e9a-af23-a725bb19ab8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CNE'])[1]/preceding::a[2]</value>
+      <webElementGuid>5126654f-b153-418d-80c2-f879cb4e533a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>ae5fc296-f637-49be-a359-f6112a21ee33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Update']</value>
+      <webElementGuid>23757bf6-81d7-4224-a81c-b1ea6180c35d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

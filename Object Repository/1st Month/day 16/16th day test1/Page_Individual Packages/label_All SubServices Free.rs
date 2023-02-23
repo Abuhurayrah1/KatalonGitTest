@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_All SubServices Free</name>
+   <tag></tag>
+   <elementGuidId>ec4d8ed6-d841-4198-bcde-9c03a6d10a59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='IndividualPackageForm']/div[6]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>541ff389-ba7e-478f-9eec-4cfdac37e573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>IsAllSubServicesFree</value>
+      <webElementGuid>0e804294-900c-436d-a384-35f20f76d12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All SubServices Free</value>
+      <webElementGuid>7faff3b7-7bbb-4dcc-a827-e99794f1774b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IndividualPackageForm&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-2&quot;]/label[1]</value>
+      <webElementGuid>8b7290f2-bc2a-4831-abfa-7bf2264e6ac4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='IndividualPackageForm']/div[6]/div/label</value>
+      <webElementGuid>d97da4e4-ce02-4d78-b6e7-f6fde0480a1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Medicines Free'])[1]/following::label[2]</value>
+      <webElementGuid>175d3614-2b4a-42b4-93df-3367430dad04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter a valid number'])[1]/following::label[3]</value>
+      <webElementGuid>6ad6a586-a994-4129-8f01-6ee01043061b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Consultancy Free'])[1]/preceding::label[2]</value>
+      <webElementGuid>72c5078c-786e-4742-aecc-9a4184ebc797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All MiscServices Free'])[1]/preceding::label[4]</value>
+      <webElementGuid>28011d1f-5bca-4cf1-916a-bdadebb26804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All SubServices Free']/parent::*</value>
+      <webElementGuid>47ca9dd1-bec0-44d3-b22b-eeaddb4ba986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/label</value>
+      <webElementGuid>32680ffb-f772-4f9c-be3f-42474d2bc853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'All SubServices Free' or . = 'All SubServices Free')]</value>
+      <webElementGuid>229072bd-7d50-41ef-8c85-3be2c4584937</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

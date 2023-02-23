@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CNE_PrintLabOrder service-grid btn btn-sm_9735b2</name>
+   <tag></tag>
+   <elementGuidId>26efef05-c9d3-44c0-a320-0e3439fda906</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='SearchLabReport']/tbody/tr/td[12]/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.PrintLabOrder.service-grid.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>05567de0-ca37-472f-977a-ebec54bbe348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Lab Order Report</value>
+      <webElementGuid>8469462a-c999-467c-a5c8-2f613552bf4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PrintLabOrder service-grid btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>443d5774-79f4-463a-8dee-d002acba1a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchLabReport&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;PrintLabOrder service-grid btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>c68679a4-76cc-47e7-96a3-a1887548ff16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='SearchLabReport']/tbody/tr/td[12]/a[3]</value>
+      <webElementGuid>157fe2fa-f6c2-4717-b960-e7b73c1f7990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CNE'])[1]/following::a[3]</value>
+      <webElementGuid>2fbd2bd5-25af-46fe-9349-e0f6249a6518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready for Print'])[1]/following::a[3]</value>
+      <webElementGuid>3bec8282-0149-4a1c-89a4-e9b52f84a8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male [36Y]'])[2]/preceding::a[3]</value>
+      <webElementGuid>789a0a9a-8d7b-457e-9369-fca96b37d702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[12]/a[3]</value>
+      <webElementGuid>f10a220d-f2aa-450c-8c33-499d9453fafd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Lab Order Report']</value>
+      <webElementGuid>75c332a5-9400-4f05-bf0c-36722f6851e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

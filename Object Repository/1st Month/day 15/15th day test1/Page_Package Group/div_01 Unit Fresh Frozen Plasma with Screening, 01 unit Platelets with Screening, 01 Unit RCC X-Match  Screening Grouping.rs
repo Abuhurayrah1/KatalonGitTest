@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_01 Unit Fresh Frozen Plasma with Screening, 01 unit Platelets with Screening, 01 Unit RCC X-Match  Screening Grouping</name>
+   <tag></tag>
+   <elementGuidId>aad88d96-6713-482d-8794-ad2e2e6d71b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.filter-option-inner-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='PakageGroupForm']/div[3]/div/div[2]/div/button/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51b574f9-bed1-4115-9fec-876c497ce937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>3b8ad06f-b873-41ca-95c5-a3c5d563b8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01 Unit Fresh Frozen Plasma with Screening, 01 unit Platelets with Screening, 01 Unit RCC X-Match + Screening+ Grouping</value>
+      <webElementGuid>cd113f6b-19f0-436d-b539-3104ea1392c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PakageGroupForm&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group row has-success&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;dropdown bootstrap-select show-tick form-control&quot;]/button[@class=&quot;btn dropdown-toggle btn-light&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>41e60ed5-e5bd-4e41-81e5-e5cce2000785</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PakageGroupForm']/div[3]/div/div[2]/div/button/div/div/div</value>
+      <webElementGuid>613df43a-ebd8-49f5-b9e8-c68f0093e52a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[5]</value>
+      <webElementGuid>fbacef76-3bd2-4868-bb9c-515446363a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/preceding::div[2]</value>
+      <webElementGuid>35c2c54f-453a-4f9a-aa63-e907b7a74d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[1]/preceding::div[2]</value>
+      <webElementGuid>4d0efcfb-02c7-4cef-ba8c-6b60b4312174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div</value>
+      <webElementGuid>c5aed19d-0819-4ee7-8ec4-585f85a892d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '01 Unit Fresh Frozen Plasma with Screening, 01 unit Platelets with Screening, 01 Unit RCC X-Match + Screening+ Grouping' or . = '01 Unit Fresh Frozen Plasma with Screening, 01 unit Platelets with Screening, 01 Unit RCC X-Match + Screening+ Grouping')]</value>
+      <webElementGuid>bbbd2332-8e53-4174-bcab-b47d0e18097f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

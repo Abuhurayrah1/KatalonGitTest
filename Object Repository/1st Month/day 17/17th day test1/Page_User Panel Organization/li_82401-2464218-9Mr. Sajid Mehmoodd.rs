@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_82401-2464218-9Mr. Sajid Mehmoodd</name>
+   <tag></tag>
+   <elementGuidId>40591022-6984-480e-b16b-f987f8141a6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-UserId-result-4q4e-3e7415ca-2f00-e911-80c4-005056af7162' and (text() = '82401-2464218-9:Mr. Sajid Mehmoodd' or . = '82401-2464218-9:Mr. Sajid Mehmoodd')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>56631df4-7b2e-4346-b828-e459b8a0cd72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>fd055591-51a2-4a8b-b1ad-d68e2c674386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-UserId-result-4q4e-3e7415ca-2f00-e911-80c4-005056af7162</value>
+      <webElementGuid>6a23d709-2b29-43c5-a38a-d621ca13e243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>f8bac0b4-aae3-41cb-944e-ae8fb928db9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a726c206-e185-4dd6-b739-f9e4866fd350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-UserId-result-4q4e-3e7415ca-2f00-e911-80c4-005056af7162</value>
+      <webElementGuid>c3a37072-e68e-4fb9-9063-cd35387a5e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>82401-2464218-9:Mr. Sajid Mehmoodd</value>
+      <webElementGuid>cbd4579c-bb61-4b16-b9ba-f5a3c6051f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-UserId-result-4q4e-3e7415ca-2f00-e911-80c4-005056af7162&quot;)</value>
+      <webElementGuid>acf2f15a-8f39-4ec4-b54a-fd8dbacf1b48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-UserId-result-4q4e-3e7415ca-2f00-e911-80c4-005056af7162' and (text() = '82401-2464218-9:Mr. Sajid Mehmoodd' or . = '82401-2464218-9:Mr. Sajid Mehmoodd')]</value>
+      <webElementGuid>7ca7a460-59cf-40b5-bb5a-8c8b86eca66a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

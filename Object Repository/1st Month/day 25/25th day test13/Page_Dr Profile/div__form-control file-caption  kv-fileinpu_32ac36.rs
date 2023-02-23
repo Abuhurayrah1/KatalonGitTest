@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__form-control file-caption  kv-fileinpu_32ac36</name>
+   <tag></tag>
+   <elementGuidId>70d3011d-fd58-4b5e-a96a-bdde424a6822</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-control.file-caption.kv-fileinput-caption</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pmdcDiv']/div[2]/div/div[2]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ab5a8b5-8ba2-4344-8b36-cb7b2457cea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>f1147d69-f603-4455-83ec-2393f1fd3e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control file-caption  kv-fileinput-caption</value>
+      <webElementGuid>6d313475-0f58-4c4c-9f85-aa8ab328b3af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pmdcDiv&quot;)/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;file-input file-input-new&quot;]/div[@class=&quot;input-group file-caption-main&quot;]/div[@class=&quot;form-control file-caption  kv-fileinput-caption&quot;]</value>
+      <webElementGuid>ed7a898b-0104-4847-8cce-338de48e5d50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pmdcDiv']/div[2]/div/div[2]/div/div[3]/div</value>
+      <webElementGuid>071ad444-244b-4529-bb94-ebd6bf2403e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[10]</value>
+      <webElementGuid>4b79aba3-d582-4f7e-8a4c-1b251a7817fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[13]/following::div[14]</value>
+      <webElementGuid>46f61777-4a76-4a12-80fc-dd6b2adb7041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::div[2]</value>
+      <webElementGuid>bb5837b9-c289-47dc-9f0a-0215a55d1c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[2]</value>
+      <webElementGuid>54298f2d-0394-4a2f-a27d-d03636153981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[3]/div</value>
+      <webElementGuid>fc869caf-e5a2-45b5-b229-ec1008d44368</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

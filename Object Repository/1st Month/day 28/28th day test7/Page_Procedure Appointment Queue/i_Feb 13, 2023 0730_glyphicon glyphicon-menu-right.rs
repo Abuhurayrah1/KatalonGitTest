@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Feb 13, 2023 0730_glyphicon glyphicon-menu-right</name>
+   <tag></tag>
+   <elementGuidId>ffa3ff82-5f96-4979-af11-79b98b69d471</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-menu-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ProcedureAppointmentDataTable']/tbody/tr/td[9]/a[7]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4198b426-8c03-40dd-aea1-d674a669115a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-menu-right</value>
+      <webElementGuid>5c72dc1a-1fa4-4847-8ad7-b649df8c5f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProcedureAppointmentDataTable&quot;)/tbody[1]/tr[@class=&quot;odd selected&quot;]/td[@class=&quot;text-center&quot;]/a[7]/i[@class=&quot;glyphicon glyphicon-menu-right&quot;]</value>
+      <webElementGuid>cc8bc72f-95b8-43c1-a6d7-01d018003454</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ProcedureAppointmentDataTable']/tbody/tr/td[9]/a[7]/i</value>
+      <webElementGuid>0e04ac98-41a9-4dc6-b174-e01fa8afb459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/i</value>
+      <webElementGuid>4550128a-e6cf-440c-ade5-7937fb723b9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

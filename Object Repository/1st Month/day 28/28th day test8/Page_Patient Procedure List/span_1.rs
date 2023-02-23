@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>9ba6ae24-8e41-48fb-bfe4-00c92f4b0f7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DisposableDiv_f1537c2b-8b2b-4c11-ac95-3be56b56f849 > label.kt-checkbox.kt-checkbox--brand > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DisposableDiv_f1537c2b-8b2b-4c11-ac95-3be56b56f849']/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>14d746ca-6718-442d-90d9-22f5ed3261bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DisposableDiv_f1537c2b-8b2b-4c11-ac95-3be56b56f849&quot;)/label[@class=&quot;kt-checkbox kt-checkbox--brand&quot;]/span[1]</value>
+      <webElementGuid>cc827294-907d-4070-80bc-9ecdced79d84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DisposableDiv_f1537c2b-8b2b-4c11-ac95-3be56b56f849']/label/span</value>
+      <webElementGuid>33b19a3a-0bc2-4e6b-abea-dbbac3a2821d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/form/div/div/div/div[2]/div[2]/label/span</value>
+      <webElementGuid>da48a877-e11f-492e-884e-6e196a702912</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dec 13, 2022 1832_fas fa-fingerprint</name>
+   <tag></tag>
+   <elementGuidId>2624696f-4a80-46a8-bbc0-094e3507cbc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-fingerprint</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='Patients']/tbody/tr/td[6]/a[10]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>513d8093-dd29-4a18-8d83-a35a6689af5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-fingerprint</value>
+      <webElementGuid>3b0db74d-f839-4ff8-b08f-349e4f62962e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Patients&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;RowActions text-center&quot;]/a[@class=&quot;EnrollFingerprint btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;fas fa-fingerprint&quot;]</value>
+      <webElementGuid>b478aae6-4601-4bb3-86ec-57f782f1b37f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Patients']/tbody/tr/td[6]/a[10]/i</value>
+      <webElementGuid>0d87a8d6-250f-4b5c-9648-85b5ce9658ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[10]/i</value>
+      <webElementGuid>b643e0b1-89fd-40e5-adc8-3707738684c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

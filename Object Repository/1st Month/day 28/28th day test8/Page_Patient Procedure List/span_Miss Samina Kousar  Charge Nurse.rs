@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Miss Samina Kousar  Charge Nurse</name>
+   <tag></tag>
+   <elementGuidId>66ff3d8e-4a7d-4a98-ae19-518c7c1752c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-3-0 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-3-0']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0b5dcf11-7420-4fc4-a695-49dd63c3eef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a08dbc2d-5e90-45f3-af8d-fb1035f00406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Miss Samina Kousar | Charge Nurse</value>
+      <webElementGuid>67ff64e9-8e8a-40cd-9216-7778419544fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-3-0&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>c003a3e5-a0aa-42c9-8ed2-e22f6347e457</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-3-0']/span[2]</value>
+      <webElementGuid>9a568175-82a4-467c-8c8e-06e2635728f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[2]/following::span[2]</value>
+      <webElementGuid>ae82d209-7d83-40a7-9c5a-c9114499c94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[2]/following::span[2]</value>
+      <webElementGuid>bcca0a96-20a0-4958-acc3-e8b6f38ac653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miss Rizwana Mushtaq | Charge Nurse'])[2]/preceding::span[2]</value>
+      <webElementGuid>b49b229f-c795-4aaa-8ea7-3b86494cec32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miss Farzana Kousar Malik | Charge Nurse'])[2]/preceding::span[4]</value>
+      <webElementGuid>c8c2091e-bc3e-47d4-88a5-ec9dd9c0bddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div[3]/ul/li/a/span[2]</value>
+      <webElementGuid>d8a04333-65a1-4092-9579-1046642aea3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Miss Samina Kousar | Charge Nurse' or . = 'Miss Samina Kousar | Charge Nurse')]</value>
+      <webElementGuid>9054cc97-ae73-417c-8e4f-42fd8a9202f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

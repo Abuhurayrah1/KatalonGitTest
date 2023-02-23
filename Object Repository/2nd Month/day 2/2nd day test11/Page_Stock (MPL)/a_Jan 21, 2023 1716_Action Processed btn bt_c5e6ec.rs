@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jan 21, 2023 1716_Action Processed btn bt_c5e6ec</name>
+   <tag></tag>
+   <elementGuidId>6bd7d862-961e-4b11-9137-4dbc375f67ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='ProcessChangeStatus(this)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.Processed.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b9459718-d1dc-4348-b6d1-136fa817d163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add to purchase order</value>
+      <webElementGuid>b6cac501-a5a1-431e-b8d2-e0782369f493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action Processed btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>8ab3bf35-3e6f-45d2-8533-74f4d356f750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ProcessChangeStatus(this)</value>
+      <webElementGuid>b1f8ff43-b17f-4587-91d6-a7354adb3ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;List&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Processed btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>893dcdf8-b5ec-489e-99ef-22745b0c0261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='ProcessChangeStatus(this)']</value>
+      <webElementGuid>ded73881-fc02-45d2-898e-4dc1bb777ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='List']/tbody/tr/td[7]/a</value>
+      <webElementGuid>8068b5e8-b6cb-47b2-a04e-8fcac514e1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 21, 2023 17:16'])[1]/following::a[4]</value>
+      <webElementGuid>528035aa-7512-4a1b-8ab0-48fead96c436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regular'])[2]/following::a[6]</value>
+      <webElementGuid>30970dfc-10d7-4aac-87d0-fad2c54323c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airfreshner Fresscoplus 2 in 01'])[1]/preceding::a[1]</value>
+      <webElementGuid>b48ec43d-2ed3-4b81-9496-9010fbf0d037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regular'])[3]/preceding::a[1]</value>
+      <webElementGuid>0ab5db8e-f73c-41fa-a7a4-e3b82c630cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a</value>
+      <webElementGuid>6f5ff762-a4df-4cd0-82a4-25933b649cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Add to purchase order']</value>
+      <webElementGuid>d8584d72-54d9-4aaa-a5eb-9daaf4e9a00b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

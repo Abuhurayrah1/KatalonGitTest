@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select PackageCoronory Angiography Package</name>
+   <tag></tag>
+   <elementGuidId>84f8f3be-119a-4a86-afc3-a95f60bbb575</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PackageGroupId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PackageGroupId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c1a70d34-aede-4f0a-b9da-ddaa28b8c4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>e78fe294-22c8-41c0-8872-8f91cf85dcb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-actions-box</name>
+      <type>Main</type>
+      <value>True</value>
+      <webElementGuid>51261ef6-b9f6-41e5-b10f-5b9480edbc77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>411cca03-67f5-4b5e-8149-bea89efce9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PackageGroupId</value>
+      <webElementGuid>7269cb33-d6da-4925-b62a-154e31fe8b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PackageGroupId</value>
+      <webElementGuid>5f29c613-20b2-4bcd-8b0c-1c74abb893af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>a4b1d0b6-f120-4a25-ba4d-15ba42bb871c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Package
+Coronory Angiography Package
+</value>
+      <webElementGuid>5824b2c3-608a-45da-ad71-52ed74441b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PackageGroupId&quot;)</value>
+      <webElementGuid>28a35d96-8e90-40aa-99a0-f8138fdeb9fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PackageGroupId']</value>
+      <webElementGuid>a958f15f-1aef-4564-bab9-dffc79eb7fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DivPackagegroup']/div[2]/div/select</value>
+      <webElementGuid>5195df4f-5946-4d15-ad46-88e0cebb60d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Package:'])[1]/following::select[1]</value>
+      <webElementGuid>06f080a1-83a9-4c0e-9b58-5e543ecca398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Floor First'])[3]/following::select[1]</value>
+      <webElementGuid>d8e5026f-dfd2-4b17-bfad-9a40cd34496d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Package'])[2]/preceding::select[1]</value>
+      <webElementGuid>16b11070-b328-4856-9c1a-bdf951c09be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Package'])[3]/preceding::select[1]</value>
+      <webElementGuid>9ea4ec9e-c648-41fd-960f-a79c285a4bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/select</value>
+      <webElementGuid>68370484-c5c9-4e77-a13b-d8586abb7e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PackageGroupId' and @name = 'PackageGroupId' and (text() = 'Select Package
+Coronory Angiography Package
+' or . = 'Select Package
+Coronory Angiography Package
+')]</value>
+      <webElementGuid>43de8b53-96d9-417b-b26b-a81707fc2f94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

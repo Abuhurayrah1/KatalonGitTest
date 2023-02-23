@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>c3d691bd-0c29-4762-88f4-2c9005445619</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.kt-radio.kt-radio--brand > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ProcedureBooking']/div/div/div[5]/div[2]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d4cb582d-aeb3-4289-9bac-272f5a947f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProcedureBooking&quot;)/div[@class=&quot;row pl-3 pr-3&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row pb-sm-1&quot;]/div[@class=&quot;col-md-8 form-group pl-sm-1&quot;]/label[@class=&quot;kt-radio kt-radio--brand&quot;]/span[1]</value>
+      <webElementGuid>8cadd454-3df3-4470-aa8e-5ddd153670b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ProcedureBooking']/div/div/div[5]/div[2]/label/span</value>
+      <webElementGuid>c224ce72-adc6-4199-8a55-56d4582b3599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>cbd28ef1-49ae-4334-8612-78c1dfbec0d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dr. Abdul Hadi  Postgraduate Trainee</name>
+   <tag></tag>
+   <elementGuidId>39e57dd8-5738-4cd2-8625-ba219b471b51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-26-1 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-26-1']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>15315339-0bb9-4122-8930-1ad130522557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>68174ce1-3fdd-4c6e-97f9-3a9e6ddbf0c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dr. Abdul Hadi | Postgraduate Trainee</value>
+      <webElementGuid>b57ca105-a902-4f00-bf9a-6295a90730bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-26-1&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>c44e96c2-2d72-44e8-ab1e-6bcd65953bb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-26-1']/span</value>
+      <webElementGuid>afbf29c9-3d0a-4af5-af94-3738ed1f310a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[6]/following::span[1]</value>
+      <webElementGuid>3aa5ba55-5e5c-4fab-a888-d8620fda605a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[5]/following::span[2]</value>
+      <webElementGuid>7b6cf00b-322c-4c73-942d-36d405e4c21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Abdul Malik | Associate Professor Of Paediatric Cardiology'])[4]/preceding::span[1]</value>
+      <webElementGuid>b3b51722-18d8-4501-ba5b-13f7be506af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Abdul Manan Ikrma | Postgraduate Trainee'])[4]/preceding::span[2]</value>
+      <webElementGuid>ffae0204-7035-42a2-92ed-a47ba46676d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[30]/div[2]/div/div/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>6849d44f-dde2-46e4-866e-f3cbecce9768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dr. Abdul Hadi | Postgraduate Trainee' or . = 'Dr. Abdul Hadi | Postgraduate Trainee')]</value>
+      <webElementGuid>a7ee36a0-0038-4e96-93f3-9290c44842ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

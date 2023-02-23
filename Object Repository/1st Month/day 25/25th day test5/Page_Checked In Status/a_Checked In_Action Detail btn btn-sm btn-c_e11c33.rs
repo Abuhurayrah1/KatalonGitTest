@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Checked In_Action Detail btn btn-sm btn-c_e11c33</name>
+   <tag></tag>
+   <elementGuidId>04d882f2-e21d-4d6a-83ea-153f8f5c32a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.Detail.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DailyPatientTable']/tbody/tr/td[9]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4df45de6-0e1e-4d07-a575-cea54d46c17a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>f2b9697a-1e66-4ec1-893f-d56b52de85c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action Detail btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>4f6e4338-6adb-469c-95e5-676537b8b5ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DailyPatientTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;nowrapColumn text-center&quot;]/a[@class=&quot;Action Detail btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>ee0001b6-55d0-464a-9054-b2f59555853a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DailyPatientTable']/tbody/tr/td[9]/a</value>
+      <webElementGuid>8d500f26-13f5-4088-9195-f606cec4ac02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checked In'])[1]/following::a[1]</value>
+      <webElementGuid>695d4124-4b96-4e0b-a711-4c53d5b5bf1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checked In'])[2]/preceding::a[5]</value>
+      <webElementGuid>620afe7c-cddc-4586-81a8-8ab137fbc384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a</value>
+      <webElementGuid>12a556bc-2033-4e8d-89a9-0a6ded8376ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Detail']</value>
+      <webElementGuid>36bf0024-18ab-4d8c-aa0f-27fb14a9f59c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

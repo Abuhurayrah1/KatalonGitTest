@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select GenderBothMaleFemale</name>
+   <tag></tag>
+   <elementGuidId>853891b1-7fab-4c5e-845d-06c2afd660c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='GenderType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#GenderType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>22723e7c-9e2d-4ebf-a442-3a4750b36592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>GenderType</value>
+      <webElementGuid>6d07d30b-ee05-4905-a1dc-63ce3081cd8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>1d2f407e-fae6-4688-8d0e-4760d6764768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>135d9a5c-42f1-46e0-9ee0-d710245cddb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>GenderType</value>
+      <webElementGuid>7c96e5f0-283b-4685-b772-e79d305169d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>5bfe774a-ad2f-45ca-87e6-dd5bfeb3178a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Gender
+Both
+Male
+Female
+</value>
+      <webElementGuid>7e296187-7842-44e9-bdd1-9f55b7731f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;GenderType&quot;)</value>
+      <webElementGuid>429504a0-fb6f-4f91-9323-6446342b4bc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='GenderType']</value>
+      <webElementGuid>69d3ffa9-d377-444e-92a9-ed1c5a80067a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PharmacyUsersForm']/div[4]/div[2]/div/select</value>
+      <webElementGuid>dedb7f0f-d378-4d71-bf1a-9719a570656d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/following::select[1]</value>
+      <webElementGuid>1fd0f3de-288b-4fb1-bd0a-cf1d4bb363b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select Title'])[2]/following::select[1]</value>
+      <webElementGuid>2e6aac0b-6980-4c52-99d0-84f28926da89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Gender'])[2]/preceding::select[1]</value>
+      <webElementGuid>96ae8c47-7c41-4e8b-8160-a60a13f22a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Gender'])[3]/preceding::select[1]</value>
+      <webElementGuid>e4c2e13c-4f82-475d-9b16-a80704a5edd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/select</value>
+      <webElementGuid>31bc9ab6-5a85-4a49-af7d-8f0a73d7f9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'GenderType' and @name = 'GenderType' and (text() = 'Select Gender
+Both
+Male
+Female
+' or . = 'Select Gender
+Both
+Male
+Female
+')]</value>
+      <webElementGuid>27a2b7fc-2f80-4875-92cc-be19e75b8eae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

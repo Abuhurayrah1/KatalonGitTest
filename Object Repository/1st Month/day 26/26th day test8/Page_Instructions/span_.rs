@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>ae040776-b2bb-45af-b728-7fc2d8789427</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-keyboard-button.ui-keyboard-1576.ui-state-default.ui-corner-all.ui-state-hover > span.ui-keyboard-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='instrznameurdu_keyboard']/div/button[23]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>456bba85-a242-4d6c-b067-df24f46c1067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-keyboard-text</value>
+      <webElementGuid>fb8f25b9-eb52-4bb7-88bd-28b934ff0c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ب</value>
+      <webElementGuid>ca93dd61-657f-429c-8e60-4ab171bf3f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;instrznameurdu_keyboard&quot;)/div[@class=&quot;ui-keyboard-keyset ui-keyboard-keyset-normal&quot;]/button[@class=&quot;ui-keyboard-button ui-keyboard-1576 ui-state-default ui-corner-all ui-state-hover&quot;]/span[@class=&quot;ui-keyboard-text&quot;]</value>
+      <webElementGuid>2492c052-0e05-4be3-9279-8fbd1ae73a70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='instrznameurdu_keyboard']/div/button[23]/span</value>
+      <webElementGuid>f3e81e99-35e5-42c7-a28b-e669039d6b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ت'])[1]/following::span[1]</value>
+      <webElementGuid>70ac3613-cd5e-4ecf-986c-a2eb173ce5cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='پ'])[1]/following::span[2]</value>
+      <webElementGuid>089d929a-5b83-4bf9-b5af-1d35929e462d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ج'])[1]/preceding::span[1]</value>
+      <webElementGuid>bb5f124a-77cc-46a9-98ed-9fc9f27e06bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ح'])[1]/preceding::span[2]</value>
+      <webElementGuid>122fdd13-9a4d-4070-9396-5e335cd6ee13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ب']/parent::*</value>
+      <webElementGuid>9cbfacdd-a845-47a5-b5d2-c49b82694b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[23]/span</value>
+      <webElementGuid>c1f9965e-cd19-47be-9d98-5c7da80ee6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ب' or . = 'ب')]</value>
+      <webElementGuid>12d0be67-ac91-4ae3-bd70-919f3c586752</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

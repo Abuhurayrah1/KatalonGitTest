@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jan 12,2023 1247_CheckInModal btn btn-sm _5b3ccf</name>
+   <tag></tag>
+   <elementGuidId>d7719d92-8b7c-4475-a1a6-737243f76e2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.CheckInModal.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='AdmissoinQueueTable']/tbody/tr/td[9]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bdb7add3-5b90-4cd5-b436-3fd974144635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Print</value>
+      <webElementGuid>8cc11d68-7b42-49e1-bc8c-179db3a48469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>CheckInModal btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>2fd75092-8442-4411-ac5f-e28e98c5607e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AdmissoinQueueTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/span[1]/a[@class=&quot;CheckInModal btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>7cfcd901-7690-4a89-b5bb-830d2ef0dbd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='AdmissoinQueueTable']/tbody/tr/td[9]/span/a</value>
+      <webElementGuid>560d6428-3b90-4414-9f04-c6900629152f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 12,2023 12:47'])[1]/following::a[1]</value>
+      <webElementGuid>63c3c2c1-aa11-4bd4-8814-72a42ab7abec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOT ON HEALTH CARD'])[1]/following::a[1]</value>
+      <webElementGuid>51e8b64e-6245-44e6-b261-47b7a9813b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency'])[5]/preceding::a[1]</value>
+      <webElementGuid>97d627e9-50ef-468c-bdb7-a89551b39462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>5ecb0e33-b674-4c04-bdfa-0a0b74903f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Print']</value>
+      <webElementGuid>a747d782-950a-41aa-9107-98be42876365</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

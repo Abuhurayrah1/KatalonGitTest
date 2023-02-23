@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Individual PackageAngiography_bc3a36</name>
+   <tag></tag>
+   <elementGuidId>37473de2-204e-4921-99a9-8419bac7acda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#IndividualPackageId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='IndividualPackageId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7b440464-b83f-463c-bb76-57ebd0b7fcf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>ca53b89b-34ab-4328-afd0-6bcd6561251e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5f347259-6690-4552-af73-a59667fceca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>IndividualPackageId</value>
+      <webElementGuid>efe0306e-a366-4d7e-a595-aacc8d862139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>IndividualPackageId</value>
+      <webElementGuid>686a6485-b237-4b01-a407-a27a579c679c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>56e667ce-35a7-4a55-842e-9b351adaf868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>IndividualPackageId</value>
+      <webElementGuid>4d03a5cc-d689-44d0-9e90-2d0fb297057e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Individual Package
+Angiography
+Test Package
+</value>
+      <webElementGuid>dcb1f4f4-3532-4e03-af07-cb07d8480f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IndividualPackageId&quot;)</value>
+      <webElementGuid>5c4f6eb7-3715-46bf-9ebe-723658278c19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='IndividualPackageId']</value>
+      <webElementGuid>c5db6293-f4a7-4f36-b107-b2cbae6d5d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubserviceDiv']/div/div[2]/div/select</value>
+      <webElementGuid>b3dea54d-ec4a-44e1-9d21-6cb1b7c3fddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>52b68866-1fb9-468e-ac28-066fab737eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Individual Package'])[2]/preceding::select[1]</value>
+      <webElementGuid>d4a67355-4fe7-4016-9930-81887deac313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Individual Package'])[3]/preceding::select[1]</value>
+      <webElementGuid>82f417e5-d6fc-47fd-8570-0a2fd24869f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>3de0a308-e0c9-4fb5-8ec6-8b872a2e77ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'IndividualPackageId' and @name = 'IndividualPackageId' and (text() = 'Select Individual Package
+Angiography
+Test Package
+' or . = 'Select Individual Package
+Angiography
+Test Package
+')]</value>
+      <webElementGuid>0358392a-4149-4697-acf0-3aac4b5374a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

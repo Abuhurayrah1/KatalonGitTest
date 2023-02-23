@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select BuildingModel PharmacyRawalpi_104eee</name>
+   <tag></tag>
+   <elementGuidId>2cc94ba6-3e60-48cb-ba69-bf7407374495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='BuildingId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#BuildingId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>13583461-21db-4c6f-982b-68ef66421c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>f6ecee0a-a4ea-4b60-afe3-c8255460013d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-actions-box</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cf087032-0d6f-4f7f-9ce5-5fba56edc950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>50a99cd4-d680-4f51-b381-369f14c6ba59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BuildingId</value>
+      <webElementGuid>7d8e2d76-e080-4db9-ab67-f69c6490e02d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>BuildingId</value>
+      <webElementGuid>e25280ae-7a3c-4b81-98d1-55e5f300a231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>16a3f2a8-0f54-43c3-b035-4b5e475ced71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>BuildingId</value>
+      <webElementGuid>71342a90-f6c0-40a3-b896-6f90d56e4ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Building
+Model Pharmacy
+Rawalpindi Institute Of Cardiology
+Test1
+Test2
+Test3
+Test4
+Test5
+Test6
+Test7
+Test8
+Test9
+</value>
+      <webElementGuid>aec39e52-7688-426c-81dc-3aa29ee6339e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BuildingId&quot;)</value>
+      <webElementGuid>65d5d8e3-3539-4b3b-b5a5-2dd5f5bc58f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='BuildingId']</value>
+      <webElementGuid>a200c2be-45a9-40b5-a5cd-979442d7711a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[2]/div/div/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>acc59aee-c058-4c9a-b96f-1d48291ad21c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>bdb23e38-bbdc-44d6-bd6a-2ebdbf855cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Building'])[2]/preceding::select[1]</value>
+      <webElementGuid>94925da2-4d58-4402-945e-3c32382b2fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Building'])[3]/preceding::select[1]</value>
+      <webElementGuid>fe753044-384c-4dd4-b08e-dd2dff4c2058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a5bbaa61-e7df-4749-8f6a-9aa5e3aef5f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'BuildingId' and @name = 'BuildingId' and (text() = 'Select Building
+Model Pharmacy
+Rawalpindi Institute Of Cardiology
+Test1
+Test2
+Test3
+Test4
+Test5
+Test6
+Test7
+Test8
+Test9
+' or . = 'Select Building
+Model Pharmacy
+Rawalpindi Institute Of Cardiology
+Test1
+Test2
+Test3
+Test4
+Test5
+Test6
+Test7
+Test8
+Test9
+')]</value>
+      <webElementGuid>f8848433-c0e6-4e1f-a1a5-f42f7a2eda08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

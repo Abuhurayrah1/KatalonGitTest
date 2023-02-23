@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_01 Unit Fresh Frozen Plasma with Screening</name>
+   <tag></tag>
+   <elementGuidId>aea17c73-62d0-41f3-b09b-1c1218c4ec42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-1-2']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-1-2 > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff3a3e55-4728-4914-8467-2fe8f86b1238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>87191ac4-9123-42c3-9a4c-d5ea8b0d81bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01 Unit Fresh Frozen Plasma with Screening</value>
+      <webElementGuid>ec01ae72-77e3-42ac-b323-127b62680071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-1-2&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>b0d8a432-11e1-460c-bdb0-180bdd678ceb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-1-2']/span</value>
+      <webElementGuid>48f28549-a0cc-4111-b4a3-c7d035147d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Service'])[3]/following::span[2]</value>
+      <webElementGuid>e6a3bbbe-3782-475c-9773-a3f8d44e5ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Service'])[2]/following::span[3]</value>
+      <webElementGuid>cc1a12a4-70d1-4d69-9b28-b70bd88fe4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Sheeth'])[2]/preceding::span[24]</value>
+      <webElementGuid>69026d6a-1f90-4e4d-b148-466fcad05562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A/G Ratio'])[2]/preceding::span[25]</value>
+      <webElementGuid>7251f26a-f7b2-4950-8655-50b5845e189a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[3]/a/span</value>
+      <webElementGuid>35480b4b-2566-4d53-b012-5c08e6f66c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '01 Unit Fresh Frozen Plasma with Screening' or . = '01 Unit Fresh Frozen Plasma with Screening')]</value>
+      <webElementGuid>3ba51f90-e82d-4a2c-bec2-5218f3cd6855</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

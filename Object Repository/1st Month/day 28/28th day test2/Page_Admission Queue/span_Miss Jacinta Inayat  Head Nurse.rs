@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Miss Jacinta Inayat  Head Nurse</name>
+   <tag></tag>
+   <elementGuidId>92e7b2e5-1f52-49fc-b2f0-471a7b26cb19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-18-1 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-18-1']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d018446-fa5f-435e-84bf-c6cddabf40fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a6d9ecdb-670d-4054-b94a-b24f8225bfc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Miss Jacinta Inayat | Head Nurse</value>
+      <webElementGuid>e880f24f-dcb2-425c-9470-660b81028eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-18-1&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>92c171af-3622-4526-95f1-4b5b3a5e716f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-18-1']/span[2]</value>
+      <webElementGuid>ffeada2d-48ff-41a8-a82b-25a6671063f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Head Nurse'])[3]/following::span[2]</value>
+      <webElementGuid>69031b85-5b3d-4099-b30e-cece198b6d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Head Nurse'])[2]/following::span[4]</value>
+      <webElementGuid>1f1de799-2947-4e70-84e7-0d7abd073865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miss Nasreen Akhter | Head Nurse'])[4]/preceding::span[2]</value>
+      <webElementGuid>60caed26-3b48-4447-a3e7-b29832d6e130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miss Shazia Aslam | Head Nurse'])[4]/preceding::span[4]</value>
+      <webElementGuid>7c8c264e-a1ee-4469-a8a1-b809ccf9346b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/ul/li[2]/a/span[2]</value>
+      <webElementGuid>4baf4f30-361d-49f2-8da4-c98ac120f6e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Miss Jacinta Inayat | Head Nurse' or . = 'Miss Jacinta Inayat | Head Nurse')]</value>
+      <webElementGuid>6255eddc-6187-4fe7-85d8-363551eb7a5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

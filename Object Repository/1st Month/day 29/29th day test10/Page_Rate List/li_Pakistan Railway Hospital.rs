@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Pakistan Railway Hospital</name>
+   <tag></tag>
+   <elementGuidId>b6b1626d-d5b3-4e88-afe9-3c6984da4a37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-OnPanelOrganizationId-result-o5tg-2557541e-eb83-4a89-b7a1-09294bb46176' and (text() = 'Pakistan Railway Hospital' or . = 'Pakistan Railway Hospital')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>514efce1-cb3d-4e40-8ad1-22f01068e17f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>edcef831-ae75-487d-8bd1-4a549d8159c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-OnPanelOrganizationId-result-o5tg-2557541e-eb83-4a89-b7a1-09294bb46176</value>
+      <webElementGuid>041faa4a-e7c5-4942-96a5-689efa7f2864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>a20108d3-e70a-4ecf-86b4-f3ae4c2ab3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a6d5155e-9d9b-4fc4-b6a9-75943e854285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-OnPanelOrganizationId-result-o5tg-2557541e-eb83-4a89-b7a1-09294bb46176</value>
+      <webElementGuid>51dbdde0-bb14-4883-af65-d0f649f434ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pakistan Railway Hospital</value>
+      <webElementGuid>9a348fb3-6e36-4b11-af01-3ed2b30280e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-OnPanelOrganizationId-result-o5tg-2557541e-eb83-4a89-b7a1-09294bb46176&quot;)</value>
+      <webElementGuid>97fbd19f-7b2e-498e-b80a-df15d3886290</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-OnPanelOrganizationId-result-o5tg-2557541e-eb83-4a89-b7a1-09294bb46176' and (text() = 'Pakistan Railway Hospital' or . = 'Pakistan Railway Hospital')]</value>
+      <webElementGuid>6bae6184-37a5-48c6-851d-da9cef0efa33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Service TypeAdmissionPhysioth_c6112e</name>
+   <tag></tag>
+   <elementGuidId>79d9c99f-497d-46a1-88fc-4e74f317ae30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ServiceTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ServiceTypeId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>30c3e67e-c8e1-42f6-9d4e-2fa1b8876fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>fcb357bd-3bac-4d46-aeef-95afd1265e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ecbf2405-99e8-4453-b736-764687ed877f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ServiceTypeId</value>
+      <webElementGuid>67274577-0618-45dd-a8f6-3c6f140e7396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ServiceTypeId</value>
+      <webElementGuid>9a270eaa-769f-4639-a5f1-bb589d186a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>9a5d7e09-349a-466b-b784-d81bf7c0cfbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Service Type
+Admission
+Physiotherapy
+Procedures
+cbc
+OPD
+Admissions
+Investigations
+Diagnostics
+</value>
+      <webElementGuid>76028f7d-3e8e-4f2e-a925-86fd3dc511e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ServiceTypeId&quot;)</value>
+      <webElementGuid>905d4f04-a529-41d0-a37f-975307b19374</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ServiceTypeId']</value>
+      <webElementGuid>f138d08b-9601-4c2c-8578-2ebca7bec922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myDIV']/div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>1f905f21-3f73-4a92-b7af-e1901aecc5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Type'])[1]/following::select[1]</value>
+      <webElementGuid>9a8c01c2-aca8-4943-9103-b2ab07462a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[4]/following::select[2]</value>
+      <webElementGuid>47cf3ec6-b4db-4b5a-805a-9eafcd9bf160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Service Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>719de139-1535-4cb7-ae28-e0db42f00a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Service Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>81c1e7fc-bdbf-4773-913f-702e3b0184ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/select</value>
+      <webElementGuid>ebddda08-a46a-4dcf-bac0-2082701f1442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ServiceTypeId' and @name = 'ServiceTypeId' and (text() = 'Select Service Type
+Admission
+Physiotherapy
+Procedures
+cbc
+OPD
+Admissions
+Investigations
+Diagnostics
+' or . = 'Select Service Type
+Admission
+Physiotherapy
+Procedures
+cbc
+OPD
+Admissions
+Investigations
+Diagnostics
+')]</value>
+      <webElementGuid>b8ffe609-8f53-4d62-9b9a-0aeaf7829d39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

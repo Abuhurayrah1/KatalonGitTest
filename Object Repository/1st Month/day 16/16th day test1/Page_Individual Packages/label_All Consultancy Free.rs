@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_All Consultancy Free</name>
+   <tag></tag>
+   <elementGuidId>b1436400-614e-4570-af39-7b329d9f63dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='IndividualPackageForm']/div[7]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>35c20c7f-16ab-4ba4-935d-a0708bec55e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>IsAllConsultancyFree</value>
+      <webElementGuid>6bafffe7-5809-4e82-a404-1b862d9bae7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Consultancy Free</value>
+      <webElementGuid>1aaf45e1-5629-4f84-8429-25b9161216e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IndividualPackageForm&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-2&quot;]/label[1]</value>
+      <webElementGuid>6ee06fde-a12c-4ff7-96fd-6106d9b98056</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='IndividualPackageForm']/div[7]/div/label</value>
+      <webElementGuid>9c8dc510-ecb6-435e-91ce-786e06c5df3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All SubServices Free'])[1]/following::label[2]</value>
+      <webElementGuid>ad8dcd3e-e463-4287-bbbc-046c8a0b7fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Medicines Free'])[1]/following::label[4]</value>
+      <webElementGuid>6f3a5daf-b258-4c85-ba78-bee0937b7f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All MiscServices Free'])[1]/preceding::label[2]</value>
+      <webElementGuid>4708a5b8-f6a7-460f-a9c1-32cbaa2ebab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::label[4]</value>
+      <webElementGuid>c21a9881-f06b-4cc0-8f36-f8c2904e9d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Consultancy Free']/parent::*</value>
+      <webElementGuid>dd8a9eb2-1a33-49e5-90f6-21a8720621d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/label</value>
+      <webElementGuid>5ad3bc46-82f3-425b-9f77-aa419fa9fa02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'All Consultancy Free' or . = 'All Consultancy Free')]</value>
+      <webElementGuid>da3259ad-70d0-4188-8dd3-28a1889496d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

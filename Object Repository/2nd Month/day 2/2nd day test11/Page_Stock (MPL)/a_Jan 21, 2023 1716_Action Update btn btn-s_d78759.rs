@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jan 21, 2023 1716_Action Update btn btn-s_d78759</name>
+   <tag></tag>
+   <elementGuidId>3b367a29-bd93-4724-87b0-4ce7ca418257</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='List']/tbody/tr/td[7]/span/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.Update.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d36da9bc-e60f-4834-a32f-bf3082ed5ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Update</value>
+      <webElementGuid>e6023b90-861b-4eeb-a9d4-9561f4d82240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action Update btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>99db1bdb-53d4-454f-aa7f-c12c00c628b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;List&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/span[@class=&quot;HTML&quot;]/a[@class=&quot;Action Update btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>1766bc28-326b-4035-b280-32308b4ebc85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='List']/tbody/tr/td[7]/span/a[2]</value>
+      <webElementGuid>421f6932-4c63-4480-8de6-943bc36ecbd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 21, 2023 17:16'])[1]/following::a[2]</value>
+      <webElementGuid>397c63bd-6cc3-44b1-9f21-0c07d35cc624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regular'])[2]/following::a[4]</value>
+      <webElementGuid>1074fc9f-622f-4919-a69e-a36fe3bb6965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airfreshner Fresscoplus 2 in 01'])[1]/preceding::a[3]</value>
+      <webElementGuid>92ed5274-fb2f-4430-8143-cf5e4192c1e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regular'])[3]/preceding::a[3]</value>
+      <webElementGuid>c7466288-d0f7-4ced-9cc6-be511f3ed678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/span/a[2]</value>
+      <webElementGuid>706dcd29-6352-4600-82ec-a12bb5d0580a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Update']</value>
+      <webElementGuid>67a03d78-d5eb-40a6-b77c-0a51b101c120</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

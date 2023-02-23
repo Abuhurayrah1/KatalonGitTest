@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mr. System Administrator  Dec 27, 2022 09_83f6e7</name>
+   <tag></tag>
+   <elementGuidId>dd1cb0f7-05d3-4e3d-8b14-d02cab8ffcb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='VerificationQueueTable']/tbody/tr/td[10]/a[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ReviewInModal.barcode.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5e2ca961-113a-4459-87de-fe0cd9c64fec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Review</value>
+      <webElementGuid>07f13a96-276a-4e8c-b79e-8cb2b0d48594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ReviewInModal barcode btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>3682d7f4-b7b0-437d-a9df-f5e96d52dbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;VerificationQueueTable&quot;)/tbody[1]/tr[@class=&quot;bg-success-tab-row odd&quot;]/td[@class=&quot;text-center nowrapColumn nopaddingColumn&quot;]/a[@class=&quot;ReviewInModal barcode btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>794308a2-6fa2-40ed-b7c3-0dd2174fc05c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='VerificationQueueTable']/tbody/tr/td[10]/a[6]</value>
+      <webElementGuid>cb78f8ad-6b8e-4ee8-93af-13d4e35f81cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr. System Administrator / Dec 27, 2022 09:40'])[1]/following::a[6]</value>
+      <webElementGuid>a841135c-bc1e-46cc-9b10-d892cdd3e6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CK-MB (Mass)'])[2]/following::a[6]</value>
+      <webElementGuid>4e5f27cf-97e4-4bd5-a00c-c93008fd2b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing...'])[3]/preceding::a[16]</value>
+      <webElementGuid>5dbc9feb-4eba-49f3-babb-32e6bfac929f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::a[16]</value>
+      <webElementGuid>51876757-0b10-4426-852b-a6528ddd41cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>6073c0ad-bb02-474c-8f80-db5ebbe67e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Review']</value>
+      <webElementGuid>f2390036-185b-4971-b946-4fe1d8c69067</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

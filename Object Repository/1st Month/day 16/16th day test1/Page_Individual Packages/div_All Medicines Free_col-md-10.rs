@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All Medicines Free_col-md-10</name>
+   <tag></tag>
+   <elementGuidId>f3915661-a03d-452b-9590-b431b54c3ee4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='IndividualPackageForm']/div[5]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>38d6a5f3-66b5-4b98-acad-f1e752ab87f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-10</value>
+      <webElementGuid>e494fd76-a3c7-4deb-870c-9c57eaedee9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IndividualPackageForm&quot;)/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-10&quot;]</value>
+      <webElementGuid>9e36893c-9925-4e6f-99df-d056498546f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='IndividualPackageForm']/div[5]/div[2]</value>
+      <webElementGuid>d713c126-647d-43a3-a249-00307a065834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Medicines Free'])[1]/following::div[1]</value>
+      <webElementGuid>08071fe1-4cb5-4ffc-a9c8-50b457ac475f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter a valid number'])[1]/following::div[3]</value>
+      <webElementGuid>70a614fa-dbbc-486d-84a5-8767c9cec839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All SubServices Free'])[1]/preceding::div[1]</value>
+      <webElementGuid>aa082082-816e-4a15-952c-fcae3abc3aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Consultancy Free'])[1]/preceding::div[4]</value>
+      <webElementGuid>ec9a0d23-c268-44a0-8f05-48353b8fb8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]</value>
+      <webElementGuid>ffe6bffc-fc88-404d-89be-75338aebaff0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

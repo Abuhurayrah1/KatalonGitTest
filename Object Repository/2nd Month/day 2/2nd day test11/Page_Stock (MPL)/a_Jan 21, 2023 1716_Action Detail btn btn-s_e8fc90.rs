@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jan 21, 2023 1716_Action Detail btn btn-s_e8fc90</name>
+   <tag></tag>
+   <elementGuidId>43a6ff0e-1ffa-4b02-b1b3-151e71a9c27d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='List']/tbody/tr/td[7]/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.Detail.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>da1c0a6d-92ce-4add-819b-5de50a8cf73b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Detail</value>
+      <webElementGuid>29a8c198-672a-405b-8a84-9028ec46f01a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action Detail btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>d8e2f181-770a-4fb0-a557-8ca64d949961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;List&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/span[@class=&quot;HTML&quot;]/a[@class=&quot;Action Detail btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>01b179d8-9ab8-404c-b043-eb1752b7976f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='List']/tbody/tr/td[7]/span/a</value>
+      <webElementGuid>c50c32f0-e208-4a6d-ab54-8ba2b232dfc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan 21, 2023 17:16'])[1]/following::a[1]</value>
+      <webElementGuid>b526c90d-4360-4b59-8844-6d1a03d903f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regular'])[2]/following::a[3]</value>
+      <webElementGuid>0232d639-c57d-422c-a71c-5c323b9ccce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airfreshner Fresscoplus 2 in 01'])[1]/preceding::a[4]</value>
+      <webElementGuid>6faa36c7-d543-4926-b5ad-c7eadc65a1f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regular'])[3]/preceding::a[4]</value>
+      <webElementGuid>7f6c4a26-6d4f-49c7-98ce-778c2978bb2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/span/a</value>
+      <webElementGuid>d863ee69-b1d4-497f-b2bd-04df66a38bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Detail']</value>
+      <webElementGuid>f4f127c3-9bc9-4ada-bd10-fefc8cb34cda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
