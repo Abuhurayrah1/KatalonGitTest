@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Patient_fa fa-star pull-right</name>
+   <tag></tag>
+   <elementGuidId>59b77109-a135-4ebb-8b66-d80327a3f557</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Entitle']/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-star.pull-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6b2707e3-72e2-4336-8ad8-5d140411b966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-star pull-right</value>
+      <webElementGuid>31d898a7-11bd-4b02-ba7a-453de1f90a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HospitalStatsSummary_Wrapper&quot;)/div[@class=&quot;row&quot;]/div[@id=&quot;Entitle&quot;]/div[@class=&quot;kt-widget17__item&quot;]/div[@class=&quot;ibox-title kt-widget17__icon&quot;]/i[@class=&quot;fa fa-star pull-right&quot;]</value>
+      <webElementGuid>ed6e9538-ab1c-4e5f-9a00-c65eb41bd3bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Entitle']/div/div/i</value>
+      <webElementGuid>6bba424a-e761-474e-b7db-d8f861092eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/i</value>
+      <webElementGuid>0f382c9d-949b-4ed2-a535-c4f32416db03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

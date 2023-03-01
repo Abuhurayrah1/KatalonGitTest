@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Recieved_icon-medical-i-information-us icon-2x_1</name>
+   <tag></tag>
+   <elementGuidId>a13d07af-b5b0-4431-82d8-03cd01a46c1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DemandRequestTable']/tbody/tr/td[7]/div/span/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-medical-i-information-us.icon-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fea5a23b-d6a8-4611-b7f2-7156e6451988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-medical-i-information-us icon-2x</value>
+      <webElementGuid>91761f92-9783-4d3f-9faa-d507fa7ab32d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DemandRequestTable&quot;)/tbody[1]/tr[@class=&quot;odd selected&quot;]/td[@class=&quot;text-center&quot;]/div[1]/span[@class=&quot;ReceivedDemands&quot;]/a[@class=&quot;ViewDemandAuditDetailInModal&quot;]/i[@class=&quot;icon-medical-i-information-us icon-2x&quot;]</value>
+      <webElementGuid>0639c539-1601-467d-bad5-dbe89cd5e06e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DemandRequestTable']/tbody/tr/td[7]/div/span/a/i</value>
+      <webElementGuid>eb674727-b8f7-4b68-80fc-8fb139632732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/i</value>
+      <webElementGuid>4d9f5504-a647-43a0-9366-db81d85340f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

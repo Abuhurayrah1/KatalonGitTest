@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Recieved_icon-medical-i-information-us icon-2x</name>
+   <tag></tag>
+   <elementGuidId>39fca7bc-1480-4e45-87e4-3dfa0fd997f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DemandRequestTable']/tbody/tr/td[7]/div/span/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-medical-i-information-us.icon-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b62c4eff-0814-443d-acf8-6cf13f5f888a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-medical-i-information-us icon-2x</value>
+      <webElementGuid>a5a83d9e-e929-4565-ba49-d55cd25b907f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DemandRequestTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/div[1]/span[@class=&quot;ReceivedDemands&quot;]/a[@class=&quot;ViewDemandAuditDetailInModal&quot;]/i[@class=&quot;icon-medical-i-information-us icon-2x&quot;]</value>
+      <webElementGuid>8c7b81ce-069e-40b4-ae4e-77605a0dbe10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DemandRequestTable']/tbody/tr/td[7]/div/span/a/i</value>
+      <webElementGuid>2f0d3748-c2ed-4026-bb1c-223426ac32f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/i</value>
+      <webElementGuid>eef9e4fc-d9d5-4d39-9a93-91248583fc9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
