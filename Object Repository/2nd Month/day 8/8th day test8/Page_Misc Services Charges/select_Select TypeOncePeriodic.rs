@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select TypeOncePeriodic</name>
+   <tag></tag>
+   <elementGuidId>f80675d7-3968-4f5c-81d2-eeef9449132d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ChargeTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ChargeTypeId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2ff35762-0f14-421b-ae24-8788a5a1c575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>0975f22e-7804-46ec-a141-11ff003ee7dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4a55fd71-52bb-4bb2-8b01-e2afc5c44a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ChargeTypeId</value>
+      <webElementGuid>bca18c75-5199-449c-8567-2dffd7eb55e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ChargeTypeId</value>
+      <webElementGuid>d58e2490-5e3e-443d-8c65-2358437c2122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>66abd422-08e9-4e61-b2f2-edee74bd3ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>ChargeTypeId</value>
+      <webElementGuid>f15a7ce5-5a2b-4087-9b23-e950a55d0267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Type
+Once
+Periodic
+</value>
+      <webElementGuid>a67faece-0f40-41f4-816e-f98284a5b32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ChargeTypeId&quot;)</value>
+      <webElementGuid>564464b3-110c-44b9-bc9f-f72501e93ed8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ChargeTypeId']</value>
+      <webElementGuid>cf35d51e-3fc3-4ce6-a99c-5c1370f8c435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='FormFee']/div/div[6]/div/div[2]/div/select</value>
+      <webElementGuid>24f33ef7-af9f-4c93-b3fb-5888263953ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>32d75749-f5a1-49be-b74b-ae796e127117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>e1f65541-af48-4fe8-84d6-7c522a3935ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>17ab13d7-d6f5-49a3-b12d-775bc11103d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/select</value>
+      <webElementGuid>f0b88c25-5cda-4f87-8e7b-6a27b0cb7673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ChargeTypeId' and @name = 'ChargeTypeId' and (text() = 'Select Type
+Once
+Periodic
+' or . = 'Select Type
+Once
+Periodic
+')]</value>
+      <webElementGuid>97b6e413-4c93-4fc6-955a-afef145d519f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

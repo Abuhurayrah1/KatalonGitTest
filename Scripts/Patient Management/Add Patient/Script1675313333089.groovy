@@ -42,7 +42,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 25/25t
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 25/25th day test2/Page_Add Patient/input__FirstName'), 'asd')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 25/25th day test2/Page_Add Patient/input__CNICNumber'), '37410-4741014-3')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 25/25th day test2/Page_Add Patient/input__CNICNumber'), '37410-4741014-7')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 25/25th day test2/Page_Add Patient/input__yb'), '23')
 

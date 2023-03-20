@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Health Card - SSP_glyphicon glyphicon-th-large</name>
+   <tag></tag>
+   <elementGuidId>98ba0484-58a9-431b-838b-bb9407fac094</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-th-large</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='PanelPackageOrganizationTable']/tbody/tr/td[5]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a4af5364-3b47-4f37-90f6-55232169bd61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-th-large</value>
+      <webElementGuid>cd74c4ac-1209-47ef-9718-b034ebff8df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PanelPackageOrganizationTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Detail btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;glyphicon glyphicon-th-large&quot;]</value>
+      <webElementGuid>9e196c91-017d-4287-9380-d9bf51626517</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='PanelPackageOrganizationTable']/tbody/tr/td[5]/a/i</value>
+      <webElementGuid>f2fca984-75aa-4dd7-a5bc-f226b71e58e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a/i</value>
+      <webElementGuid>d859eb75-66c8-4bac-83fa-c9191f37af64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

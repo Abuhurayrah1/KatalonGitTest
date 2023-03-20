@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_asd_Action Delete btn btn-sm btn-clean bt_597cbe</name>
+   <tag></tag>
+   <elementGuidId>ae6cb7b6-1a84-43a3-977f-80a9e7074dc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='FeeTypeTable']/tbody/tr/td[4]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.Delete.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0ae14e24-6d9b-4c64-8289-b8cd057bb442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>6dc9f785-8b70-4e6b-9d54-b15144018f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action Delete btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>27f57bd4-1dee-4d54-aa68-45f59d870875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FeeTypeTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Delete btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>51921c56-df24-4219-a9bd-297d7847fc4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='FeeTypeTable']/tbody/tr/td[4]/a[2]</value>
+      <webElementGuid>21ba6205-1adb-40be-8d5a-385e8fa4755e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asd'])[1]/following::a[2]</value>
+      <webElementGuid>035dcd22-7594-47eb-97dc-e27c4c0c7993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asd'])[1]/following::a[2]</value>
+      <webElementGuid>743a741e-56f9-4efb-a859-d61da8027f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acbhjt'])[1]/preceding::a[1]</value>
+      <webElementGuid>9b79a650-a3cb-4b5a-93ce-c71aab882795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leprosy Hospital Services'])[1]/preceding::a[3]</value>
+      <webElementGuid>401281e4-8e1a-4f5e-9253-08578ae986f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a[2]</value>
+      <webElementGuid>d2cdbfe2-0805-49a1-a8d8-a01866279a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Delete']</value>
+      <webElementGuid>8a6db5e2-00f8-4b1a-81b9-580f43759f60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

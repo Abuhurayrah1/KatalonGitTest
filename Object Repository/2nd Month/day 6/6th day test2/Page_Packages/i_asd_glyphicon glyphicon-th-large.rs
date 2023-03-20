@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_asd_glyphicon glyphicon-th-large</name>
+   <tag></tag>
+   <elementGuidId>c16d4212-c13f-4528-8957-35a5827418cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-th-large</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='PanalOrganizationTeble']/tbody/tr/td[4]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>200d8631-ce25-44bc-a48d-446ed67777f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-th-large</value>
+      <webElementGuid>eebe0567-e7f8-4050-97c6-33c390367235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PanalOrganizationTeble&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Detail btn btn-sm btn-clean btn-icon btn-icon-md&quot;]/i[@class=&quot;glyphicon glyphicon-th-large&quot;]</value>
+      <webElementGuid>ef83b54a-2fa3-4722-b199-d488f5f05f13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='PanalOrganizationTeble']/tbody/tr/td[4]/a/i</value>
+      <webElementGuid>bcc4f250-438f-4c32-8088-05af760cd041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a/i</value>
+      <webElementGuid>1fe2add2-8a87-4489-a485-d66bc02441af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

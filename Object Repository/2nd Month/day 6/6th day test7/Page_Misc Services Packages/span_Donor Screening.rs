@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Donor Screening</name>
+   <tag></tag>
+   <elementGuidId>304c4aee-2981-4baa-98d2-dc56cbd3a227</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-5-5 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-5-5']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7abbc7d-cf05-4312-8a50-52561a9d2252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>cf5d54a2-090c-410a-82b1-d5c57daeebe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Donor Screening </value>
+      <webElementGuid>1f0dff68-d074-4939-a1da-558ed4cc2124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-5-5&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>061263a5-b008-4f1c-ac32-397e91d45644</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-5-5']/span[2]</value>
+      <webElementGuid>5d63577f-d6a6-41e3-b79b-283ad818c62f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('FFP', &quot;'&quot;, 's Charges')])[2]/following::span[2]</value>
+      <webElementGuid>0f0a139d-bbcb-46cd-a97c-6bc757cc3e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cross Match'])[2]/following::span[4]</value>
+      <webElementGuid>7f581fd8-e29c-4f85-9ced-c4d382750e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leprosy Hospital Film Charges 1x'])[2]/preceding::span[4]</value>
+      <webElementGuid>4dd94bcd-65dc-4c0d-a7df-fa092c28b758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Antibody Screening'])[2]/preceding::span[6]</value>
+      <webElementGuid>e674e5a3-0453-46b2-8e4c-62fa6d22c13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[6]/a/span[2]</value>
+      <webElementGuid>7f00705c-cc55-4ebf-b240-dec3b822ea52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Donor Screening ' or . = 'Donor Screening ')]</value>
+      <webElementGuid>a4b123a4-7ead-490f-9995-382c4dc6d864</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

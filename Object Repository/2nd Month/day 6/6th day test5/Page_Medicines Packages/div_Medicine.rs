@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Medicine</name>
+   <tag></tag>
+   <elementGuidId>fac1187e-8e1c-4302-897e-7f873d2d7055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.row.conFeeS > div.col-md-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='PanelPackageMedicineForm']/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c325ada-95c7-48be-a0ef-686c8e595152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4</value>
+      <webElementGuid>8d59f1e4-145d-4913-921b-053be02714fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Medicine:*
+                                    </value>
+      <webElementGuid>d83b49a2-972a-4c46-ad04-b04c6b3b5587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PanelPackageMedicineForm&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group row conFeeS&quot;]/div[@class=&quot;col-md-4&quot;]</value>
+      <webElementGuid>80667a20-1924-4b2a-a0cd-e80cc6b36013</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PanelPackageMedicineForm']/div/div/div/div[2]/div</value>
+      <webElementGuid>726d2246-272b-4fca-b610-b8fed6cce1ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select Panel Package'])[1]/following::div[2]</value>
+      <webElementGuid>5680ae19-ee1a-4d26-ab47-d1a1607d324a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panel Org'])[2]/following::div[2]</value>
+      <webElementGuid>400da867-f8d8-47ed-b809-22e483f92e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/div/div/div/div[2]/div</value>
+      <webElementGuid>5d00f7ee-306a-47ba-9566-46848ea863f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                        Medicine:*
+                                    ' or . = '
+                                        Medicine:*
+                                    ')]</value>
+      <webElementGuid>52e182c5-a9e6-4eea-957b-8a930b496610</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

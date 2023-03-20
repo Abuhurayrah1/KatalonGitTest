@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_asd_Action Delete btn btn-sm btn-clean bt_597cbe</name>
+   <tag></tag>
+   <elementGuidId>b26c66a3-6694-4df8-b904-60460ff3f5b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='PatientCategoryTable']/tbody/tr/td[6]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.Delete.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>87af0b28-0b41-42ef-b080-c72730a9eea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>a59278ad-be17-450e-ac59-c656e06bfb78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action Delete btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>a34613bd-7108-4dd2-a1c8-3d9b369b7f47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PatientCategoryTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Delete btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>a294bb11-c421-4f18-9ae1-27648b26b59e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='PatientCategoryTable']/tbody/tr/td[6]/a[2]</value>
+      <webElementGuid>5652e582-ecd1-4dbb-a340-c09b01618a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asd'])[1]/following::a[2]</value>
+      <webElementGuid>9db11f53-42f6-441c-9e0b-a5c4672c27c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asd'])[1]/following::a[2]</value>
+      <webElementGuid>63e45082-2327-45fd-900f-b41cef15e621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bread'])[1]/preceding::a[1]</value>
+      <webElementGuid>64695942-cd48-4bd0-885f-ea45e4c04574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cat-IV'])[1]/preceding::a[3]</value>
+      <webElementGuid>a6764536-f4da-48c2-aaed-0633cfbbfa51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a[2]</value>
+      <webElementGuid>1bde8838-b09a-4e2c-b0f2-9d5b094a5eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Delete']</value>
+      <webElementGuid>3454b2a0-09c1-4d0f-b006-99a8b9da2a79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Claim Objection TypeDSGFDGFJf_a9260d</name>
+   <tag></tag>
+   <elementGuidId>dcd8113b-ca2c-4a38-9d32-3e22df6f1774</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ClaimObjectionTypeId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ClaimObjectionTypeId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ff9ccecb-c139-4545-b95f-4602666fbc7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>81f7caa6-bcdd-4b6e-bd3f-7bc5d648962b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5fe16ea2-30bb-40cf-9a22-ef4a0ee131c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ClaimObjectionTypeId</value>
+      <webElementGuid>a07cef96-9036-4221-8ae8-a11f7d7c91ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ClaimObjectionTypeId</value>
+      <webElementGuid>f8e6843e-f0a2-4e0a-9435-2d238c66e0d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>ed2a509e-b0a1-45e2-bd46-cd8bb506af03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Claim Objection Type
+DSGFDGFJ
+fgfh
+rrrrr
+</value>
+      <webElementGuid>3ba72879-3ad6-44ba-98eb-92ba1c379e53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ClaimObjectionTypeId&quot;)</value>
+      <webElementGuid>0b85493a-7b4d-40e6-b5bf-851a20f59bfb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ClaimObjectionTypeId']</value>
+      <webElementGuid>c6bfb30b-ccba-4338-b5e3-3f65d39bfa44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myDIV']/div/div/div[5]/div[2]/div/select</value>
+      <webElementGuid>1fd468c3-fc97-44c6-8266-a3178071f8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>0b6cc34e-f5cf-4628-8e54-96277b4ca742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Claim Objection Type'])[2]/preceding::select[1]</value>
+      <webElementGuid>3e9ee94e-975b-4148-ab4e-11fe949c7543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Claim Objection Type'])[3]/preceding::select[1]</value>
+      <webElementGuid>37eb9d07-00a0-4c56-b933-acbd6bc60205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>29f48a2e-089d-454e-86a6-6cd6b4e681f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ClaimObjectionTypeId' and @name = 'ClaimObjectionTypeId' and (text() = 'Select Claim Objection Type
+DSGFDGFJ
+fgfh
+rrrrr
+' or . = 'Select Claim Objection Type
+DSGFDGFJ
+fgfh
+rrrrr
+')]</value>
+      <webElementGuid>9f34374a-5274-4263-9fce-ee4c4a5adef9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

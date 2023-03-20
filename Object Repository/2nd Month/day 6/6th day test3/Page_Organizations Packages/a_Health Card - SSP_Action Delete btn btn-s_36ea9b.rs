@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Health Card - SSP_Action Delete btn btn-s_36ea9b</name>
+   <tag></tag>
+   <elementGuidId>d9374df6-5c72-4eca-b001-04519335d916</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.Action.Delete.btn.btn-sm.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='PanelPackageOrganizationTable']/tbody/tr/td[5]/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b2c42435-1bce-4a95-a6c6-45103750247f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>6fabbd46-4d61-458d-bf7c-dbc2f68fedd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Action Delete btn btn-sm btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>1494b201-57ed-4ec4-b4ec-8fc04dec15a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PanelPackageOrganizationTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action Delete btn btn-sm btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>52137ca9-3058-42df-a5ed-558a73fc8559</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='PanelPackageOrganizationTable']/tbody/tr/td[5]/a[3]</value>
+      <webElementGuid>b8ecfa4d-9c41-4cc7-952e-9c3ede5728a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Health Card - SSP'])[3]/following::a[3]</value>
+      <webElementGuid>1a636522-7fdf-40c9-b0f0-f400864a07db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sehat Card'])[3]/following::a[3]</value>
+      <webElementGuid>999abd43-f1be-49a3-89fe-055b6182b4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sehat Card'])[4]/preceding::a[3]</value>
+      <webElementGuid>e0260a8e-eca9-4bbc-a723-0bda99a07633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zakat'])[3]/preceding::a[3]</value>
+      <webElementGuid>6bddeb9d-de99-419f-8f07-f89f14600e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a[3]</value>
+      <webElementGuid>c642cca7-f724-4f51-94f4-3aed5556e833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Delete']</value>
+      <webElementGuid>2276bf73-5afb-4875-9e11-7b3900612f05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Organization</name>
+   <tag></tag>
+   <elementGuidId>82744c92-6847-4006-bc21-122f702ddbb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-4 > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='PanelWiseForm']/div[2]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>eb59cead-8a3f-4d43-9a41-4f6901f2f1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Organization</value>
+      <webElementGuid>154ad6fa-9293-4668-a36f-ca9c39a53bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PanelWiseForm&quot;)/div[@class=&quot;row col-md-12&quot;]/div[@class=&quot;col-md-6 form-group row&quot;]/div[@class=&quot;col-md-4&quot;]/label[1]</value>
+      <webElementGuid>fcaa5a6e-05b5-4c87-bc72-cd05219368bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PanelWiseForm']/div[2]/div/div/label</value>
+      <webElementGuid>6c56705b-6946-4c18-a32e-d3fe66768665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Range'])[1]/following::label[1]</value>
+      <webElementGuid>19b773e5-347d-4f09-9f0d-a19830c7128a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::label[2]</value>
+      <webElementGuid>8344871f-d2c9-4055-92fc-4a954a196484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[1]/preceding::label[1]</value>
+      <webElementGuid>ac1a6ef7-29fe-458f-85eb-675e0fb263aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/preceding::label[1]</value>
+      <webElementGuid>9d294927-09f7-4161-8834-0c7f4e7b6c14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Organization']/parent::*</value>
+      <webElementGuid>86ed1429-6a85-4abc-a73b-44231f80551e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/label</value>
+      <webElementGuid>0b60ebe9-36a4-44cf-8136-e1f5fbe4406e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Organization' or . = 'Organization')]</value>
+      <webElementGuid>9daf039f-9634-4ec8-a07f-79428651e125</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

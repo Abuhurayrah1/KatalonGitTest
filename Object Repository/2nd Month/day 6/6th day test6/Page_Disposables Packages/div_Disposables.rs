@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Disposables</name>
+   <tag></tag>
+   <elementGuidId>1e2e89bf-cb41-49e0-86cc-adc5ccc5a256</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.row.conFeeS.has-feedback > div.col-md-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='PanelPackageDisposableForm']/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee8df2ab-a922-40fa-ab3d-7356378f4692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4</value>
+      <webElementGuid>ad86efe2-967a-4b39-a72b-403d18cd6238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Disposables:*
+                                            </value>
+      <webElementGuid>1e82c276-d742-4ebe-8bc0-231a6e0a4665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PanelPackageDisposableForm&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group row conFeeS has-feedback&quot;]/div[@class=&quot;col-md-4&quot;]</value>
+      <webElementGuid>f9bded5a-f92b-4ce6-a6d0-5a8a1a9ecfef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PanelPackageDisposableForm']/div/div/div/div[2]/div</value>
+      <webElementGuid>c1e8ad3b-af1f-4a19-a007-7974df5e3996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select Panel Package'])[1]/following::div[2]</value>
+      <webElementGuid>b28155ed-6401-4db6-8b7a-944a00681b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panel Org'])[2]/following::div[2]</value>
+      <webElementGuid>38b8a7d8-1136-4c77-b7e5-d71b4a5e298b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/div/div/div/div[2]/div</value>
+      <webElementGuid>d73e3574-5345-49fe-b067-27fb5a6db7d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                                Disposables:*
+                                            ' or . = '
+                                                Disposables:*
+                                            ')]</value>
+      <webElementGuid>f5598ccf-807b-4188-b53f-1ba9c20dbf2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

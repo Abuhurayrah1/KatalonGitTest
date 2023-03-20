@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Patient CategoryCat-IIAsdCat-_c257a7</name>
+   <tag></tag>
+   <elementGuidId>b52f0ae3-11f7-43ad-8eb5-9d02b5bd9a18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='CategoryId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CategoryId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0433c1fb-f2bb-4795-a81f-f927b8ed34d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>bbea5f16-8367-4689-a6cb-7b12f404c272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>41bfdb9d-023e-4b9b-964f-3005a5d7ffe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CategoryId</value>
+      <webElementGuid>cd641a5a-85a3-4a69-a7a8-411e7c51d73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>CategoryId</value>
+      <webElementGuid>93d8e703-d9d6-4565-b817-f21c2ac175a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>ef2b5521-8b2c-4e70-ae28-1a9d7efcfa0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>CategoryId</value>
+      <webElementGuid>2aeae608-dbec-497d-b982-3b0931c54451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Patient Category
+Cat-II
+Asd
+Cat-III
+Cat-IV
+Bread
+</value>
+      <webElementGuid>dde68c39-723f-40c6-8c19-71eb5c70d1ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CategoryId&quot;)</value>
+      <webElementGuid>6f156efb-5c32-4459-8d7b-54c751b5040a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='CategoryId']</value>
+      <webElementGuid>94ae71cc-7193-48a3-b12e-61de3f0bf831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SubserviceDiv']/div/div[2]/div/select</value>
+      <webElementGuid>5d43ac81-cc76-417f-bd2b-80325b8bd5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>f19c7f87-0b0a-4e6d-8fbb-617d7eb3f4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Patient Category'])[2]/preceding::select[1]</value>
+      <webElementGuid>ed67be2c-ee2e-4f10-b717-1dc1589a9845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Patient Category'])[3]/preceding::select[1]</value>
+      <webElementGuid>a2d0db5f-9db3-4b7d-b939-75a3af8a4450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>8a2bcfa4-9265-40e9-8113-e5fa592d2031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'CategoryId' and @name = 'CategoryId' and (text() = 'Select Patient Category
+Cat-II
+Asd
+Cat-III
+Cat-IV
+Bread
+' or . = 'Select Patient Category
+Cat-II
+Asd
+Cat-III
+Cat-IV
+Bread
+')]</value>
+      <webElementGuid>e6d2ae8a-fe93-4c76-aa16-512a2ba16700</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

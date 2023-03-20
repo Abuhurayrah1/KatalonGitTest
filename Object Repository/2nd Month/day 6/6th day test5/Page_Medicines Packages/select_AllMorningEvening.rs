@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AllMorningEvening</name>
+   <tag></tag>
+   <elementGuidId>c0ff418e-a2f6-4c1b-b821-71da9b0e6b85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#WorkingSessionId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='WorkingSessionId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>75332ffa-1f45-4c1d-942e-27e10401b5b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>56b0d2f9-1437-4e65-89db-463fef01774c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e98957c3-6617-408e-aa4d-3da871fa8e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>WorkingSessionId</value>
+      <webElementGuid>56f7a096-a33a-44b3-8e02-dfef43fc2d21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>WorkingSessionId</value>
+      <webElementGuid>560a91be-b26d-43f7-a59b-9d7f0727f825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>1136d09d-4b13-423c-9ddb-0e4676f77e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All
+Morning
+Evening
+</value>
+      <webElementGuid>3711afd4-eed7-4011-a3c6-3ebaa28ae617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;WorkingSessionId&quot;)</value>
+      <webElementGuid>4d4f5200-4adc-480c-b8b5-d65952c59d13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='WorkingSessionId']</value>
+      <webElementGuid>dcb9c738-34d7-47e7-b2ef-e3a7c06ceb75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='WorkingSession']/div[2]/div/select</value>
+      <webElementGuid>f9de3b1d-1948-4ee8-8072-85f20bc96452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Working Session:'])[1]/following::select[1]</value>
+      <webElementGuid>25591d6d-4141-427b-a439-75de18c993ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Charges'])[1]/following::select[1]</value>
+      <webElementGuid>6b613981-fb85-4b6b-bf60-206468d588b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/preceding::select[1]</value>
+      <webElementGuid>472bea5b-5f59-4464-82ac-9ebdd3cfcf08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[3]/preceding::select[1]</value>
+      <webElementGuid>acd0c4bc-38a1-40b0-8e9c-a9df2e5136a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/select</value>
+      <webElementGuid>9f65a29c-b3bf-47ff-b650-dfa5244eb2a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'WorkingSessionId' and @name = 'WorkingSessionId' and (text() = 'All
+Morning
+Evening
+' or . = 'All
+Morning
+Evening
+')]</value>
+      <webElementGuid>faacc8a4-49f3-4ba1-8331-0fe88f1e93f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

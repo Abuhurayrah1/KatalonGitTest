@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dr. Shafiq ur Rehman</name>
+   <tag></tag>
+   <elementGuidId>0392d2fb-b30c-42aa-862d-415df3774c5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bs-select-5-5 > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='bs-select-5-5']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dcd16100-208b-41a2-b08b-48ef7d63cb90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>416f0b07-8ba8-4e5b-9289-089fc0206508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dr. Shafiq ur Rehman</value>
+      <webElementGuid>4c6a2567-52c2-4da2-a035-88007d5225df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bs-select-5-5&quot;)/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>63217b48-fe7b-4b95-993f-89fd4f17b5ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='bs-select-5-5']/span[2]</value>
+      <webElementGuid>dba00112-b6c6-41e2-a38e-2ec85faad938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. M Talha Bin Nazir'])[2]/following::span[2]</value>
+      <webElementGuid>96d54457-92d8-44c1-b0e0-0fb0f2c079f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Test Doctor'])[2]/following::span[4]</value>
+      <webElementGuid>2cd06fbb-67e6-4941-bfba-f8583d746a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Imran Iftikhar'])[2]/preceding::span[2]</value>
+      <webElementGuid>715c2c13-a168-4f38-b8a7-bdb0fa2eafd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dr. Hesham Naeem'])[2]/preceding::span[4]</value>
+      <webElementGuid>6cd80036-8b32-46f2-9156-3af5708a45da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[6]/a/span[2]</value>
+      <webElementGuid>23e6fdf7-5643-40e6-97c9-309cbefce3c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dr. Shafiq ur Rehman' or . = 'Dr. Shafiq ur Rehman')]</value>
+      <webElementGuid>3233c95b-7503-4ab6-92e8-cb68ca3ec12c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
