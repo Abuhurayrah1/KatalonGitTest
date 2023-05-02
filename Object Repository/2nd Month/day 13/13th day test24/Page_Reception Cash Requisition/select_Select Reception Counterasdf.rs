@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Reception Counterasdf</name>
+   <tag></tag>
+   <elementGuidId>215705ff-fec9-4cb7-a1a2-18d4908a1dd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='RequestToReceptionCounterId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#RequestToReceptionCounterId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>eccf132c-0511-4af4-9e9e-6f46d5c76729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>a7ef4937-2445-4971-b9ce-cba18bad0e98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>57eaf53f-16c7-41fc-a2cc-00a8deb85e0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>RequestToReceptionCounterId</value>
+      <webElementGuid>2eb87cf0-0b85-4cd4-b51e-17496be7e355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>RequestToReceptionCounterId</value>
+      <webElementGuid>65c02219-f9ee-40f2-95d7-1e14d43391cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>71fb49dc-2a5a-41cc-8564-f434c61c5c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Reception Counter
+asdf
+</value>
+      <webElementGuid>0b2dda8a-7eff-4860-9458-db3ae21657c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RequestToReceptionCounterId&quot;)</value>
+      <webElementGuid>2bfdd224-ccff-4bfd-9303-94182e18d1bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='RequestToReceptionCounterId']</value>
+      <webElementGuid>03462cdb-6ff8-41b3-88c9-92cbb6ef11d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ReceptionCashRequisitionForm']/div/div/div/div[2]/div/select</value>
+      <webElementGuid>01f957dc-c441-486a-9d27-ae989f751243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>36ec60ae-461d-4bc6-8e9f-b709530970b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Reception Counter'])[2]/preceding::select[1]</value>
+      <webElementGuid>a7ca2dd9-d649-470c-98ca-263e2acd893c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Reception Counter'])[3]/preceding::select[1]</value>
+      <webElementGuid>7dc5a282-e9ff-46f1-8cc2-6240da770158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>7f2e2553-34e3-49a3-a98a-7b2a9a436de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'RequestToReceptionCounterId' and @name = 'RequestToReceptionCounterId' and (text() = 'Select Reception Counter
+asdf
+' or . = 'Select Reception Counter
+asdf
+')]</value>
+      <webElementGuid>a5ad7698-3e34-4464-b549-c8f5e3c6a3d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_244354-SDFGN ( 0.00)</name>
+   <tag></tag>
+   <elementGuidId>873fed43-e2bc-4c71-a8ba-0e4dceacd2a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ApprovedBudgetSetupdForm']/div/div/div[6]/div[2]/div/button/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67303bc9-795a-4766-bc71-bd55c2e88201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option-inner-inner</value>
+      <webElementGuid>9d42f4ae-5299-49da-a4b0-03df6c61fc27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>244354-SDFGN ( 0.00)</value>
+      <webElementGuid>6a892f36-f2bc-498d-9ec0-00a7fabce81a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ApprovedBudgetSetupdForm&quot;)/div[@class=&quot;kt-portlet kt-portlet--mobile&quot;]/div[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;form-group row col-md-12&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;dropdown bootstrap-select form-control dropup&quot;]/button[@class=&quot;btn dropdown-toggle btn-light&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
+      <webElementGuid>a12c9727-4139-44f3-9372-590daacd8d10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ApprovedBudgetSetupdForm']/div/div/div[6]/div[2]/div/button/div/div/div</value>
+      <webElementGuid>093d3ea3-74e1-411d-890d-b95ac34345ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parent Head Of Account:'])[1]/following::div[5]</value>
+      <webElementGuid>715fef52-d7a5-4a2f-be8a-92c39ccf198e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Available Financial Years'])[2]/following::div[7]</value>
+      <webElementGuid>090a4b82-dda6-43b0-afc0-cc0643ba5a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Parent Head of Accounts'])[2]/preceding::div[2]</value>
+      <webElementGuid>271afb0c-b7e3-4f07-ae36-727991d31acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A01-Total Employees Related Expenses ( 0.00)'])[2]/preceding::div[2]</value>
+      <webElementGuid>afc6b47a-ce4c-4ff2-89c8-08b5c5ee56fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/button/div/div/div</value>
+      <webElementGuid>48b7451d-b67f-4fe8-b8b8-2baca50cb16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '244354-SDFGN ( 0.00)' or . = '244354-SDFGN ( 0.00)')]</value>
+      <webElementGuid>83af8614-de38-4f66-afe7-25842e941486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

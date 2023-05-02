@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Mar 13, 2023 1204_fas fa-file-pdf btn btn_a05805</name>
+   <tag></tag>
+   <elementGuidId>bcb00ac4-6021-4a97-af4a-c6ea22988f2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-file-pdf.btn.btn-clean.btn-icon.btn-icon-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ChallanVaultDataTable']/tbody/tr/td[8]/a[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>606021e7-a7ec-43a4-bca7-1712257df2e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-file-pdf btn btn-clean btn-icon btn-icon-md</value>
+      <webElementGuid>691be38a-920a-45ff-a049-2368817d7c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ChallanVaultDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[3]/i[@class=&quot;fas fa-file-pdf btn btn-clean btn-icon btn-icon-md&quot;]</value>
+      <webElementGuid>8aee9c88-cc8f-484b-bb09-c71b0fa5068e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ChallanVaultDataTable']/tbody/tr/td[8]/a[3]/i</value>
+      <webElementGuid>31fd62ec-fedc-4485-a580-09300fe209e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/i</value>
+      <webElementGuid>0129d4ba-548b-46fa-ae51-d6654fd30d2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

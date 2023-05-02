@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Available Financial Years2019_26e424</name>
+   <tag></tag>
+   <elementGuidId>a667e7c4-3ea4-4d4f-ae9f-d8a2f08465b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#FinancialYearId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='FinancialYearId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>66dcd8b2-1493-4a28-83a4-ea03aa851b7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FinancialYearId</value>
+      <webElementGuid>31488323-8ec3-472c-afd2-5bf88e525640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>91df9cc7-d103-469c-9143-9acfb4457e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2bb81b9b-d0ef-4736-903c-f9f9073f9b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>FinancialYearId</value>
+      <webElementGuid>096381a4-ec52-4bcc-96ec-eaaf87427932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>cb80535b-e004-4a6e-8bd8-18fb23992c61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Available Financial Years
+2019-2020
+2020-2021
+2021-2022
+2022-2023
+2023-2024
+2024-2025
+2025-2026
+2026-2027
+2027-2028
+2028-2029
+2029-2030
+2030-2031
+2031-2032
+2032-2033
+2033-2034
+2034-2035
+2035-2036
+2036-2037
+2037-2038
+2038-2039
+2039-2040
+2040-2041
+2041-2042
+2042-2043
+2043-2044
+2044-2045
+2045-2046
+2046-2047
+2047-2048
+2048-2049
+2049-2050
+2050-2051
+2051-2052
+2052-2053
+2053-2054
+2054-2055
+2055-2056
+2056-2057
+2057-2058
+2058-2059
+2059-2060
+2060-2061
+2061-2062
+2062-2063
+2063-2064
+2064-2065
+2065-2066
+2066-2067
+2067-2068
+2068-2069
+2069-2070
+2070-2071
+2071-2072
+2072-2073
+2073-2074
+2074-2075
+2075-2076
+2076-2077
+2077-2078
+2078-2079
+2079-2080
+2080-2081
+2081-2082
+2082-2083
+2083-2084
+2084-2085
+2085-2086
+2086-2087
+2087-2088
+2088-2089
+2089-2090
+2090-2091
+2091-2092
+2092-2093
+2093-2094
+2094-2095
+2095-2096
+2096-2097
+2097-2098
+2098-2099
+2018-2019
+</value>
+      <webElementGuid>18981ea8-1467-42e6-8ca3-3f259001bcd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FinancialYearId&quot;)</value>
+      <webElementGuid>9685e569-2e18-4e7e-bb40-d6db9f4b93cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='FinancialYearId']</value>
+      <webElementGuid>daf026d1-6704-4c4e-9926-e1a7ebf8a71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[3]/div/div/div/div[2]/div/select</value>
+      <webElementGuid>2d9f323d-de0d-4f07-9f11-43c09703be0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>43015226-f64c-4e6b-8541-e02be7e89ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Available Financial Years'])[2]/preceding::select[1]</value>
+      <webElementGuid>7ab94195-1e3f-4fe4-b129-164cac03fc89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Available Financial Years'])[3]/preceding::select[1]</value>
+      <webElementGuid>738d2900-38f3-49b7-ba2b-86b350bd2470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>3aa919bd-16ac-4fbd-b183-e985d6e55396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'FinancialYearId' and @name = 'FinancialYearId' and (text() = 'Select Available Financial Years
+2019-2020
+2020-2021
+2021-2022
+2022-2023
+2023-2024
+2024-2025
+2025-2026
+2026-2027
+2027-2028
+2028-2029
+2029-2030
+2030-2031
+2031-2032
+2032-2033
+2033-2034
+2034-2035
+2035-2036
+2036-2037
+2037-2038
+2038-2039
+2039-2040
+2040-2041
+2041-2042
+2042-2043
+2043-2044
+2044-2045
+2045-2046
+2046-2047
+2047-2048
+2048-2049
+2049-2050
+2050-2051
+2051-2052
+2052-2053
+2053-2054
+2054-2055
+2055-2056
+2056-2057
+2057-2058
+2058-2059
+2059-2060
+2060-2061
+2061-2062
+2062-2063
+2063-2064
+2064-2065
+2065-2066
+2066-2067
+2067-2068
+2068-2069
+2069-2070
+2070-2071
+2071-2072
+2072-2073
+2073-2074
+2074-2075
+2075-2076
+2076-2077
+2077-2078
+2078-2079
+2079-2080
+2080-2081
+2081-2082
+2082-2083
+2083-2084
+2084-2085
+2085-2086
+2086-2087
+2087-2088
+2088-2089
+2089-2090
+2090-2091
+2091-2092
+2092-2093
+2093-2094
+2094-2095
+2095-2096
+2096-2097
+2097-2098
+2098-2099
+2018-2019
+' or . = 'Select Available Financial Years
+2019-2020
+2020-2021
+2021-2022
+2022-2023
+2023-2024
+2024-2025
+2025-2026
+2026-2027
+2027-2028
+2028-2029
+2029-2030
+2030-2031
+2031-2032
+2032-2033
+2033-2034
+2034-2035
+2035-2036
+2036-2037
+2037-2038
+2038-2039
+2039-2040
+2040-2041
+2041-2042
+2042-2043
+2043-2044
+2044-2045
+2045-2046
+2046-2047
+2047-2048
+2048-2049
+2049-2050
+2050-2051
+2051-2052
+2052-2053
+2053-2054
+2054-2055
+2055-2056
+2056-2057
+2057-2058
+2058-2059
+2059-2060
+2060-2061
+2061-2062
+2062-2063
+2063-2064
+2064-2065
+2065-2066
+2066-2067
+2067-2068
+2068-2069
+2069-2070
+2070-2071
+2071-2072
+2072-2073
+2073-2074
+2074-2075
+2075-2076
+2076-2077
+2077-2078
+2078-2079
+2079-2080
+2080-2081
+2081-2082
+2082-2083
+2083-2084
+2084-2085
+2085-2086
+2086-2087
+2087-2088
+2088-2089
+2089-2090
+2090-2091
+2091-2092
+2092-2093
+2093-2094
+2094-2095
+2095-2096
+2096-2097
+2097-2098
+2098-2099
+2018-2019
+')]</value>
+      <webElementGuid>b3ca145f-ae2a-4518-ae0a-04bcbc7d2bb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

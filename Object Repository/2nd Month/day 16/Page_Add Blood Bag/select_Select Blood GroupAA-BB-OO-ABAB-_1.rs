@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Blood GroupAA-BB-OO-ABAB-_1</name>
+   <tag></tag>
+   <elementGuidId>9df99dd4-8919-47cc-a857-077e20b03542</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PatientBloodGroupId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PatientBloodGroupId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1c270973-20b4-4f00-b8fa-c7a19441ee96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>d29db45e-57f6-45b3-9242-2161e03cb400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2887157c-5846-4250-b1da-0a5e21cb837b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PatientBloodGroupId</value>
+      <webElementGuid>ec517630-c457-4d41-828f-c5e94171c3fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PatientBloodGroupId</value>
+      <webElementGuid>c5de739b-26a8-460b-9ce1-1a64bc2aaa39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>61fbef42-781a-44ce-93c5-b3c5bd02325f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>PatientBloodGroupId</value>
+      <webElementGuid>b8d0e6d4-bafb-4d64-b099-62cc7374b47d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Blood Group
+A+
+A-
+B+
+B-
+O+
+O-
+AB+
+AB-
+</value>
+      <webElementGuid>4bfa66e8-f065-4c46-bfb9-30efd77d9f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PatientBloodGroupId&quot;)</value>
+      <webElementGuid>767edde5-0039-4634-807a-c1cd0b597795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PatientBloodGroupId']</value>
+      <webElementGuid>5881ef84-abfd-446a-a045-6540a91514fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='AddBloodBagForm']/div[2]/div[4]/div[3]/div/div[2]/div/select</value>
+      <webElementGuid>b2f91f01-db2a-4a4e-8cd0-ca0c14d23ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::select[1]</value>
+      <webElementGuid>44728272-28d6-42d7-ab56-6041163e4e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Blood Group'])[4]/preceding::select[1]</value>
+      <webElementGuid>1685b04f-46ee-4e0c-bcfb-67f7c466dfe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Blood Group'])[5]/preceding::select[1]</value>
+      <webElementGuid>b859921b-d0cf-40dd-9f0d-9992cf1c5f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/div[2]/div/select</value>
+      <webElementGuid>e5919115-ff1b-4918-ad55-07937430fdb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PatientBloodGroupId' and @name = 'PatientBloodGroupId' and (text() = 'Select Blood Group
+A+
+A-
+B+
+B-
+O+
+O-
+AB+
+AB-
+' or . = 'Select Blood Group
+A+
+A-
+B+
+B-
+O+
+O-
+AB+
+AB-
+')]</value>
+      <webElementGuid>4d1551e5-6196-45aa-ac3b-7ca202a1de9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

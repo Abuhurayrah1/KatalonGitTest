@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_File Cover White</name>
+   <tag></tag>
+   <elementGuidId>23f264cc-adf1-4f36-b0a2-c5434b20eead</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@value='bb828f2a-58ce-4e4b-bd59-9d176ff408ff']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span[value=&quot;bb828f2a-58ce-4e4b-bd59-9d176ff408ff&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9dd1b97b-fd98-4070-a142-06d38f023890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>bb828f2a-58ce-4e4b-bd59-9d176ff408ff</value>
+      <webElementGuid>b0dde8eb-ab71-4584-b1b3-5c0c88db3d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>File Cover White</value>
+      <webElementGuid>a8e207f2-1240-4793-a0bf-afdee99e2692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-NewMedicineName-results&quot;)/li[@class=&quot;select2-results__option select2-results__option--highlighted&quot;]/span[1]</value>
+      <webElementGuid>38a8b785-a253-42a7-a7d5-0ab022d77db4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@value='bb828f2a-58ce-4e4b-bd59-9d176ff408ff']</value>
+      <webElementGuid>edbcfcd7-1ff5-4a44-be67-b72dba0d510d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-NewMedicineName-results']/li[2]/span</value>
+      <webElementGuid>bdea1a15-b3dd-4dd2-a3b4-088eea0ebbf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Searching…'])[1]/following::span[1]</value>
+      <webElementGuid>4d0aec58-335c-4994-9ef7-e856967e61cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uniball'])[1]/preceding::span[3]</value>
+      <webElementGuid>be447873-6e6e-4450-a9ee-1f5e6e0a5316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='File Cover White']/parent::*</value>
+      <webElementGuid>ef2a5611-8514-47ed-84f1-aab6e22568a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span</value>
+      <webElementGuid>f7dc46c4-a167-4488-b5f5-830be56cba63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'File Cover White' or . = 'File Cover White')]</value>
+      <webElementGuid>9764335d-5f14-4b3a-9392-c48e62ab2c3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

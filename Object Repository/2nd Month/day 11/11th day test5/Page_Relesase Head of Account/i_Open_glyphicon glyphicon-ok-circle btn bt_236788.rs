@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Open_glyphicon glyphicon-ok-circle btn bt_236788</name>
+   <tag></tag>
+   <elementGuidId>79d48771-5652-4ec8-ad98-ba06f0c14b26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-ok-circle.btn.btn-lg.btn-clean.btn-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='BudgetReleaseSetupMainDataTable']/tbody/tr/td[8]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>15ce56ed-42d3-4a23-9123-b1f7a53225c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-ok-circle btn btn-lg btn-clean btn-icon</value>
+      <webElementGuid>3fa45b86-d624-4cbc-8d57-ece81c71c2a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BudgetReleaseSetupMainDataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]/a[@class=&quot;Action btn_approve&quot;]/i[@class=&quot;glyphicon glyphicon-ok-circle btn btn-lg btn-clean btn-icon&quot;]</value>
+      <webElementGuid>301b4305-719d-4b01-979c-b42cb1676d73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='BudgetReleaseSetupMainDataTable']/tbody/tr/td[8]/a/i</value>
+      <webElementGuid>a05f386a-c0ff-4e88-8b14-510c8fa2ee3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a/i</value>
+      <webElementGuid>33ef7cb3-6439-4386-bcdf-8a1c8ac30f11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

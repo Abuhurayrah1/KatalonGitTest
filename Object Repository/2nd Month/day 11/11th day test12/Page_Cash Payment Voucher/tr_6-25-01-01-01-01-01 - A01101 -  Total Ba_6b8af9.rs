@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_6-25-01-01-01-01-01 - A01101 -  Total Ba_6b8af9</name>
+   <tag></tag>
+   <elementGuidId>324007ce-c538-4871-97fb-3612bc3d0aca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.odd.AssetAccountNameHighlight6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dtVoucherDetail']/tbody/tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>161fcc11-c2c8-441d-bc40-d3d605162dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>ba4b6595-f5f4-49af-b951-13be699180b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>odd AssetAccountNameHighlight6</value>
+      <webElementGuid>21a7ffba-779b-48a6-adc8-4374840e3f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6-25-01-01-01-01-01 - A01101 -  Total Basic Pay of Officers ( 138084000 )</value>
+      <webElementGuid>fc54ee72-8194-4496-a5a9-416c520c9057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dtVoucherDetail&quot;)/tbody[1]/tr[@class=&quot;odd AssetAccountNameHighlight6&quot;]</value>
+      <webElementGuid>5d8ee4bc-9abf-4f39-aa65-9d390bf25810</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dtVoucherDetail']/tbody/tr</value>
+      <webElementGuid>b121edeb-3043-41fb-9608-9a138b03d5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::tr[1]</value>
+      <webElementGuid>7756f111-e573-4da9-b103-5c3177a1fb6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/following::tr[1]</value>
+      <webElementGuid>2de5efb0-37de-4fe8-962c-6397aca5a5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs 0'])[1]/preceding::tr[1]</value>
+      <webElementGuid>499da3bf-8746-437d-aed2-87cd96e037d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr</value>
+      <webElementGuid>674c350b-23f4-47f6-9c6c-961deb1af88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = '6-25-01-01-01-01-01 - A01101 -  Total Basic Pay of Officers ( 138084000 )' or . = '6-25-01-01-01-01-01 - A01101 -  Total Basic Pay of Officers ( 138084000 )')]</value>
+      <webElementGuid>8675b08a-b0e1-4b5d-86de-1349dccee81b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

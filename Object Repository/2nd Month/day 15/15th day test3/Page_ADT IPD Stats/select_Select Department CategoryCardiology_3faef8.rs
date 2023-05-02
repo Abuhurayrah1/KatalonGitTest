@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Department CategoryCardiology_3faef8</name>
+   <tag></tag>
+   <elementGuidId>1f45ab06-7c8d-4b4b-961c-9f4bc392b73b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DepartmentCatgeroyId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DepartmentCatgeroyId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0626b98f-6474-4862-98bb-1176a83374dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>97350e54-5a2b-4b38-9ba9-7475ee1e5fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>559cfd42-95ed-4eab-a75a-8ed6f2e1682c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DepartmentCatgeroyId</value>
+      <webElementGuid>da0463a4-1279-43da-9fdb-65b995b6d31a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>DepartmentCatgeroyId</value>
+      <webElementGuid>00a0968d-ca93-4e12-972e-b641d6ea5e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>6ff1f2ba-b1ec-46d9-87e4-747dae2c710d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Department Category
+Cardiology(Dept)
+Department
+</value>
+      <webElementGuid>e3c85e5e-4061-427c-b1fb-7e71e60dea75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DepartmentCatgeroyId&quot;)</value>
+      <webElementGuid>168eda4d-9203-4630-b9e4-a906e23fbe78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DepartmentCatgeroyId']</value>
+      <webElementGuid>6dd6035b-f23a-40b1-a947-5a3e7aba2279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AddDivId']/div[3]/div/div/div/div[2]/div[2]/div/select</value>
+      <webElementGuid>7bb246d7-3a4a-4e28-a17d-2f8c3fa20ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department Category:'])[1]/following::select[1]</value>
+      <webElementGuid>d255b210-fbe9-49e0-8276-ba396ac455ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>409b098f-0549-4235-bca6-6b544bbd2342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Department Category'])[2]/preceding::select[1]</value>
+      <webElementGuid>1d4bc697-dfef-415f-afee-b5fbd5a3938e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Department Category'])[3]/preceding::select[1]</value>
+      <webElementGuid>12f55c86-3888-49cc-9eec-b8ce7cb7d1bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>eec5f2ec-aa04-49e4-b20c-74010c479a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DepartmentCatgeroyId' and @name = 'DepartmentCatgeroyId' and (text() = 'Select Department Category
+Cardiology(Dept)
+Department
+' or . = 'Select Department Category
+Cardiology(Dept)
+Department
+')]</value>
+      <webElementGuid>aa85ccfe-5463-4147-825e-0e70b3388dd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

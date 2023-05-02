@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>dbb8695b-93c1-46ac-ae4e-e59dc89ce7bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='WorkingSessionForm']/div[5]/div[2]/div[3]/label[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>18ea516d-59e1-4529-b790-3b4d17c21893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;WorkingSessionForm&quot;)/div[@class=&quot;col-md-12 form-group row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;pull-left&quot;]/label[@class=&quot;kt-checkbox kt-checkbox--brand&quot;]/span[1]</value>
+      <webElementGuid>b3c72c6e-3f28-4565-a625-942249bf8b8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='WorkingSessionForm']/div[5]/div[2]/div[3]/label[2]/span</value>
+      <webElementGuid>1e2564c8-09b1-4a78-9dbb-179caa28f0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label[2]/span</value>
+      <webElementGuid>4a62e460-1633-42a7-b4a2-1a87024ead06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

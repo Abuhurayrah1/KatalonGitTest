@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overdue Report</name>
+   <tag></tag>
+   <elementGuidId>b51dbd77-8e9f-4699-b5f6-0eedd89325a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BookingDetail_Wrapper']/div[6]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c762a3f1-d80b-4d30-8cac-d891613b6bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ibox float-e-margins</value>
+      <webElementGuid>b9a84a4d-6b9b-49c3-8378-ce31bf5cbe8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                                                        Overdue Report                                                         </value>
+      <webElementGuid>d6e3cd39-ea1e-4137-b50f-17be245d85c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BookingDetail_Wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 col-md-3 col-sm-3 col-xs-12 DetailBox&quot;]/div[@class=&quot;ibox float-e-margins&quot;]</value>
+      <webElementGuid>17b9469d-f9e5-4671-8c2d-d3d1118c192e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BookingDetail_Wrapper']/div[6]/div[2]/div</value>
+      <webElementGuid>a8bd4971-fd68-4289-8684-d8cbb01049ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIP Booking Report'])[2]/following::div[2]</value>
+      <webElementGuid>8ab630e7-3e9c-4f35-bb99-249a77e104bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panel/Entitle Patients Visits'])[3]/following::div[8]</value>
+      <webElementGuid>58dfde0f-df86-4712-8906-fcea11b0c4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collective Share Summary'])[2]/preceding::div[4]</value>
+      <webElementGuid>8d3ad029-873b-4660-9b3c-a4081f993d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div</value>
+      <webElementGuid>1665712a-7b47-4b8d-a183-ecda38ed897f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '                                                                        Overdue Report                                                         ' or . = '                                                                        Overdue Report                                                         ')]</value>
+      <webElementGuid>37362545-b09b-428d-921b-cfdb2659b92b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

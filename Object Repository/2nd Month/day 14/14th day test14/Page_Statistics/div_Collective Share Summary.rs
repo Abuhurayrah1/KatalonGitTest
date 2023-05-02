@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Collective Share Summary</name>
+   <tag></tag>
+   <elementGuidId>d3a9c18d-5f5b-4d77-b502-a82054236d1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BookingDetail_Wrapper']/div[6]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3bc790fc-296d-4626-8940-76c67ad23dca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-3 col-md-3 col-sm-3 col-xs-12 DetailBox</value>
+      <webElementGuid>01efaf88-d12f-4d36-ac83-ae912547d34f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                                                                Collective Share Summary                                                             </value>
+      <webElementGuid>02f7677f-94b6-4e10-8568-a2ad3ed3580b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BookingDetail_Wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 col-md-3 col-sm-3 col-xs-12 DetailBox&quot;]</value>
+      <webElementGuid>853271ee-d608-4ead-8eb4-4075aa8f6ae9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BookingDetail_Wrapper']/div[6]/div[3]</value>
+      <webElementGuid>9ba3aab9-a4b7-44e2-a768-2659954534f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overdue Report'])[2]/following::div[1]</value>
+      <webElementGuid>7411f628-9833-4db6-8d1a-2fdb2acac196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIP Booking Report'])[2]/following::div[6]</value>
+      <webElementGuid>77d6d090-2119-4f48-b3c5-35f0944733f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIP Booking Report'])[3]/preceding::div[10]</value>
+      <webElementGuid>72faa813-eb66-4f70-9b84-2482b0029750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[3]</value>
+      <webElementGuid>0e758d12-82d0-412d-a393-336a8c80e02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '                                                                                Collective Share Summary                                                             ' or . = '                                                                                Collective Share Summary                                                             ')]</value>
+      <webElementGuid>3ace3147-0b61-43ca-b05d-73bb7dd74905</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Action_center datatable_amount Credit_65b4c2</name>
+   <tag></tag>
+   <elementGuidId>b0b54404-e7cc-4bc1-82c3-68b95e78c94b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fe6eef67-4a79-4ca2-b6de-b6d7b871e22a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeypress</name>
+      <type>Main</type>
+      <value>return isNumberKeyTable(event)</value>
+      <webElementGuid>642d7682-0205-4117-aaca-5ab162a3f0b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> center datatable_amount CreditAmount form-control</value>
+      <webElementGuid>21ed6498-34de-4065-8121-ffaee032985b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>999bad84-46a7-4fc1-8472-83cdd227af71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4db9c88d-6763-4f1b-afa6-6a6f337e533e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Credit Amount</value>
+      <webElementGuid>360169ec-a295-4197-bd6e-d67d87f4549f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dtVoucherDetail&quot;)/tbody[1]/tr[@class=&quot;odd AssetAccountNameHighlight6&quot;]/td[3]/div[1]/input[@class=&quot;center datatable_amount CreditAmount form-control&quot;]</value>
+      <webElementGuid>848ca4d4-3dd0-4260-8b5f-a238f004fde7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='0']</value>
+      <webElementGuid>032c6cb2-1e9e-4cf1-8475-ae4f62a7b14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dtVoucherDetail']/tbody/tr/td[3]/div/input</value>
+      <webElementGuid>836fc5c0-c873-4be6-9e56-8b3e4beb140f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/input</value>
+      <webElementGuid>59d5c73f-b40d-4916-a07c-6594295b93f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Credit Amount']</value>
+      <webElementGuid>8845e6f3-8d16-4889-afac-3adc997bb30d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

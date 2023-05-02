@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Blood GroupAA-BB-OO-ABAB-</name>
+   <tag></tag>
+   <elementGuidId>e6da6435-519e-409b-a161-85efb24743a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DonorBloodGroupId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DonorBloodGroupId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fadbaee9-5095-4100-99ac-98bf61f6b7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>32973a3a-2324-4b99-bafe-ce51eb251315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9b03c01d-7a81-4701-bf7a-7bb0f08bf77b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DonorBloodGroupId</value>
+      <webElementGuid>dceb94c0-a748-4209-9b84-2771b822b492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>DonorBloodGroupId</value>
+      <webElementGuid>52a4c224-7a56-4bae-8eeb-e1676a24c4a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>406406aa-cc25-46bd-a72e-85f0f1a82f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>DonorBloodGroupId</value>
+      <webElementGuid>3bad7dc6-cc98-497a-99c0-fa049f213fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Blood Group
+A+
+A-
+B+
+B-
+O+
+O-
+AB+
+AB-
+</value>
+      <webElementGuid>a6e15583-1e74-467f-ac7a-000d75dfc739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DonorBloodGroupId&quot;)</value>
+      <webElementGuid>63eb3b45-3cc0-4430-8ebc-abd38840799e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DonorBloodGroupId']</value>
+      <webElementGuid>0eb1e692-834f-4b09-8e48-08f9185ce7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PatientRegistrationForm']/div/div[2]/div[8]/div/div[2]/div/select</value>
+      <webElementGuid>94031a2f-dc6d-4e56-82a3-570ff940e50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::select[1]</value>
+      <webElementGuid>70fd41da-1431-4957-9a61-d34e1ca40512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Blood Group'])[2]/preceding::select[1]</value>
+      <webElementGuid>7ef2af47-6de3-405a-9ec9-b6a6a856ee1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Blood Group'])[3]/preceding::select[1]</value>
+      <webElementGuid>a1dd6c43-bf5f-4544-ab6f-22efa47cef64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div/select</value>
+      <webElementGuid>eba93b39-90a6-4e08-bd3b-c6c229d48005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DonorBloodGroupId' and @name = 'DonorBloodGroupId' and (text() = 'Select Blood Group
+A+
+A-
+B+
+B-
+O+
+O-
+AB+
+AB-
+' or . = 'Select Blood Group
+A+
+A-
+B+
+B-
+O+
+O-
+AB+
+AB-
+')]</value>
+      <webElementGuid>74f7eefc-b53c-4589-8ff3-c1fbc4388ad7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

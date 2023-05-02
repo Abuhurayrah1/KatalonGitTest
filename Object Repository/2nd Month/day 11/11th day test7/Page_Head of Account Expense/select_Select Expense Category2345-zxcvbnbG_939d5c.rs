@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select Expense Category2345-zxcvbnbG_939d5c</name>
+   <tag></tag>
+   <elementGuidId>a929159d-0d92-4613-b73d-94f873fa7e4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#BudgetSetupExpenseCategoryId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='BudgetSetupExpenseCategoryId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5c3d226c-d576-4a91-bcf8-e7a6001bd307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectpicker form-control</value>
+      <webElementGuid>93f406db-5993-40bd-8117-01bdff183f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-live-search</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bbc6518b-d838-4de7-b147-f8f0323b08f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BudgetSetupExpenseCategoryId</value>
+      <webElementGuid>5c1c2125-641a-457d-9e3e-7a362c8ab742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>BudgetSetupExpenseCategoryId</value>
+      <webElementGuid>4762ba23-4a23-41fc-8fd4-749373f3aaab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-98</value>
+      <webElementGuid>cddc2eaa-4444-4111-a9e0-b946622dc889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bv-field</name>
+      <type>Main</type>
+      <value>BudgetSetupExpenseCategoryId</value>
+      <webElementGuid>0368e588-6315-47fb-b180-a722d12679ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Expense Category
+2345-zxcvbnb
+Gen-General
+</value>
+      <webElementGuid>f66fa005-670c-45b3-9fa1-45fcc30a6bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BudgetSetupExpenseCategoryId&quot;)</value>
+      <webElementGuid>696ceb65-c894-443d-a33b-3ad43d2904fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='BudgetSetupExpenseCategoryId']</value>
+      <webElementGuid>f91a6517-dbf7-4dcc-a768-06109c768d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myDIV']/div/div/div[3]/div[2]/div/select</value>
+      <webElementGuid>162341bc-0ac1-41c1-b36f-eff097614099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>50751c88-aac3-4f48-854f-40f67bdae36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Expense Category'])[2]/preceding::select[1]</value>
+      <webElementGuid>fe2bcb0e-ab89-462e-b234-23f1c0c43d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Expense Category'])[3]/preceding::select[1]</value>
+      <webElementGuid>414dbd25-1b72-4a9b-9d9b-be76979ad4b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/select</value>
+      <webElementGuid>b2bf3138-a285-4e07-bae1-a638603040eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'BudgetSetupExpenseCategoryId' and @name = 'BudgetSetupExpenseCategoryId' and (text() = 'Select Expense Category
+2345-zxcvbnb
+Gen-General
+' or . = 'Select Expense Category
+2345-zxcvbnb
+Gen-General
+')]</value>
+      <webElementGuid>8bf56f4d-d631-43e1-9fda-e44c5b47e785</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
