@@ -22,7 +22,7 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/2nd Month/day 5/5th day test8/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
-    'badmin')
+    'model')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/2nd Month/day 5/5th day test8/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_password'), 
     'CSt51UwWECc=')
