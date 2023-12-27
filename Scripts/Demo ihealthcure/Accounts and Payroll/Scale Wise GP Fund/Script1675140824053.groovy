@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 23/23rd day test4/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -45,7 +45,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 23/23rd day test4/Pa
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 23/23rd day test4/Page_Scale Wise GP Funds/ul_Select 2019-20202020-20212021-20222022-2_2a771f'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 23/23rd day test4/Page_Scale Wise GP Funds/input__Amount'), '500')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 23/23rd day test4/Page_Scale Wise GP Funds/input__Amount'), 
+    '500')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 23/23rd day test4/Page_Scale Wise GP Funds/span_Select_1'))
 

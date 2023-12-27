@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -47,7 +47,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page
 WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/select_Select DepartmentAccountsAdmin  Secu_13f63c'), 
     '1507d8b1-03af-4aa0-b513-54d19576bbcc', true)
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/input__departments'), 'test sub department 01')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/input__departments'), 
+    'test sub department 01')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/button_Please Select'))
 
@@ -80,17 +81,19 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/span_Testfloor1'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/select_Testfloor1'), '66736408-c681-ed11-80e6-005056af7c10', 
-    true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/select_Testfloor1'), 
+    '66736408-c681-ed11-80e6-005056af7c10', true)
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/div_Please Select'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/select_Testroom1'), 'ded29614-c681-ed11-80e6-005056af7c10', 
-    true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/select_Testroom1'), 
+    'ded29614-c681-ed11-80e6-005056af7c10', true)
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/input_Code_ManualCode'), '001')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/input_Code_ManualCode'), 
+    '001')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/input_Description_description'), '01/03/2023')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/input_Description_description'), 
+    '01/03/2023')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test7/Page_Sub Departments/input_Please enter less than 1000 character_f2264f'))
 

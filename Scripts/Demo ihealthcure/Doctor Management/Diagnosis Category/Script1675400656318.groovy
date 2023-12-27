@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test5/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -37,7 +37,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 26/26th day test5/Pa
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 26/26th day test5/Page_DiagnosisCategory/button_Add Diagnosis Category'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test5/Page_DiagnosisCategory/input__NameId'), 'asd')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test5/Page_DiagnosisCategory/input__NameId'), 
+    'asd')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test5/Page_DiagnosisCategory/input_Description_DescriptionId'), 
     'asd')

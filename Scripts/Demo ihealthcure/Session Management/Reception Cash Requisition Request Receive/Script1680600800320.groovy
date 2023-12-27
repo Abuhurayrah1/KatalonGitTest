@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.click(findTestObject('Object Repository/2nd Month/day 13/13th day test23/Page_iHealthCure  Hospital Management and I_3c5153/form_(document).ready(function ()          _0c8444'))
 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_May 26, 2023 1120</name>
+   <tag></tag>
+   <elementGuidId>f9535bcb-3a33-4ad5-9229-b869073e4487</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='LabQueueTable']/tbody/tr[3]/td[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1025cf2d-9d5b-425a-b65d-7c40870b8148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> text-center</value>
+      <webElementGuid>74611d90-4d55-4d2a-8163-9804dcfc0f69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>May 26, 2023 11:20</value>
+      <webElementGuid>5113acc8-7f70-4381-afb8-fd2c270a4aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LabQueueTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>2941446e-2581-4b95-81d8-7333071b9ebd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='LabQueueTable']/tbody/tr[3]/td[10]</value>
+      <webElementGuid>0226c491-3dbd-4d4e-a05a-a8ee34637a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lab0223AAAC7302 [23-177]'])[1]/following::td[2]</value>
+      <webElementGuid>ab8fc073-8cf2-4e2b-aa0e-7a69686a85f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ready for Print'])[1]/following::td[3]</value>
+      <webElementGuid>266cb87e-d3b2-4132-8bcd-1c3d34a24333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete Blood Count'])[1]/preceding::td[6]</value>
+      <webElementGuid>d1b3e6df-e948-4103-8b07-ace061d3ed84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='May 26, 2023 11:20']/parent::*</value>
+      <webElementGuid>af11e0e4-1667-4153-8677-d934e9265f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[10]</value>
+      <webElementGuid>e281d459-fde8-4b25-986d-f86899ae1559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'May 26, 2023 11:20' or . = 'May 26, 2023 11:20')]</value>
+      <webElementGuid>76a93cf2-04b3-46ae-b5d2-ac0cd2e80b8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

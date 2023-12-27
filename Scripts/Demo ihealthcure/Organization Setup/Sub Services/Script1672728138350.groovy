@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -52,7 +52,8 @@ WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test9/Pa
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page_Sub Services/input_CPT Code_Code'), '0011')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page_Sub Services/input_Description_Description'), '01/03/2023')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page_Sub Services/input_Description_Description'), 
+    '01/03/2023')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page_Sub Services/input_Sample Code_SampleCollectionCode'), 
     '0011')
@@ -81,8 +82,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page
 WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page_Sub Services/select_Select Test Method24 hrs. creatinine_350910'), 
     'ca4c5159-a99d-4c92-ba48-5d2f30fd459d', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page_Sub Services/select_EquipmentService'), '732f6373-0452-e911-80cb-005056af7162', 
-    true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page_Sub Services/select_EquipmentService'), 
+    '732f6373-0452-e911-80cb-005056af7162', true)
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test9/Page_Sub Services/div_Service'))
 

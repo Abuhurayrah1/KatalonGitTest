@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -60,20 +60,25 @@ WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__lastName'), 'test')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__DateOfBirth'), '05/09/1999')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__DateOfBirth'), 
+    '05/09/1999')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__EmployeeNumber'), '0011')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__EmployeeNumber'), 
+    '0011')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__username'), 'tool')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__password'), 'CSt51UwWECc=')
+WebUI.setEncryptedText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__password'), 
+    'CSt51UwWECc=')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__confirmpassword'), 
     'CSt51UwWECc=')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__CNICNumber'), '37401-3456789-2')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__CNICNumber'), 
+    '37401-3456789-2')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__DateOfJoining'), '16/01/2022')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__DateOfJoining'), 
+    '16/01/2022')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/div_Please Select'))
 
@@ -105,7 +110,8 @@ WebUI.click(findTestObject('1st Month/day 17/17th day test2/Page_Add Employees/s
 
 WebUI.click(findTestObject('1st Month/day 17/17th day test2/Page_Add Employees/div_Can Close Resignation Application'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__CellNumber'), '031000000000000')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input__CellNumber'), 
+    '031000000000000')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 17/17th day test2/Page_Add Employees/input_Please enter a value with valid lengt_74315f'))
 

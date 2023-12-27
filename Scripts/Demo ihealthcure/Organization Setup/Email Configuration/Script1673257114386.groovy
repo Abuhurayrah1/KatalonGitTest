@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -35,15 +35,20 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 13/13th day test1/Pa
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_/span_Email Configuration'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__Server'), 'mail.ric.gop.pk')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__Server'), 
+    'mail.ric.gop.pk')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__Port'), '25')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__Port'), 
+    '25')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__Email'), 'noreply@ric.gop.pk')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__Email'), 
+    'noreply@ric.gop.pk')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__UserName'), 'noreply@ric.gop.pk')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__UserName'), 
+    'noreply@ric.gop.pk')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__Password'), '0egG5nc3xmWxkaeLZcpYxQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input__Password'), 
+    '0egG5nc3xmWxkaeLZcpYxQ==')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 13/13th day test1/Page_Email Configuration/input_Please Enter Password_UpdateBtn'))
 

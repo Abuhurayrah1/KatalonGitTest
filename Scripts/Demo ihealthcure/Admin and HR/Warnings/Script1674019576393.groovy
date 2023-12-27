@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 19/19th day test13/Page_iHealthCure  Hospital Management and I_3c5153/div_Warning Notification are not enabled in_9dfad1'))
 
@@ -41,7 +41,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 19/19th day test13/P
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 19/19th day test13/Page_Warning/div_Select User'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 19/19th day test13/Page_Warning/input_Select User_form-control'), 'ambar')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 19/19th day test13/Page_Warning/input_Select User_form-control'), 
+    'ambar')
 
 WebUI.click(findTestObject('1st Month/day 19/19th day test11/Page_Explanation/span_37201-5892405-0Miss Ambar Sultan'))
 

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 24/24th day test9/24th day test9/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -43,9 +43,11 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 24/24th day test9/Pa
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 24/24th day test9/Page_Employee Expenses/ul_Select 82401-2464218-9Mr. Sajid Mehmoodd_a291c0'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 24/24th day test9/Page_Employee Expenses/input_Title_Title'), 'asd')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 24/24th day test9/Page_Employee Expenses/input_Title_Title'), 
+    'asd')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 24/24th day test9/Page_Employee Expenses/input__Amount'), '500')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 24/24th day test9/Page_Employee Expenses/input__Amount'), 
+    '500')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 24/24th day test9/Page_Employee Expenses/input__Month'))
 

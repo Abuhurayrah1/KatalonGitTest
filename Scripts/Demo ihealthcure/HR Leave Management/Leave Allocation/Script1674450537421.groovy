@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 21/21st day test6/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -43,7 +43,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 21/21st day test6/Pa
 
 WebUI.click(findTestObject('1st Month/day 21/21st day test6/Page_Leave Allocation/ul_Select Leave TypeExtra Ordinary Leave'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 21/21st day test6/Page_Leave Allocation/input__AllocatedDays'), '10')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 21/21st day test6/Page_Leave Allocation/input__AllocatedDays'), 
+    '10')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 21/21st day test6/Page_Leave Allocation/input_Please enter a valid number_btn btn-primary'))
 

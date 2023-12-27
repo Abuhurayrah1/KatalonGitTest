@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 16/16th day test1/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -35,12 +35,14 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 16/16th day test1/Pa
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 16/16th day test1/Page_Individual Packages/button_Add Package'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 16/16th day test1/Page_Individual Packages/input__Name'), 'test package')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 16/16th day test1/Page_Individual Packages/input__Name'), 
+    'test package')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 16/16th day test1/Page_Individual Packages/input_Description_Description'), 
     'asd')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 16/16th day test1/Page_Individual Packages/input__Total'), '500')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 16/16th day test1/Page_Individual Packages/input__Total'), 
+    '500')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 16/16th day test1/Page_Individual Packages/div_All Medicines Free_col-md-10'))
 

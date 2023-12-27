@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 30/30th day test16/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -45,7 +45,8 @@ WebUI.setText(findTestObject('Object Repository/1st Month/day 30/30th day test16
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 30/30th day test16/Page_Age Range/input__Label'), 'asd')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 30/30th day test16/Page_Age Range/input_Description_Description'), 'asd')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 30/30th day test16/Page_Age Range/input_Description_Description'), 
+    'asd')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 30/30th day test16/Page_Age Range/div_Select Gender'))
 
@@ -61,7 +62,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 30/30th day test16/P
 WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 30/30th day test16/Page_Age Range/select_Select Age TypeSecondMinuteHourDayMonthYear'), 
     '95ac3d33-e8aa-e711-80c1-a0b3cce147ba', true)
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 30/30th day test16/Page_Age Range/input_Age Range_MinAge'), '5')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 30/30th day test16/Page_Age Range/input_Age Range_MinAge'), 
+    '5')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 30/30th day test16/Page_Age Range/input_Please enter age  greater than 0_MaxAge'), 
     '10')

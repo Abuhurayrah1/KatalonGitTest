@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -39,7 +39,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page
 
 WebUI.click(findTestObject('1st Month/day 9/9th day test3/Page_Room/ul_Select BuildingModel PharmacyRawalpindi Institute Of CardiologyTest 1Test 2Test1Test2Test3'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page_Bed/input_Description_Description'), '01/03/2023')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page_Bed/input_Description_Description'), 
+    '01/03/2023')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page_Bed/div_Maximum Range'))
 
@@ -54,8 +55,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page_Bed/span_Once'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page_Bed/select_Select TypeOncePeriodic'), '97ac3d33-e8aa-e711-80c1-a0b3cce147ba', 
-    true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page_Bed/select_Select TypeOncePeriodic'), 
+    '97ac3d33-e8aa-e711-80c1-a0b3cce147ba', true)
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test4/Page_Bed/input_Please enter a value with valid lengt_2a43da'))
 

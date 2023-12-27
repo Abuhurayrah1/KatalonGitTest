@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -48,15 +48,18 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 26/26th day test1/Pa
 WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/select_Select TitleMr.Mrs.MissDr.Prof.Not A_e0dd14'), 
     'c1b03d33-e8aa-e711-80c1-a0b3cce147ba', true)
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/input__FirstName'), 'asd')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/input__FirstName'), 
+    'asd')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/input__CNICNumber'), '32132-6549765-2')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/input__CNICNumber'), 
+    '32132-6549765-2')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/input__yb'), '52')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/input__Address'), 'asd')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/input__CellNumber'), '03123213212')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/input__CellNumber'), 
+    '03123213212')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 26/26th day test1/Page_Patients Queue/button_Submit'))
 

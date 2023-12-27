@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -61,19 +61,20 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/div_Please Select'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/select_Testfloor1'), '66736408-c681-ed11-80e6-005056af7c10', 
-    true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/select_Testfloor1'), 
+    '66736408-c681-ed11-80e6-005056af7c10', true)
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/div_Testfloor1'))
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/div_Please Select'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/select_Testroom1'), 'ded29614-c681-ed11-80e6-005056af7c10', 
-    true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/select_Testroom1'), 
+    'ded29614-c681-ed11-80e6-005056af7c10', true)
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/div_Testroom1'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/input_Description_description'), '01/03/2023')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/input_Description_description'), 
+    '01/03/2023')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 9/9th day test6/Page_Departments/input__Amount'), '0200')
 

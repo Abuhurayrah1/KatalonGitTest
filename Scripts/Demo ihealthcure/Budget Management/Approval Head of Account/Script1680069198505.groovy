@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.click(findTestObject('Object Repository/2nd Month/day 11/11th day test4/Page_iHealthCure  Hospital Management and I_3c5153/div_Warning Notification are not enabled in_9dfad1'))
 

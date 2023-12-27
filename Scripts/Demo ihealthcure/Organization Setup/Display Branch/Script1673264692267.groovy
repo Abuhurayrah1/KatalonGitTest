@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -39,13 +39,17 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 13/13th day test7/Pa
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input__Name'), 'asd')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input_Address_Address'), 'asd')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input_Address_Address'), 
+    'asd')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input_Telephone No_TelNo'), '05100000000')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input_Telephone No_TelNo'), 
+    '05100000000')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input_Timing_Timing'), '800')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input_Timing_Timing'), 
+    '800')
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input_Description_Description'), 'asd')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input_Description_Description'), 
+    'asd')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 13/13th day test7/Page_Display Branch/input_Description_btn btn-primary'))
 

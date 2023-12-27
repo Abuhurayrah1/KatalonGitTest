@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 25/25th day test4/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -38,7 +38,8 @@ WebUI.setText(findTestObject('Object Repository/1st Month/day 25/25th day test4/
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 25/25th day test4/Page_Patient Monitory/input_CNICMR No_SearchBtn'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 25/25th day test4/Page_Patient Monitory/textarea__Remarks'), 'asd')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 25/25th day test4/Page_Patient Monitory/textarea__Remarks'), 
+    'asd')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 25/25th day test4/Page_Patient Monitory/input_Please Enter Remarks_AddMonitory'))
 

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://demo.ihealthcure.com/Account/LogIn?ReturnUrl=%2f')
+WebUI.navigateToUrl('https://model.ihealthcure.com/Account/Login')
 
 WebUI.setText(findTestObject('Object Repository/1st Month/day 23/23rd day test7/Page_iHealthCure  Hospital Management and I_3c5153/input_Sign In_username'), 
     'badmin')
@@ -59,7 +59,8 @@ WebUI.click(findTestObject('Object Repository/1st Month/day 23/23rd day test7/Pa
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 23/23rd day test7/Page_Salary Stages/ul_Select Salary Stage Year2023202220172016_bbb60a'))
 
-WebUI.setText(findTestObject('Object Repository/1st Month/day 23/23rd day test7/Page_Salary Stages/input__SalarySatage'), '5')
+WebUI.setText(findTestObject('Object Repository/1st Month/day 23/23rd day test7/Page_Salary Stages/input__SalarySatage'), 
+    '5')
 
 WebUI.click(findTestObject('Object Repository/1st Month/day 23/23rd day test7/Page_Salary Stages/input_Please enter a value less than or equ_294814'))
 
